@@ -1,0 +1,11 @@
+# Environments
+.env
+venv/
+ENV/
+env.bak/
+env1/
+env2/
+
+
+.cache-leshe
+
