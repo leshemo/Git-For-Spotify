@@ -6,6 +6,7 @@ import sys
 from dotenv import dotenv_values
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+import os
 
 
 logger = logging.getLogger("discovered-weekly")
@@ -26,19 +27,43 @@ def main():
         config["REDIRECT_URI"],
         config["USERNAME"],
         config["REFRESH_TOKEN"],
-    )
+    )   
 
-    playlist_date, dw_uris = parse_this_week(
-        client, config["DISCOVER_WEEKLY_PLAYLIST_ID"]
-    )
-    logger.info(f"Found this week's playlist for {playlist_date}")
-    logger.info("Adding to all time playlist")
-    add_to_all_time_playlist(client, dw_uris, config["ALL_DISCOVERED_PLAYLIST_ID"])
+    playlist_tracks = get_playlist_tracks(client,config["JAZZ_ELECTRONIC"])
 
-    logger.info("Adding to the weekly archive")
-    add_to_weekly_archive(client, config["USERNAME"], playlist_date, dw_uris)
+    playlist_string = ""
+    for track in playlist_tracks:
+        track_name = track["track"]["name"]
+        track_artists = ", ".join([artist["name"] for artist in track["track"]["artists"]])
+        album_name = track["track"]["album"]["name"]
+        date_added = dt.datetime.strptime(track["added_at"], "%Y-%m-%dT%H:%M:%S%z").strftime("%Y-%m-%d")
+        track_uri = track["track"]["uri"]
+        playlist_string += f"{track_name} - {track_artists} - {album_name} - {date_added} - {track_uri}\n"
+    print(playlist_string)
 
-    logger.info("Done discover weekly archiving")
+
+    filename = "Jazz_electronic.txt"
+
+    if not os.path.exists(filename):
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(playlist_string)
+
+
+
+
+
+
+    # playlist_date, dw_uris = parse_this_week(
+    #     client, config["DISCOVER_WEEKLY_PLAYLIST_ID"]
+    # )
+    # logger.info(f"Found this week's playlist for {playlist_date}")
+    # logger.info("Adding to all time playlist")
+    # add_to_all_time_playlist(client, dw_uris, config["ALL_DISCOVERED_PLAYLIST_ID"])
+
+    # logger.info("Adding to the weekly archive")
+    # add_to_weekly_archive(client, config["USERNAME"], playlist_date, dw_uris)
+
+    # logger.info("Done discover weekly archiving")
 
 
 def load_client(client_id, client_secret, redirect_uri, username, refresh_token):
@@ -55,6 +80,14 @@ def load_client(client_id, client_secret, redirect_uri, username, refresh_token)
     client = spotipy.Spotify(auth_manager=auth_manager)
     return client
 
+#get tracks of one playlist, given a particular playlist id, accounting for the fact that my playlists are over 100 tracks long
+def get_playlist_tracks(client,playlist_id):
+    results = client.playlist_tracks(playlist_id)
+    tracks = results['items']
+    while results['next']:
+        results = client.next(results)
+        tracks.extend(results['items'])
+    return tracks
 
 def parse_this_week(client, discover_weekly_playlist_id):
 
