@@ -1,7 +1,4 @@
-#client id (DELETE BEFORE PUSH): e81fb96183a84cb58038ec1fd9909d57
-#client secret (DELETE BEFORE PUSH): df161f8030744be1a92450dbb4f6a1cc
-#Access token: BQDQUCPi-Z7brwPTrMv8s26Hol5sA4ugFTueMwlWtTgxMhgfslDtCe3dPgnx4LTkFTxs4art6e0YJLhXnbb9e0g1hMgDIAO7G6IZSEOeH1X7xxk13go
-#curl Req for access token: curl -X POST "https://accounts.spotify.com/api/token" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=client_credentials&client_id=e81fb96183a84cb58038ec1fd9909d57&client_secret=df161f8030744be1a92450dbb4f6a1cc"
+#curl Req for access token: curl -X POST "https://accounts.spotify.com/api/token" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=client_credentials&client_id=CLIENT-ID&client_secret=CLIENT-SECRET"
 #my user id: 1el8m6u0rmvz8u6qc5eajnxu0
 
 
