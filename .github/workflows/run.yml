@@ -43,8 +43,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add -A
-        git restore --stage .cache-1el8m6u0rmvz8u6qc5eajnxu0
+        git add *.md
         git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
               
     - name: push changes
