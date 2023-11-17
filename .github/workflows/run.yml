@@ -33,6 +33,9 @@ jobs:
         REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
         REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
         USERNAME: ${{ secrets.USERNAME }}
+        RAP: ${{ secrets.RAP }}
+        JAZZ_ELECTRONIC: ${{ secrets.JAZZ_ELECTRONIC }}
+        EVERYTHING_ELSE: ${{ secrets.EVERYTHING_ELSE }}
       run: |
         python playlist_history.py
 
