@@ -70,7 +70,7 @@ def create_markdown_file(playlist_name, playlist_tracks):
         track_uri = track["track"]["uri"]
         playlist_string += f"| {i+1} | {track_name} | {track_artists} | {album_name} | {date_added} | <sub>{track_uri}</sub> |\n"
 
-    filename = f"{playlist_name}.md"
+    filename = f"History\{playlist_name}.md"
 
     if not os.path.exists(filename):
         with open(filename, "w", encoding="utf-8") as f:
