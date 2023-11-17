@@ -1,10 +1,10 @@
 name: discovered-weekly
 
 on:
-  workflow_dispatch:
   schedule: 
-   # Run every Tuesday at 0 UTC
+    # run every day
     - cron: '0 0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
