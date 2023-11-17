@@ -29,7 +29,7 @@ def main():
         config["REFRESH_TOKEN"],
     )   
 
-    for playlist_name in "Rap", "Jazz_Electronic", "Everything_Else":
+    for playlist_name in "RAP", "JAZZ_ELECTRONIC", "EVERYTHING_ELSE":
         playlist_tracks = get_playlist_tracks(client,config[playlist_name])
         logger.info(f"Found {len(playlist_tracks)} tracks in playlist: {playlist_name}.")
         create_markdown_file(playlist_name, playlist_tracks)
