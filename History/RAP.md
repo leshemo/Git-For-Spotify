@@ -724,3 +724,4 @@
 | 721 | Simple Life | Skepta, Sam Frank | Blacklisted | 2023-11-14 | <sub>spotify:track:1cDLyaFDWUjab3x0pI2oPT</sub> |
 | 722 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
 | 723 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
+| 724 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
