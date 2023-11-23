@@ -725,3 +725,4 @@
 | 722 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
 | 723 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
 | 724 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
+| 725 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
