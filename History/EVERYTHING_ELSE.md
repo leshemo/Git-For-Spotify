@@ -237,3 +237,4 @@
 | 234 | For the First Time | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:2R4AlwtrrkMaRKojcTIzmL</sub> |
 | 235 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
 | 236 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
+| 237 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
