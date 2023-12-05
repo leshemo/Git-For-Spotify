@@ -722,3 +722,4 @@
 | 719 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
 | 720 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
 | 721 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
+| 722 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
