@@ -643,3 +643,4 @@
 | 640 | WEIGHT OFF | KAYTRANADA, BADBADNOTGOOD | 99.9% | 2023-11-13 | <sub>spotify:track:12s6FjStmOwWJrh0yalbKC</sub> |
 | 641 | YOU'RE THE ONE | KAYTRANADA, Syd | 99.9% | 2023-11-13 | <sub>spotify:track:70kdJnm1X6eEM8DbWa8Mnc</sub> |
 | 642 | 40oz | Polyphia | The Most Hated | 2023-11-30 | <sub>spotify:track:3v3VFa7Dt32gNR27jfw7DG</sub> |
+| 643 | Magpie | Lava La Rue | Butter-Fly | 2023-12-10 | <sub>spotify:track:65gFD5pX5zfIDxMLkfJwyP</sub> |
