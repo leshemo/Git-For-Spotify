@@ -238,3 +238,5 @@
 | 235 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
 | 236 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
 | 237 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
+| 238 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
+| 239 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
