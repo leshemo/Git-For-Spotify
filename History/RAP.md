@@ -724,3 +724,5 @@
 | 721 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
 | 722 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
 | 723 | leavemealone | Fred again.., Baby Keem | leavemealone | 2023-12-11 | <sub>spotify:track:1MVqeIAwhD4T44AKVkIfic</sub> |
+| 724 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
+| 725 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
