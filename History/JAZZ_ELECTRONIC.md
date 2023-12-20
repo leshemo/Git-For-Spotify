@@ -644,3 +644,5 @@
 | 641 | YOU'RE THE ONE | KAYTRANADA, Syd | 99.9% | 2023-11-13 | <sub>spotify:track:70kdJnm1X6eEM8DbWa8Mnc</sub> |
 | 642 | 40oz | Polyphia | The Most Hated | 2023-11-30 | <sub>spotify:track:3v3VFa7Dt32gNR27jfw7DG</sub> |
 | 643 | Magpie | Lava La Rue | Butter-Fly | 2023-12-10 | <sub>spotify:track:65gFD5pX5zfIDxMLkfJwyP</sub> |
+| 644 | Taste | KAYTRANADA, VanJess | BUBBA | 2023-12-19 | <sub>spotify:track:0BrNxl46Vnt1Ln8jVJFktl</sub> |
+| 645 | Teen Scene (ft. Buddy) | Maeta, Buddy | Habits | 2023-12-19 | <sub>spotify:track:3cyw3MYxhpCSPMawfqdFNk</sub> |

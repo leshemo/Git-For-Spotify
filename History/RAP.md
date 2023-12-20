@@ -727,3 +727,5 @@
 | 724 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
 | 725 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
 | 726 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
+| 727 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
+| 728 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
