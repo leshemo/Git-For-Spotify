@@ -241,3 +241,4 @@
 | 238 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
 | 239 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
 | 240 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
+| 241 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
