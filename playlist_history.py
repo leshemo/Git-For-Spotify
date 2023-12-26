@@ -29,15 +29,24 @@ def main():
         config["REFRESH_TOKEN"],
     )   
 
+    #Run the update saved album functions
+    saved_albums = get_saved_albums(client)
+    logger.info(f"Found {len(saved_albums)} saved albums.")
+    create_saved_albums_markdown_file(saved_albums)
+    logger.info("Finished daily saved album logging.")
+
+
+
+    # Run the update playlist functions    
     for playlist_name in "RAP", "JAZZ_ELECTRONIC", "EVERYTHING_ELSE":
         playlist_tracks = get_playlist_tracks(client,config[playlist_name])
         logger.info(f"Found {len(playlist_tracks)} tracks in playlist: {playlist_name}.")
-        create_markdown_file(playlist_name, playlist_tracks)
+        create_playlist_markdown_file(playlist_name, playlist_tracks)
     logger.info("Finished daily playlist logging.")
 
 
 def load_client(client_id, client_secret, redirect_uri, username, refresh_token):
-    scopes = ["playlist-read-private", "playlist-modify-private"]
+    scopes = ["playlist-read-private", "playlist-modify-private", "user-library-read"]
     # Authenticate
     auth_manager = SpotifyOAuth(
         scope=scopes,
@@ -59,9 +68,18 @@ def get_playlist_tracks(client,playlist_id):
         tracks.extend(results['items'])
     return tracks
 
+#get all the saved albums on my account
+def get_saved_albums(client):
+    results = client.current_user_saved_albums()
+    albums = results['items']
+    while results['next']:
+        results = client.next(results)
+        albums.extend(results['items'])
+    return albums
+
 #Creates or updates a markdown file for a given playlist
-def create_markdown_file(playlist_name, playlist_tracks):
-    playlist_string = "## Playlist Title \n|No. | Title | Artist(s) | Album | Date added | URI |\n |:--|:--|:--|:--|:--|:--|\n"
+def create_playlist_markdown_file(playlist_name, playlist_tracks):
+    playlist_string = f"## {playlist_name} \n|No. | Title | Artist(s) | Album | Date added | URI |\n |:--|:--|:--|:--|:--|:--|\n"
     for i, track in enumerate(playlist_tracks):
         track_name = track["track"]["name"].replace("|", "-")
         track_artists = ", ".join([artist["name"] for artist in track["track"]["artists"]]).replace("|", "-")
@@ -87,6 +105,37 @@ def create_markdown_file(playlist_name, playlist_tracks):
             else:
                 logger.info(f"No changes were found.")
                 logger.info(f"The {playlist_name} playlist has not been updated.")
+
+#Creates a markdown file for the saved albums
+def create_saved_albums_markdown_file(saved_albums):
+    saved_albums_string = f"## Saved Albums \n|No. | Title | Artist(s) | Date added | URI |\n |:--|:--|:--|:--|:--|\n"
+    saved_albums = sorted(saved_albums, key=lambda album: album['added_at'])
+    for i, album in enumerate(saved_albums):
+        album_name = album["album"]["name"].replace("|", "-")
+        album_artists = ", ".join([artist["name"] for artist in album["album"]["artists"]]).replace("|", "-")
+        date_added = dt.datetime.strptime(album["added_at"], "%Y-%m-%dT%H:%M:%S%z").strftime("%Y-%m-%d")
+        album_uri = album["album"]["uri"]
+        saved_albums_string += f"| {i+1} | {album_name} | {album_artists} | {date_added} | <sub>{album_uri}</sub> |\n"
+
+    filename = f"History/Saved Albums.md"
+
+    if not os.path.exists(filename):
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(saved_albums_string)
+            logger.info(f"No exisitng file found. A Saved Albums playlist has been created.")
+    else:
+        with open(filename, "r+", encoding="utf-8") as f:
+            existing = f.read()
+            if existing != saved_albums_string:
+                f.seek(0)
+                f.write(saved_albums_string)
+                f.truncate()
+                logger.info(f"The Saved Albums playlist has been updated.")
+            else:
+                logger.info(f"No changes were found.")
+                logger.info(f"The Saved Albums playlist has not been updated.")
+
+
 
 
 # def parse_this_week(client, discover_weekly_playlist_id):
