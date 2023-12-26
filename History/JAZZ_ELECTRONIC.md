@@ -1,4 +1,4 @@
-## Playlist Title 
+## JAZZ_ELECTRONIC 
 |No. | Title | Artist(s) | Album | Date added | URI |
  |:--|:--|:--|:--|:--|:--|
 | 1 | Them Changes | Thundercat | Drunk | 2021-11-13 | <sub>spotify:track:7CH99b2i1TXS5P8UUyWtnM</sub> |
