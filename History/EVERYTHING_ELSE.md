@@ -26,215 +26,210 @@
 | 23 | Automatic Stop | The Strokes | Room On Fire | 2018-02-15 | <sub>spotify:track:6DUKQUhWqUySYngLXLNwP2</sub> |
 | 24 | Take Me Out | Franz Ferdinand | Franz Ferdinand | 2018-02-16 | <sub>spotify:track:6ooluO7DiEhI1zmK94nRCM</sub> |
 | 25 | Pumped Up Kicks | Foster The People | Torches | 2018-02-16 | <sub>spotify:track:7w87IxuO7BDcJ3YUqCyMTT</sub> |
-| 26 | Houdini | Foster The People | Torches | 2018-02-16 | <sub>spotify:track:5Fli1xRi01bvCjsZvKWro0</sub> |
-| 27 | Don't Stop (Color on the Walls) | Foster The People | Torches | 2018-02-16 | <sub>spotify:track:4HRa9ZWcmZ8JD7UySPu0wT</sub> |
-| 28 | Sweet Disposition | The Temper Trap | Conditions | 2018-02-16 | <sub>spotify:track:5RoIXwyTCdyUjpMMkk4uPd</sub> |
-| 29 | Everybody Talks | Neon Trees | Picture Show (Deluxe Edition) | 2018-02-16 | <sub>spotify:track:3528IXKpbb7OMjdjWYlbfD</sub> |
-| 30 | Steady, As She Goes | The Raconteurs | Broken Boy Soldiers | 2018-02-16 | <sub>spotify:track:19iqWNzp5LwEdvntpEK8MP</sub> |
-| 31 | Level | The Raconteurs | Broken Boy Soldiers | 2018-02-16 | <sub>spotify:track:4iwChnVkJz2STSniIn3QMR</sub> |
-| 32 | Here It Goes Again | OK Go | Oh No | 2018-02-16 | <sub>spotify:track:1pHP4JeQV9wDx87D6qH9hD</sub> |
-| 33 | Intro | The xx | xx | 2018-02-16 | <sub>spotify:track:0DAsxISzun85PbsqAfIzeC</sub> |
-| 34 | Trojans | Atlas Genius | When It Was Now (Deluxe Edition) | 2018-02-16 | <sub>spotify:track:4AyoAGuhE8gydBPrczuhbl</sub> |
-| 35 | Stolen Dance | Milky Chance | Sadnecessary | 2018-02-16 | <sub>spotify:track:6vECYJHxYmm3Ydt3fF01pE</sub> |
-| 36 | Walking On A Dream | Empire of the Sun | Walking On A Dream | 2018-02-16 | <sub>spotify:track:0mBkoM8r7KAQzZij5swTUL</sub> |
-| 37 | 1901 | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:5JtPGzRgrWxkXX9LoROq3d</sub> |
-| 38 | Lisztomania | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:6ZrlXT6mUMEgomN128iekU</sub> |
-| 39 | If I Ever Feel Better | Phoenix | United | 2018-02-16 | <sub>spotify:track:3AA8xNhDC0MpqwkGX3EP5V</sub> |
-| 40 | Entertainment | Phoenix | Bankrupt! | 2018-02-16 | <sub>spotify:track:16cITuCC0GPy6Zq1eluYaj</sub> |
-| 41 | Ain't No Rest for the Wicked | Cage The Elephant | Cage The Elephant | 2018-02-16 | <sub>spotify:track:3kb72STxc2959ZqsTwu52i</sub> |
-| 42 | Cigarettes In The Theatre | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:4M1xxMtl43A2JBMYLeF9Gg</sub> |
-| 43 | Undercover Martyn | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:2jnvdMCTvtdVCci3YLqxGY</sub> |
-| 44 | Do You Want It All? | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:72dqefIxolwyCPj035ZpSf</sub> |
-| 45 | I Can Talk | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:6q9o34l9jRBiICBJidG9TZ</sub> |
-| 46 | Believe | The Bravery | The Sun And The Moon | 2018-02-16 | <sub>spotify:track:4Wvr1YaxNsCujq77dKujys</sub> |
-| 47 | Gettysburg | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:4UiLR6XySIF6ocpJgDKBjv</sub> |
-| 48 | Loud Pipes | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:5ZrrXIYTvjXPKVQMjqaumR</sub> |
-| 49 | Nostrand | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:1w2b7yH3BlYMzDGN3QNQra</sub> |
-| 50 | Wildcat | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:4EBisBBehGON4ESJsNZBsP</sub> |
-| 51 | Bohemian Rhapsody - Remastered 2011 | Queen | A Night At The Opera (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7tFiyTwD0nx5a1eklYtX2J</sub> |
-| 52 | Don't Stop Me Now - Remastered 2011 | Queen | Jazz (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7hQJA50XrCWABAu5v6QZ4i</sub> |
-| 53 | We Are The Champions - Remastered 2011 | Queen | News Of The World (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7ccI9cStQbQdystvc6TvxD</sub> |
-| 54 | I Want To Break Free - Remastered 2011 | Queen | The Works (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7h2yhVxcZOGyQdOwD4Hu8J</sub> |
-| 55 | Everlong | Foo Fighters | The Colour And The Shape | 2018-02-16 | <sub>spotify:track:5UWwZ5lm5PKu6eKsHAGxOk</sub> |
-| 56 | Diamond Hoo Ha Man | Supergrass | Diamond Hoo Ha | 2018-02-16 | <sub>spotify:track:3ZJAp1N2Stlo2ixvn9rmuM</sub> |
-| 57 | Sad Girl | Supergrass | Road To Rouen | 2018-02-16 | <sub>spotify:track:1s37sQJSSsv7WHnhKhTLH1</sub> |
-| 58 | Late In The Day | Supergrass | In It For The Money | 2018-02-16 | <sub>spotify:track:1iFxbfPvNYHHjmmPDM4esJ</sub> |
-| 59 | Caught By The Fuzz - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:3q0M5KKKsbm1OwmbpOc7Sj</sub> |
-| 60 | Mansize Rooster - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:7jKUUUxel8NbQfyjf9UOwv</sub> |
-| 61 | Alright - 2015 - Remaster | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:4b72opnmqln1tJUxGZBkGA</sub> |
-| 62 | Lose It - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:7Atu81BpY3kZgJZwmBYiAF</sub> |
-| 63 | Lonely Boy | The Black Keys | El Camino | 2018-02-16 | <sub>spotify:track:5G1sTBGbZT5o4PNRc75RKI</sub> |
-| 64 | Tighten Up | The Black Keys | Brothers | 2018-02-16 | <sub>spotify:track:2MVwrvjmcdt4MsYYLCYMt8</sub> |
-| 65 | Debaser | Pixies | Doolittle | 2018-02-16 | <sub>spotify:track:3FzKPS0oVknVlCW3PhxIHl</sub> |
-| 66 | Where Is My Mind? | Pixies | Surfer Rosa (Remastered) | 2018-02-16 | <sub>spotify:track:6mcxQ1Y3uQRU0IHsvdNLH1</sub> |
-| 67 | Only Happy When It Rains | Garbage | Absolute Garbage | 2018-02-16 | <sub>spotify:track:0c1iL21nLuQNZTWiijOZUG</sub> |
-| 68 | I Think I'm Paranoid | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:5GH5Nj9ObeMbuLHeLxM2Kk</sub> |
-| 69 | The Trick Is To Keep Breathing | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:5Vtcx6FFW7B6CUUXrldSKZ</sub> |
-| 70 | Wicked Ways | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:4qwBpI4zDvS450TzwtTkmw</sub> |
-| 71 | Gimme Shelter | The Rolling Stones | Let It Bleed | 2018-02-16 | <sub>spotify:track:6H3kDe7CGoWYBabAeVWGiD</sub> |
-| 72 | Sympathy For The Devil | The Rolling Stones | Beggars Banquet | 2018-02-16 | <sub>spotify:track:1iDcKYNvo6gglrOG6lvnHL</sub> |
-| 73 | Paint It, Black | The Rolling Stones | Aftermath | 2018-02-16 | <sub>spotify:track:63T7DJ1AFDD6Bn8VzG6JE8</sub> |
-| 74 | Just like Heaven | The Cure | Kiss Me, Kiss Me, Kiss Me | 2018-02-16 | <sub>spotify:track:76GlO5H5RT6g7y0gev86Nk</sub> |
-| 75 | A Hard Day's Night - Remastered 2015 | The Beatles | 1 (Remastered) | 2018-02-16 | <sub>spotify:track:1pctwlBtIcKIjQMzsVcGHB</sub> |
-| 76 | I Want To Hold Your Hand - Remastered 2015 | The Beatles | 1 (Remastered) | 2018-02-16 | <sub>spotify:track:4pbG9SUmWIvsROVLF0zF9s</sub> |
-| 77 | Voodoo Child (Slight Return) | Jimi Hendrix | Electric Ladyland | 2018-07-12 | <sub>spotify:track:2AxCeJ6PSsBYiTckM0HLY7</sub> |
-| 78 | U​ ​Never​ ​Call​ ​Me | Jadu Heart, Mura Masa | U​ ​Never​ ​Call​ ​Me | 2018-07-21 | <sub>spotify:track:7KZGfZQbCRrVpPrvUX1Hha</sub> |
-| 79 | Immigrant Song - Remaster | Led Zeppelin | Led Zeppelin III (Remaster) | 2018-07-21 | <sub>spotify:track:78lgmZwycJ3nzsdgmPPGNx</sub> |
-| 80 | Stairway to Heaven - Remaster | Led Zeppelin | Led Zeppelin IV (Deluxe Edition) | 2018-07-21 | <sub>spotify:track:5CQ30WqJwcep0pYcV4AMNc</sub> |
-| 81 | Whole Lotta Love - 1990 Remaster | Led Zeppelin | Led Zeppelin II (1994 Remaster) | 2018-07-21 | <sub>spotify:track:0hCB0YR03f6AmQaHbwWDe8</sub> |
-| 82 | Do I Wanna Know? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:5FVd6KXrgO9B3JPmC8OPst</sub> |
-| 83 | R U Mine? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:2AT8iROs4FQueDv2c8q2KE</sub> |
-| 84 | (I Can't Get No) Satisfaction - Mono Version | The Rolling Stones | Out Of Our Heads | 2018-08-01 | <sub>spotify:track:2PzU4IB8Dr6mxV3lHuaG34</sub> |
-| 85 | Beast Of Burden - Remastered 1994 | The Rolling Stones | Some Girls | 2018-08-01 | <sub>spotify:track:77oU2rjC5XbjQfNe3bD6so</sub> |
-| 86 | Teardrop | Massive Attack, Elizabeth Fraser | Mezzanine | 2018-09-30 | <sub>spotify:track:67Hna13dNDkZvBpTXRIaOJ</sub> |
-| 87 | Paradise Circus | Massive Attack | Heligoland | 2018-09-30 | <sub>spotify:track:2BndJYJQ17UcEeUFJP5JmY</sub> |
-| 88 | Glory Box | Portishead | Dummy | 2018-09-30 | <sub>spotify:track:3Ty7OTBNSigGEpeW2PqcsC</sub> |
-| 89 | Crazy | Gnarls Barkley | St. Elsewhere | 2019-02-18 | <sub>spotify:track:2N5zMZX7YeL1tico8oQxa9</sub> |
-| 90 | The Evil Has Landed | Queens of the Stone Age | Villains | 2019-02-19 | <sub>spotify:track:763LDHO3wYOI7GzXS7uBwU</sub> |
-| 91 | Go With The Flow | Queens of the Stone Age | Songs For The Deaf | 2019-02-24 | <sub>spotify:track:45DElIx0dXqUH4A88yQFdE</sub> |
-| 92 | House Of The Rising Sun | The Animals | The Animals | 2019-03-22 | <sub>spotify:track:7BY005dacJkbO6EPiOh2wb</sub> |
-| 93 | Around the World | Daft Punk | Homework | 2019-05-08 | <sub>spotify:track:1pKYYY0dkg23sQQXi0Q5zN</sub> |
-| 94 | Sunshine Of Your Love | Cream | Disraeli Gears | 2019-05-29 | <sub>spotify:track:6FRwDxXsvSasw0y2eDArsz</sub> |
-| 95 | Feel Good Inc. | Gorillaz | Demon Days | 2019-05-29 | <sub>spotify:track:0d28khcov6AiegSCpG5TuT</sub> |
-| 96 | Money | Pink Floyd | The Dark Side of the Moon | 2019-05-29 | <sub>spotify:track:0vFOzaXqZHahrZp6enQwQb</sub> |
-| 97 | Another Brick in the Wall, Pt. 2 | Pink Floyd | The Wall | 2019-05-29 | <sub>spotify:track:4gMgiXfqyzZLMhsksGmbQV</sub> |
-| 98 | She's Not There | The Zombies | Begin Here | 2019-05-30 | <sub>spotify:track:3dzW0SoVNyJTWWJimX8stj</sub> |
-| 99 | Rocket Man (I Think It's Going To Be A Long, Long Time) | Elton John | Honky Chateau | 2019-06-29 | <sub>spotify:track:3gdewACMIVMEWVbyb8O9sY</sub> |
-| 100 | I'm Still Standing | Elton John | Too Low For Zero | 2019-06-29 | <sub>spotify:track:1jDJFeK9x3OZboIAHsY9k2</sub> |
-| 101 | Strange Ones | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:0vPepcVQ3aYlkhTtfCBg89</sub> |
-| 102 | She's So Loose | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:294BfoD9CPpQ57lxKAalOx</sub> |
-| 103 | Time | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:1TAU8ZSZc3nu4JhaPadyfS</sub> |
-| 104 | Going Out | Supergrass | In It For The Money | 2019-08-05 | <sub>spotify:track:11nBivWLLI07YgCP1z4KDb</sub> |
-| 105 | I'd Like To Know | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:66KKHqWcjAgQi2iGFwBiTZ</sub> |
-| 106 | Caught By the Fuzz | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:0iAcyO7WLhnC7WOTOpjGv1</sub> |
-| 107 | Mansize Rooster | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:5afa3W4rCWxEWeXW3hWMRe</sub> |
-| 108 | Alright | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:5xC8uOesnn0udeXAYlAnoY</sub> |
-| 109 | Lose It | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:3zUS56FvsxCIyXdnlJ3896</sub> |
-| 110 | Lenny | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:28Zeh6S7YqHabnKurm39IE</sub> |
-| 111 | Sitting Up Straight | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:6SWS8H4nUiVZCyULZdhBX1</sub> |
-| 112 | Sofa Of My Lethargy | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:2xmvZFubrZBrpiHPUhs6Ns</sub> |
-| 113 | Time To Go | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:07nPTI9Gf96MLwlsaKKQmK</sub> |
-| 114 | You Can See Me | Supergrass | In It For The Money | 2019-08-05 | <sub>spotify:track:3QY4iGvSy75UFAZdn3cxjm</sub> |
-| 115 | I Am The Walrus - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2019-08-16 | <sub>spotify:track:6Pq9MmkDQYZiiCDpxnvrf6</sub> |
-| 116 | Our House | Crosby, Stills, Nash & Young | Deja Vu | 2019-08-17 | <sub>spotify:track:2hitsKa8SthKhRJBXUHbIv</sub> |
-| 117 | Fallin' | Alicia Keys | Songs In A Minor (Expanded Edition) | 2019-10-06 | <sub>spotify:track:3unsLiH5FXmaDWtT5Imolu</sub> |
-| 118 | everything i wanted | Billie Eilish | everything i wanted | 2019-11-15 | <sub>spotify:track:3ZCTVFBt2Brf31RLEnCkWJ</sub> |
-| 119 | G-Song | Supergrass | In It For The Money | 2019-11-29 | <sub>spotify:track:7Klaee4PufpjLfGRtDHjjo</sub> |
-| 120 | Richard III - 4 Track Demo | Supergrass | Richard III (4 Track Demo) | 2019-11-29 | <sub>spotify:track:3wiKgyj7KIH3xNA8WpfpjO</sub> |
-| 121 | Moving | Supergrass | Supergrass | 2019-11-29 | <sub>spotify:track:1Xo5IcDLNOEpcB1RM4mBNF</sub> |
-| 122 | Tales of Endurance, Pt. 4, 5 & 6 | Supergrass | Road To Rouen | 2019-12-02 | <sub>spotify:track:0kAFTd3dWytNQPVF18jCIv</sub> |
-| 123 | Sun Hits The Sky | Supergrass | In It For The Money | 2019-12-03 | <sub>spotify:track:0mIZErjrNQzOTDtn4UYflo</sub> |
-| 124 | In It For The Money | Supergrass | In It For The Money | 2019-12-07 | <sub>spotify:track:0nqerN9NwalPoWTvIXxxTA</sub> |
-| 125 | Odd? | Supergrass | In It For The Money | 2019-12-08 | <sub>spotify:track:6C4u6sscp4ea8bZiCUPyjU</sub> |
-| 126 | It's Not Me | Supergrass | In It For The Money | 2019-12-17 | <sub>spotify:track:6jFtSDzhbhbJKTkdkuH3fH</sub> |
-| 127 | Social Cues | Cage The Elephant | Social Cues | 2020-01-08 | <sub>spotify:track:1KuVdyg8d6NlRhbpHxg5UF</sub> |
-| 128 | The Way You Used to Do | Queens of the Stone Age | Villains | 2020-01-13 | <sub>spotify:track:1wsnCfewxZlCs7cJxkaMZM</sub> |
-| 129 | Domesticated Animals | Queens of the Stone Age | Villains | 2020-01-13 | <sub>spotify:track:5NbMimOzRykGsE1tVHDtKV</sub> |
-| 130 | No One Knows | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:6NvRxjfYkkT2SpirAlmsjH</sub> |
-| 131 | The Sky Is Fallin' | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:3hoUASQwAAUwpQGXH8VioM</sub> |
-| 132 | Hanging Tree | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:0CCCRAKJHgvhMK3RzsisiI</sub> |
-| 133 | Summertime Sadness | Lana Del Rey | Born To Die - The Paradise Edition | 2020-01-14 | <sub>spotify:track:2dBwB667LHQkLhdYlwLUZK</sub> |
-| 134 | Gonna Leave You | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:5taBpQ59lvb2NLGDdbDQbB</sub> |
-| 135 | Still Don't Know My Name | Labrinth | Euphoria (Original Score from the HBO Series) | 2020-03-19 | <sub>spotify:track:6N22FZs2ZhPBYi3b9XPajV</sub> |
-| 136 | Blinding Lights | The Weeknd | Blinding Lights | 2020-03-21 | <sub>spotify:track:0sf12qNH5qcw8qpgymFOqD</sub> |
-| 137 | After Hours | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:4ejyZ4uJEXUURcgKp1kP8v</sub> |
-| 138 | Alone Again | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:6b5P51m8xx2XA6U7sdNZ5E</sub> |
-| 139 | Redbone | Childish Gambino | "Awaken, My Love!" | 2020-03-24 | <sub>spotify:track:0wXuerDYiBnERgIpbb3JBR</sub> |
-| 140 | Jerk It Out | Caesars | Love For The Streets | 2020-06-14 | <sub>spotify:track:5XMjXjwCkJVmk0AHm7z8IV</sub> |
-| 141 | While My Guitar Gently Weeps - 2018 Mix | The Beatles | The Beatles | 2020-07-08 | <sub>spotify:track:0ZqSsO2xoVvcrhpiRuqCmt</sub> |
-| 142 | Eleanor Rigby - Remastered 2015 | The Beatles | 1 (Remastered) | 2020-07-08 | <sub>spotify:track:0Wv8IXRUDZOfmFJHC1VOFI</sub> |
-| 143 | Strawberry Fields Forever - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2020-07-08 | <sub>spotify:track:3Am0IbOxmvlSXro7N5iSfZ</sub> |
-| 144 | Megaboss | The Funky Knuckles | Delicious | 2020-09-09 | <sub>spotify:track:4H4ZUzwqPgSOti1B6Q5oay</sub> |
-| 145 | Improv #1 (Pt. I Outro) | Brasstracks, Robert Glasper | For Those Who Know (Deluxe) | 2020-09-09 | <sub>spotify:track:4S6UPmpmoU4JbLdphoOTXH</sub> |
-| 146 | Memories (feat. Kid Cudi) | David Guetta, Kid Cudi | One Love (Deluxe) | 2020-11-18 | <sub>spotify:track:4dTaAiV9xFFCxnPur9c9yL</sub> |
-| 147 | Feeling Good | Nina Simone | I Put A Spell On You | 2020-11-20 | <sub>spotify:track:6Rqn2GFlmvmV4w9Ala0I1e</sub> |
-| 148 | 10% | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
-| 149 | Culture | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
-| 150 | GONE, GONE / THANK YOU | Tyler, The Creator | IGOR | 2020-12-28 | <sub>spotify:track:1hz7SRTGUNAtIQ46qiNv2p</sub> |
-| 151 | Think About Things | Daði Freyr | Think About Things | 2021-03-06 | <sub>spotify:track:2iRniYXjMHKmwXqA2jYXP7</sub> |
-| 152 | TVA - From "Loki"/Score | Natalie Holt | TVA (From "Loki") | 2021-06-27 | <sub>spotify:track:6YnoM7vjNoilLxWRslJ1d4</sub> |
-| 153 | Little Dark Age | MGMT | Little Dark Age | 2021-10-29 | <sub>spotify:track:2Y0iGXY6m6immVb2ktbseM</sub> |
-| 154 | Weightless | Marconi Union | The Ambient Zone Just Music Cafe Vol 4 | 2021-11-24 | <sub>spotify:track:6kkwzB6hXLIONkEk9JciA6</sub> |
-| 155 | Why'd You Only Call Me When You're High? | Arctic Monkeys | AM | 2021-12-21 | <sub>spotify:track:086myS9r57YsLbJpU0TgK9</sub> |
-| 156 | Song 2 - 2012 Remaster | Blur | Blur (Special Edition) | 2022-03-23 | <sub>spotify:track:1FTSo4v6BOZH9QxKc3MbVM</sub> |
-| 157 | Cracker Island (feat. Thundercat) | Gorillaz, Thundercat | Cracker Island (feat. Thundercat) | 2022-06-25 | <sub>spotify:track:2W3ZpQg9i6lE6kmHbcdu9N</sub> |
-| 158 | Deceptacon | Le Tigre | Le Tigre | 2022-08-30 | <sub>spotify:track:5773KSWFzg9kCc8yazjbSt</sub> |
-| 159 | New Gold (feat. Tame Impala and Bootie Brown) | Gorillaz, Tame Impala, Bootie Brown | New Gold (feat. Tame Impala and Bootie Brown) | 2022-09-06 | <sub>spotify:track:64dLd6rVqDLtkXFYrEUHIU</sub> |
-| 160 | Me and Your Mama | Childish Gambino | "Awaken, My Love!" | 2022-10-07 | <sub>spotify:track:31tf1qEai5o5f4r66Kd0pU</sub> |
-| 161 | Fantasy | Earth, Wind & Fire | All 'N All | 2022-11-05 | <sub>spotify:track:2GH5jo15wbTv1Ll7zXEzSg</sub> |
-| 162 | שירת הסטיקר 2019 | Hadag Nahash, Firqat Alnoor | שירת הסטיקר 2019 | 2022-12-27 | <sub>spotify:track:7vrM6gSFwKLlWsr6ZYQjhi</sub> |
-| 163 | לא מוותר | Hadag Nahash | המכונה של הגרוב | 2022-12-27 | <sub>spotify:track:64hgE6tpdju5feSAz7ozMO</sub> |
-| 164 | Santa Barbara | Benny Sings, Nataly Dawn | Santa Barbara | 2023-01-12 | <sub>spotify:track:5HYPU0x0lbMfMyCASETzK5</sub> |
-| 165 | the ride- | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:04HeNxRRVjcwctfp2K2kMu</sub> |
-| 166 | running out of time | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7zy7iE31dGO70ShMXghsfj</sub> |
-| 167 | pRETTy | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6vDyzD9o8aYhR1963oJpkO</sub> |
-| 168 | WE SAW THE SUN! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7FqH4CO8H5j9EXHKTBP7xE</sub> |
-| 169 | drive ME crazy! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6luBKkFUt5wTwz7hpLhp12</sub> |
-| 170 | IVE OFFICIALLY LOST ViSiON!!!! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:4PXuZYWhkyGXQzfSRy2PW1</sub> |
-| 171 | sAy sOMETHINg | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:1G7wqLzQQ3tveTYHcO5uVN</sub> |
-| 172 | paint THE sky | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:2lHMX3XlQgGbawYFtSZ3Si</sub> |
-| 173 | The Alchemist. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:3Hjvju1zzBXkkpUHvHk8Js</sub> |
-| 174 | REACH THE SUNSHINE. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:0t8YVhiyInlDW9cHtMGhJg</sub> |
-| 175 | Memento Mori (feat. Killstation) | Polyphia, Killstation | Remember That You Will Die | 2023-02-01 | <sub>spotify:track:7lftB3f1vir7xBnYzEnaUr</sub> |
-| 176 | Consideration | Rihanna, SZA | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6t90Z9XkdsHD8xMxro6KRP</sub> |
-| 177 | James Joint | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6K4Co1NQyOnoFEJMkZHkln</sub> |
-| 178 | Kiss It Better | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:0UHB9METy4VCXNgkcGqHqS</sub> |
-| 179 | Desperado | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:4mCf3vQf7z0Yseo0RxAi3V</sub> |
-| 180 | Woo | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:3HQcsqRjRdruUjkbDSgmVF</sub> |
-| 181 | Same Ol’ Mistakes | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6RtzmszGXs32TRhv5zTKNM</sub> |
-| 182 | Love On The Brain | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5oO3drDxtziYU2H1X23ZIp</sub> |
-| 183 | Close To You | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6D2tzc8kRnZb7P1lNwMBLH</sub> |
-| 184 | Goodnight Gotham | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5LJz7kmFhLqB53tmVWxig5</sub> |
-| 185 | Sex With Me | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:7BiELrM90hRxpozaIXbsLw</sub> |
-| 186 | Virtual Insanity - Remastered | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
-| 187 | white noise! (feat. cybertrash) | she loves boon, Cybertrash | white noise! (feat. cybertrash) | 2023-06-16 | <sub>spotify:track:4RZRRDbFDgxkf5hV2xizyr</sub> |
-| 188 | obstáculo | Tainy, Myke Towers | DATA | 2023-07-15 | <sub>spotify:track:3O4V8llGlOYtmZVoZi8U5v</sub> |
-| 189 | PASIEMPRE | Tainy, Arcángel, Jhayco, Myke Towers, Omar Courtz, Arca | DATA | 2023-07-15 | <sub>spotify:track:5NhLA2P7AiV3cloVmwtwLS</sub> |
-| 190 | MOJABI GHOST | Tainy, Bad Bunny | DATA | 2023-07-15 | <sub>spotify:track:4eMKD8MRroxCqugpsxCCNb</sub> |
-| 191 | 11 Y ONCE | Tainy, Sech, E.VAX | DATA | 2023-07-15 | <sub>spotify:track:1YUTTfAThKaxEYP9Zfv21V</sub> |
-| 192 | desde las 10 (KANY’S INTERLUDE) | Tainy, Kany García | DATA | 2023-07-15 | <sub>spotify:track:3kviwFPwSWwjgjRNBEBUSe</sub> |
-| 193 | mañana | Tainy, Young Miko, The Marías | DATA | 2023-07-15 | <sub>spotify:track:6eSlDHA3XYLha1e0z8I9DO</sub> |
-| 194 | BUENOS AIRES | Tainy, Mora, Zion | DATA | 2023-07-15 | <sub>spotify:track:1VCMkNBJtt1obiqIGRvla5</sub> |
-| 195 | me jodi... | Tainy, Arcángel | DATA | 2023-07-15 | <sub>spotify:track:6xntXCix5SxiEtv9zH7pXF</sub> |
-| 196 | VOLVER | Tainy, Skrillex, Four Tet, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:1ncGbGufa7aUaJ5zC4YP3y</sub> |
-| 197 | Lo Siento BB:/ | Tainy, Bad Bunny, Julieta Venegas | DATA | 2023-07-15 | <sub>spotify:track:4JtLrFUg0ff2x9TsXCgx76</sub> |
-| 198 | si preguntas por mi | Tainy, Kris Floyd, Judeline | DATA | 2023-07-15 | <sub>spotify:track:7z3rdMzhY122waIpkSsE7P</sub> |
-| 199 | Sci-Fi | Tainy, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:73dabjAcAF06vA4C1o16ta</sub> |
-| 200 | PARANORMAL | Tainy, Alvaro Diaz | DATA | 2023-07-15 | <sub>spotify:track:2m8V3evS07OnhatBWyh0Nt</sub> |
-| 201 | SACRIFICIO | Tainy, Xantos | DATA | 2023-07-15 | <sub>spotify:track:4ip9d4gpr7qni3OB1YYLSt</sub> |
-| 202 | S91 | KAROL G | S91 | 2023-07-18 | <sub>spotify:track:7EpOXgSRgnglRWr86pZfGU</sub> |
-| 203 | SI TE VAS | Tainy, Yandel, SAINt JHN | SI TE VAS | 2023-07-18 | <sub>spotify:track:5Xx66nNmEkP4pIB3NtXsYX</sub> |
-| 204 | LA FAMA | ROSALÍA, The Weeknd | MOTOMAMI | 2023-07-21 | <sub>spotify:track:6Y46tOTRhkBamosyuWa6YX</sub> |
-| 205 | From The Start | Laufey | From The Start | 2023-07-22 | <sub>spotify:track:1Ukxccao1BlWrPhYkcXbwZ</sub> |
-| 206 | BIZCOCHITO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:2RGIXMgdKl2t4zLqVYwPu4</sub> |
-| 207 | DIABLO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:19nu8H97D8j1G0bSwV5emP</sub> |
-| 208 | LA COMBI VERSACE | ROSALÍA, Tokischa | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:5OcFWC7ynhXNdLgJXRmCd9</sub> |
-| 209 | TKN (feat. Travis Scott) | ROSALÍA, Travis Scott | TKN (feat. Travis Scott) | 2023-07-27 | <sub>spotify:track:4w47S36wQGBhGg073q3nt7</sub> |
-| 210 | Paint The Town Red | Doja Cat | Paint The Town Red | 2023-08-17 | <sub>spotify:track:2IGMVunIBsBLtEQyoI1Mu7</sub> |
-| 211 | Back On 74 | Jungle | Back On 74 | 2023-09-05 | <sub>spotify:track:2xC3aQCmwgsW7ChDlJxLca</sub> |
-| 212 | All The Words We Don't Say | Hiatus Kaiyote | Mood Valiant | 2023-09-17 | <sub>spotify:track:5BfayLeEScEePDYXJCnvU1</sub> |
-| 213 | Chivalry Is Not Dead | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3STeMaQt9svi9EyB4BYrIc</sub> |
-| 214 | And We Go Gentle | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3PHgxKy3nKy0v9KvUtHl8g</sub> |
-| 215 | Get Sun (feat. Arthur Verocai) | Hiatus Kaiyote, Arthur Verocai | Mood Valiant | 2023-10-02 | <sub>spotify:track:5CBEzaNEuv3OO32kZoXgOX</sub> |
-| 216 | Red Room | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:55mvtucws4Mnro27744t9X</sub> |
-| 217 | Te Mata | Kali Uchis | Te Mata | 2023-10-23 | <sub>spotify:track:4kvDU8vfvxupVezsVPag5v</sub> |
-| 218 | A Night To Remember | beabadoobee, Laufey | A Night To Remember | 2023-10-23 | <sub>spotify:track:180AbZduI6bYQIzwCHRwu9</sub> |
-| 219 | Str8 Outta Mumbai | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:0mRtv3pnmPiN2mDMzYzWt2</sub> |
-| 220 | Zion Wolf Theme - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4gXzqH2l6fUxK0t3Zx6lUz</sub> |
-| 221 | Genevieve - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:72GKPVtBchtCDoL8LURCrB</sub> |
-| 222 | Jasmine - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:44LAHDPaM5dvkmmD5w1W84</sub> |
-| 223 | 100,000 - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4oEA3a7mE5bWNPi6ky4fcU</sub> |
-| 224 | Vibin' - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:5Yv2R7YzdGsbc2JNSlaqWb</sub> |
-| 225 | Desert River - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4ovaHVxywIqTsJL76Hogls</sub> |
-| 226 | All Night - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:3mp4xFRxiqMp9K7DlBiyqn</sub> |
-| 227 | BTSTU - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:59bvVhQYDomd4zc1gWYc3z</sub> |
-| 228 | On the Level | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4RpwQDPnn1GhWpZooUcCzd</sub> |
-| 229 | For the First Time | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:2R4AlwtrrkMaRKojcTIzmL</sub> |
-| 230 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
-| 231 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
-| 232 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
-| 233 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
-| 234 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
-| 235 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
-| 236 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
-| 237 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
+| 26 | Don't Stop (Color on the Walls) | Foster The People | Torches | 2018-02-16 | <sub>spotify:track:4HRa9ZWcmZ8JD7UySPu0wT</sub> |
+| 27 | Sweet Disposition | The Temper Trap | Conditions | 2018-02-16 | <sub>spotify:track:5RoIXwyTCdyUjpMMkk4uPd</sub> |
+| 28 | Steady, As She Goes | The Raconteurs | Broken Boy Soldiers | 2018-02-16 | <sub>spotify:track:19iqWNzp5LwEdvntpEK8MP</sub> |
+| 29 | Level | The Raconteurs | Broken Boy Soldiers | 2018-02-16 | <sub>spotify:track:4iwChnVkJz2STSniIn3QMR</sub> |
+| 30 | Here It Goes Again | OK Go | Oh No | 2018-02-16 | <sub>spotify:track:1pHP4JeQV9wDx87D6qH9hD</sub> |
+| 31 | Intro | The xx | xx | 2018-02-16 | <sub>spotify:track:0DAsxISzun85PbsqAfIzeC</sub> |
+| 32 | Trojans | Atlas Genius | When It Was Now (Deluxe Edition) | 2018-02-16 | <sub>spotify:track:4AyoAGuhE8gydBPrczuhbl</sub> |
+| 33 | Stolen Dance | Milky Chance | Sadnecessary | 2018-02-16 | <sub>spotify:track:6vECYJHxYmm3Ydt3fF01pE</sub> |
+| 34 | Walking On A Dream | Empire of the Sun | Walking On A Dream | 2018-02-16 | <sub>spotify:track:0mBkoM8r7KAQzZij5swTUL</sub> |
+| 35 | 1901 | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:5JtPGzRgrWxkXX9LoROq3d</sub> |
+| 36 | Lisztomania | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:6ZrlXT6mUMEgomN128iekU</sub> |
+| 37 | If I Ever Feel Better | Phoenix | United | 2018-02-16 | <sub>spotify:track:3AA8xNhDC0MpqwkGX3EP5V</sub> |
+| 38 | Entertainment | Phoenix | Bankrupt! | 2018-02-16 | <sub>spotify:track:16cITuCC0GPy6Zq1eluYaj</sub> |
+| 39 | Cigarettes In The Theatre | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:4M1xxMtl43A2JBMYLeF9Gg</sub> |
+| 40 | Undercover Martyn | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:2jnvdMCTvtdVCci3YLqxGY</sub> |
+| 41 | Do You Want It All? | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:72dqefIxolwyCPj035ZpSf</sub> |
+| 42 | I Can Talk | Two Door Cinema Club | Tourist History | 2018-02-16 | <sub>spotify:track:6q9o34l9jRBiICBJidG9TZ</sub> |
+| 43 | Believe | The Bravery | The Sun And The Moon | 2018-02-16 | <sub>spotify:track:4Wvr1YaxNsCujq77dKujys</sub> |
+| 44 | Gettysburg | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:4UiLR6XySIF6ocpJgDKBjv</sub> |
+| 45 | Loud Pipes | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:5ZrrXIYTvjXPKVQMjqaumR</sub> |
+| 46 | Nostrand | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:1w2b7yH3BlYMzDGN3QNQra</sub> |
+| 47 | Wildcat | Ratatat | Classics | 2018-02-16 | <sub>spotify:track:4EBisBBehGON4ESJsNZBsP</sub> |
+| 48 | Bohemian Rhapsody - Remastered 2011 | Queen | A Night At The Opera (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7tFiyTwD0nx5a1eklYtX2J</sub> |
+| 49 | Don't Stop Me Now - Remastered 2011 | Queen | Jazz (Deluxe Remastered Version) | 2018-02-16 | <sub>spotify:track:7hQJA50XrCWABAu5v6QZ4i</sub> |
+| 50 | Everlong | Foo Fighters | The Colour And The Shape | 2018-02-16 | <sub>spotify:track:5UWwZ5lm5PKu6eKsHAGxOk</sub> |
+| 51 | Diamond Hoo Ha Man | Supergrass | Diamond Hoo Ha | 2018-02-16 | <sub>spotify:track:3ZJAp1N2Stlo2ixvn9rmuM</sub> |
+| 52 | Sad Girl | Supergrass | Road To Rouen | 2018-02-16 | <sub>spotify:track:1s37sQJSSsv7WHnhKhTLH1</sub> |
+| 53 | Late In The Day | Supergrass | In It For The Money | 2018-02-16 | <sub>spotify:track:1iFxbfPvNYHHjmmPDM4esJ</sub> |
+| 54 | Caught By The Fuzz - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:3q0M5KKKsbm1OwmbpOc7Sj</sub> |
+| 55 | Mansize Rooster - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:7jKUUUxel8NbQfyjf9UOwv</sub> |
+| 56 | Alright - 2015 - Remaster | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:4b72opnmqln1tJUxGZBkGA</sub> |
+| 57 | Lose It - 2015 Remastered Version | Supergrass | I Should Coco (20th Anniversary Collector's Edition) | 2018-02-16 | <sub>spotify:track:7Atu81BpY3kZgJZwmBYiAF</sub> |
+| 58 | Lonely Boy | The Black Keys | El Camino | 2018-02-16 | <sub>spotify:track:5G1sTBGbZT5o4PNRc75RKI</sub> |
+| 59 | Tighten Up | The Black Keys | Brothers | 2018-02-16 | <sub>spotify:track:2MVwrvjmcdt4MsYYLCYMt8</sub> |
+| 60 | Debaser | Pixies | Doolittle | 2018-02-16 | <sub>spotify:track:3FzKPS0oVknVlCW3PhxIHl</sub> |
+| 61 | Where Is My Mind? | Pixies | Surfer Rosa (Remastered) | 2018-02-16 | <sub>spotify:track:6mcxQ1Y3uQRU0IHsvdNLH1</sub> |
+| 62 | Only Happy When It Rains | Garbage | Absolute Garbage | 2018-02-16 | <sub>spotify:track:0c1iL21nLuQNZTWiijOZUG</sub> |
+| 63 | I Think I'm Paranoid | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:5GH5Nj9ObeMbuLHeLxM2Kk</sub> |
+| 64 | The Trick Is To Keep Breathing | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:5Vtcx6FFW7B6CUUXrldSKZ</sub> |
+| 65 | Wicked Ways | Garbage | Version 2.0 (Remastered) | 2018-02-16 | <sub>spotify:track:4qwBpI4zDvS450TzwtTkmw</sub> |
+| 66 | Gimme Shelter | The Rolling Stones | Let It Bleed | 2018-02-16 | <sub>spotify:track:6H3kDe7CGoWYBabAeVWGiD</sub> |
+| 67 | Sympathy For The Devil | The Rolling Stones | Beggars Banquet | 2018-02-16 | <sub>spotify:track:1iDcKYNvo6gglrOG6lvnHL</sub> |
+| 68 | Paint It, Black | The Rolling Stones | Aftermath | 2018-02-16 | <sub>spotify:track:63T7DJ1AFDD6Bn8VzG6JE8</sub> |
+| 69 | Just like Heaven | The Cure | Kiss Me, Kiss Me, Kiss Me | 2018-02-16 | <sub>spotify:track:76GlO5H5RT6g7y0gev86Nk</sub> |
+| 70 | A Hard Day's Night - Remastered 2015 | The Beatles | 1 (Remastered) | 2018-02-16 | <sub>spotify:track:1pctwlBtIcKIjQMzsVcGHB</sub> |
+| 71 | I Want To Hold Your Hand - Remastered 2015 | The Beatles | 1 (Remastered) | 2018-02-16 | <sub>spotify:track:4pbG9SUmWIvsROVLF0zF9s</sub> |
+| 72 | Voodoo Child (Slight Return) | Jimi Hendrix | Electric Ladyland | 2018-07-12 | <sub>spotify:track:2AxCeJ6PSsBYiTckM0HLY7</sub> |
+| 73 | U​ ​Never​ ​Call​ ​Me | Jadu Heart, Mura Masa | U​ ​Never​ ​Call​ ​Me | 2018-07-21 | <sub>spotify:track:7KZGfZQbCRrVpPrvUX1Hha</sub> |
+| 74 | Immigrant Song - Remaster | Led Zeppelin | Led Zeppelin III (Remaster) | 2018-07-21 | <sub>spotify:track:78lgmZwycJ3nzsdgmPPGNx</sub> |
+| 75 | Stairway to Heaven - Remaster | Led Zeppelin | Led Zeppelin IV (Deluxe Edition) | 2018-07-21 | <sub>spotify:track:5CQ30WqJwcep0pYcV4AMNc</sub> |
+| 76 | Whole Lotta Love - 1990 Remaster | Led Zeppelin | Led Zeppelin II (1994 Remaster) | 2018-07-21 | <sub>spotify:track:0hCB0YR03f6AmQaHbwWDe8</sub> |
+| 77 | Do I Wanna Know? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:5FVd6KXrgO9B3JPmC8OPst</sub> |
+| 78 | R U Mine? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:2AT8iROs4FQueDv2c8q2KE</sub> |
+| 79 | (I Can't Get No) Satisfaction - Mono Version | The Rolling Stones | Out Of Our Heads | 2018-08-01 | <sub>spotify:track:2PzU4IB8Dr6mxV3lHuaG34</sub> |
+| 80 | Beast Of Burden - Remastered 1994 | The Rolling Stones | Some Girls | 2018-08-01 | <sub>spotify:track:77oU2rjC5XbjQfNe3bD6so</sub> |
+| 81 | Teardrop | Massive Attack, Elizabeth Fraser | Mezzanine | 2018-09-30 | <sub>spotify:track:67Hna13dNDkZvBpTXRIaOJ</sub> |
+| 82 | Paradise Circus | Massive Attack | Heligoland | 2018-09-30 | <sub>spotify:track:2BndJYJQ17UcEeUFJP5JmY</sub> |
+| 83 | Glory Box | Portishead | Dummy | 2018-09-30 | <sub>spotify:track:3Ty7OTBNSigGEpeW2PqcsC</sub> |
+| 84 | Crazy | Gnarls Barkley | St. Elsewhere | 2019-02-18 | <sub>spotify:track:2N5zMZX7YeL1tico8oQxa9</sub> |
+| 85 | The Evil Has Landed | Queens of the Stone Age | Villains | 2019-02-19 | <sub>spotify:track:763LDHO3wYOI7GzXS7uBwU</sub> |
+| 86 | Go With The Flow | Queens of the Stone Age | Songs For The Deaf | 2019-02-24 | <sub>spotify:track:45DElIx0dXqUH4A88yQFdE</sub> |
+| 87 | House Of The Rising Sun | The Animals | The Animals | 2019-03-22 | <sub>spotify:track:7BY005dacJkbO6EPiOh2wb</sub> |
+| 88 | Around the World | Daft Punk | Homework | 2019-05-08 | <sub>spotify:track:1pKYYY0dkg23sQQXi0Q5zN</sub> |
+| 89 | Sunshine Of Your Love | Cream | Disraeli Gears | 2019-05-29 | <sub>spotify:track:6FRwDxXsvSasw0y2eDArsz</sub> |
+| 90 | Feel Good Inc. | Gorillaz | Demon Days | 2019-05-29 | <sub>spotify:track:0d28khcov6AiegSCpG5TuT</sub> |
+| 91 | Money | Pink Floyd | The Dark Side of the Moon | 2019-05-29 | <sub>spotify:track:0vFOzaXqZHahrZp6enQwQb</sub> |
+| 92 | Another Brick in the Wall, Pt. 2 | Pink Floyd | The Wall | 2019-05-29 | <sub>spotify:track:4gMgiXfqyzZLMhsksGmbQV</sub> |
+| 93 | She's Not There | The Zombies | Begin Here | 2019-05-30 | <sub>spotify:track:3dzW0SoVNyJTWWJimX8stj</sub> |
+| 94 | Rocket Man (I Think It's Going To Be A Long, Long Time) | Elton John | Honky Chateau | 2019-06-29 | <sub>spotify:track:3gdewACMIVMEWVbyb8O9sY</sub> |
+| 95 | I'm Still Standing | Elton John | Too Low For Zero | 2019-06-29 | <sub>spotify:track:1jDJFeK9x3OZboIAHsY9k2</sub> |
+| 96 | Strange Ones | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:0vPepcVQ3aYlkhTtfCBg89</sub> |
+| 97 | She's So Loose | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:294BfoD9CPpQ57lxKAalOx</sub> |
+| 98 | Time | Supergrass | I Should Coco | 2019-07-28 | <sub>spotify:track:1TAU8ZSZc3nu4JhaPadyfS</sub> |
+| 99 | Going Out | Supergrass | In It For The Money | 2019-08-05 | <sub>spotify:track:11nBivWLLI07YgCP1z4KDb</sub> |
+| 100 | I'd Like To Know | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:66KKHqWcjAgQi2iGFwBiTZ</sub> |
+| 101 | Caught By the Fuzz | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:0iAcyO7WLhnC7WOTOpjGv1</sub> |
+| 102 | Mansize Rooster | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:5afa3W4rCWxEWeXW3hWMRe</sub> |
+| 103 | Alright | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:5xC8uOesnn0udeXAYlAnoY</sub> |
+| 104 | Lose It | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:3zUS56FvsxCIyXdnlJ3896</sub> |
+| 105 | Lenny | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:28Zeh6S7YqHabnKurm39IE</sub> |
+| 106 | Sitting Up Straight | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:6SWS8H4nUiVZCyULZdhBX1</sub> |
+| 107 | Sofa Of My Lethargy | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:2xmvZFubrZBrpiHPUhs6Ns</sub> |
+| 108 | Time To Go | Supergrass | I Should Coco | 2019-08-05 | <sub>spotify:track:07nPTI9Gf96MLwlsaKKQmK</sub> |
+| 109 | You Can See Me | Supergrass | In It For The Money | 2019-08-05 | <sub>spotify:track:3QY4iGvSy75UFAZdn3cxjm</sub> |
+| 110 | I Am The Walrus - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2019-08-16 | <sub>spotify:track:6Pq9MmkDQYZiiCDpxnvrf6</sub> |
+| 111 | Our House | Crosby, Stills, Nash & Young | Deja Vu | 2019-08-17 | <sub>spotify:track:2hitsKa8SthKhRJBXUHbIv</sub> |
+| 112 | Fallin' | Alicia Keys | Songs In A Minor (Expanded Edition) | 2019-10-06 | <sub>spotify:track:3unsLiH5FXmaDWtT5Imolu</sub> |
+| 113 | everything i wanted | Billie Eilish | everything i wanted | 2019-11-15 | <sub>spotify:track:3ZCTVFBt2Brf31RLEnCkWJ</sub> |
+| 114 | G-Song | Supergrass | In It For The Money | 2019-11-29 | <sub>spotify:track:7Klaee4PufpjLfGRtDHjjo</sub> |
+| 115 | Richard III - 4 Track Demo | Supergrass | Richard III (4 Track Demo) | 2019-11-29 | <sub>spotify:track:3wiKgyj7KIH3xNA8WpfpjO</sub> |
+| 116 | Moving | Supergrass | Supergrass | 2019-11-29 | <sub>spotify:track:1Xo5IcDLNOEpcB1RM4mBNF</sub> |
+| 117 | Tales of Endurance, Pt. 4, 5 & 6 | Supergrass | Road To Rouen | 2019-12-02 | <sub>spotify:track:0kAFTd3dWytNQPVF18jCIv</sub> |
+| 118 | Sun Hits The Sky | Supergrass | In It For The Money | 2019-12-03 | <sub>spotify:track:0mIZErjrNQzOTDtn4UYflo</sub> |
+| 119 | In It For The Money | Supergrass | In It For The Money | 2019-12-07 | <sub>spotify:track:0nqerN9NwalPoWTvIXxxTA</sub> |
+| 120 | Odd? | Supergrass | In It For The Money | 2019-12-08 | <sub>spotify:track:6C4u6sscp4ea8bZiCUPyjU</sub> |
+| 121 | It's Not Me | Supergrass | In It For The Money | 2019-12-17 | <sub>spotify:track:6jFtSDzhbhbJKTkdkuH3fH</sub> |
+| 122 | Social Cues | Cage The Elephant | Social Cues | 2020-01-08 | <sub>spotify:track:1KuVdyg8d6NlRhbpHxg5UF</sub> |
+| 123 | The Way You Used to Do | Queens of the Stone Age | Villains | 2020-01-13 | <sub>spotify:track:1wsnCfewxZlCs7cJxkaMZM</sub> |
+| 124 | Domesticated Animals | Queens of the Stone Age | Villains | 2020-01-13 | <sub>spotify:track:5NbMimOzRykGsE1tVHDtKV</sub> |
+| 125 | No One Knows | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:6NvRxjfYkkT2SpirAlmsjH</sub> |
+| 126 | The Sky Is Fallin' | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:3hoUASQwAAUwpQGXH8VioM</sub> |
+| 127 | Hanging Tree | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:0CCCRAKJHgvhMK3RzsisiI</sub> |
+| 128 | Summertime Sadness | Lana Del Rey | Born To Die - The Paradise Edition | 2020-01-14 | <sub>spotify:track:2dBwB667LHQkLhdYlwLUZK</sub> |
+| 129 | Gonna Leave You | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:5taBpQ59lvb2NLGDdbDQbB</sub> |
+| 130 | Still Don't Know My Name | Labrinth | Euphoria (Original Score from the HBO Series) | 2020-03-19 | <sub>spotify:track:6N22FZs2ZhPBYi3b9XPajV</sub> |
+| 131 | Blinding Lights | The Weeknd | Blinding Lights | 2020-03-21 | <sub>spotify:track:0sf12qNH5qcw8qpgymFOqD</sub> |
+| 132 | After Hours | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:4ejyZ4uJEXUURcgKp1kP8v</sub> |
+| 133 | Alone Again | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:6b5P51m8xx2XA6U7sdNZ5E</sub> |
+| 134 | Redbone | Childish Gambino | "Awaken, My Love!" | 2020-03-24 | <sub>spotify:track:0wXuerDYiBnERgIpbb3JBR</sub> |
+| 135 | Jerk It Out | Caesars | Love For The Streets | 2020-06-14 | <sub>spotify:track:5XMjXjwCkJVmk0AHm7z8IV</sub> |
+| 136 | While My Guitar Gently Weeps - 2018 Mix | The Beatles | The Beatles | 2020-07-08 | <sub>spotify:track:0ZqSsO2xoVvcrhpiRuqCmt</sub> |
+| 137 | Eleanor Rigby - Remastered 2015 | The Beatles | 1 (Remastered) | 2020-07-08 | <sub>spotify:track:0Wv8IXRUDZOfmFJHC1VOFI</sub> |
+| 138 | Strawberry Fields Forever - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2020-07-08 | <sub>spotify:track:3Am0IbOxmvlSXro7N5iSfZ</sub> |
+| 139 | Megaboss | The Funky Knuckles | Delicious | 2020-09-09 | <sub>spotify:track:4H4ZUzwqPgSOti1B6Q5oay</sub> |
+| 140 | Improv #1 (Pt. I Outro) | Brasstracks, Robert Glasper | For Those Who Know (Deluxe) | 2020-09-09 | <sub>spotify:track:4S6UPmpmoU4JbLdphoOTXH</sub> |
+| 141 | Memories (feat. Kid Cudi) | David Guetta, Kid Cudi | One Love (Deluxe) | 2020-11-18 | <sub>spotify:track:4dTaAiV9xFFCxnPur9c9yL</sub> |
+| 142 | Feeling Good | Nina Simone | I Put A Spell On You | 2020-11-20 | <sub>spotify:track:6Rqn2GFlmvmV4w9Ala0I1e</sub> |
+| 143 | 10% | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
+| 144 | Culture | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
+| 145 | GONE, GONE / THANK YOU | Tyler, The Creator | IGOR | 2020-12-28 | <sub>spotify:track:1hz7SRTGUNAtIQ46qiNv2p</sub> |
+| 146 | Think About Things | Daði Freyr | Think About Things | 2021-03-06 | <sub>spotify:track:2iRniYXjMHKmwXqA2jYXP7</sub> |
+| 147 | TVA - From "Loki"/Score | Natalie Holt | TVA (From "Loki") | 2021-06-27 | <sub>spotify:track:6YnoM7vjNoilLxWRslJ1d4</sub> |
+| 148 | Little Dark Age | MGMT | Little Dark Age | 2021-10-29 | <sub>spotify:track:2Y0iGXY6m6immVb2ktbseM</sub> |
+| 149 | Weightless | Marconi Union | The Ambient Zone Just Music Cafe Vol 4 | 2021-11-24 | <sub>spotify:track:6kkwzB6hXLIONkEk9JciA6</sub> |
+| 150 | Why'd You Only Call Me When You're High? | Arctic Monkeys | AM | 2021-12-21 | <sub>spotify:track:086myS9r57YsLbJpU0TgK9</sub> |
+| 151 | Song 2 - 2012 Remaster | Blur | Blur (Special Edition) | 2022-03-23 | <sub>spotify:track:1FTSo4v6BOZH9QxKc3MbVM</sub> |
+| 152 | Cracker Island (feat. Thundercat) | Gorillaz, Thundercat | Cracker Island (feat. Thundercat) | 2022-06-25 | <sub>spotify:track:2W3ZpQg9i6lE6kmHbcdu9N</sub> |
+| 153 | Deceptacon | Le Tigre | Le Tigre | 2022-08-30 | <sub>spotify:track:5773KSWFzg9kCc8yazjbSt</sub> |
+| 154 | New Gold (feat. Tame Impala and Bootie Brown) | Gorillaz, Tame Impala, Bootie Brown | New Gold (feat. Tame Impala and Bootie Brown) | 2022-09-06 | <sub>spotify:track:64dLd6rVqDLtkXFYrEUHIU</sub> |
+| 155 | Me and Your Mama | Childish Gambino | "Awaken, My Love!" | 2022-10-07 | <sub>spotify:track:31tf1qEai5o5f4r66Kd0pU</sub> |
+| 156 | Fantasy | Earth, Wind & Fire | All 'N All | 2022-11-05 | <sub>spotify:track:2GH5jo15wbTv1Ll7zXEzSg</sub> |
+| 157 | שירת הסטיקר 2019 | Hadag Nahash, Firqat Alnoor | שירת הסטיקר 2019 | 2022-12-27 | <sub>spotify:track:7vrM6gSFwKLlWsr6ZYQjhi</sub> |
+| 158 | לא מוותר | Hadag Nahash | המכונה של הגרוב | 2022-12-27 | <sub>spotify:track:64hgE6tpdju5feSAz7ozMO</sub> |
+| 159 | Santa Barbara | Benny Sings, Nataly Dawn | Santa Barbara | 2023-01-12 | <sub>spotify:track:5HYPU0x0lbMfMyCASETzK5</sub> |
+| 160 | the ride- | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:04HeNxRRVjcwctfp2K2kMu</sub> |
+| 161 | running out of time | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7zy7iE31dGO70ShMXghsfj</sub> |
+| 162 | pRETTy | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6vDyzD9o8aYhR1963oJpkO</sub> |
+| 163 | WE SAW THE SUN! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7FqH4CO8H5j9EXHKTBP7xE</sub> |
+| 164 | drive ME crazy! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6luBKkFUt5wTwz7hpLhp12</sub> |
+| 165 | IVE OFFICIALLY LOST ViSiON!!!! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:4PXuZYWhkyGXQzfSRy2PW1</sub> |
+| 166 | sAy sOMETHINg | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:1G7wqLzQQ3tveTYHcO5uVN</sub> |
+| 167 | paint THE sky | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:2lHMX3XlQgGbawYFtSZ3Si</sub> |
+| 168 | The Alchemist. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:3Hjvju1zzBXkkpUHvHk8Js</sub> |
+| 169 | REACH THE SUNSHINE. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:0t8YVhiyInlDW9cHtMGhJg</sub> |
+| 170 | Memento Mori (feat. Killstation) | Polyphia, Killstation | Remember That You Will Die | 2023-02-01 | <sub>spotify:track:7lftB3f1vir7xBnYzEnaUr</sub> |
+| 171 | Consideration | Rihanna, SZA | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6t90Z9XkdsHD8xMxro6KRP</sub> |
+| 172 | James Joint | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6K4Co1NQyOnoFEJMkZHkln</sub> |
+| 173 | Kiss It Better | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:0UHB9METy4VCXNgkcGqHqS</sub> |
+| 174 | Desperado | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:4mCf3vQf7z0Yseo0RxAi3V</sub> |
+| 175 | Woo | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:3HQcsqRjRdruUjkbDSgmVF</sub> |
+| 176 | Same Ol’ Mistakes | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6RtzmszGXs32TRhv5zTKNM</sub> |
+| 177 | Love On The Brain | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5oO3drDxtziYU2H1X23ZIp</sub> |
+| 178 | Close To You | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6D2tzc8kRnZb7P1lNwMBLH</sub> |
+| 179 | Goodnight Gotham | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5LJz7kmFhLqB53tmVWxig5</sub> |
+| 180 | Sex With Me | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:7BiELrM90hRxpozaIXbsLw</sub> |
+| 181 | Virtual Insanity - Remastered | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
+| 182 | white noise! (feat. cybertrash) | she loves boon, Cybertrash | white noise! (feat. cybertrash) | 2023-06-16 | <sub>spotify:track:4RZRRDbFDgxkf5hV2xizyr</sub> |
+| 183 | obstáculo | Tainy, Myke Towers | DATA | 2023-07-15 | <sub>spotify:track:3O4V8llGlOYtmZVoZi8U5v</sub> |
+| 184 | PASIEMPRE | Tainy, Arcángel, Jhayco, Myke Towers, Omar Courtz, Arca | DATA | 2023-07-15 | <sub>spotify:track:5NhLA2P7AiV3cloVmwtwLS</sub> |
+| 185 | MOJABI GHOST | Tainy, Bad Bunny | DATA | 2023-07-15 | <sub>spotify:track:4eMKD8MRroxCqugpsxCCNb</sub> |
+| 186 | 11 Y ONCE | Tainy, Sech, E.VAX | DATA | 2023-07-15 | <sub>spotify:track:1YUTTfAThKaxEYP9Zfv21V</sub> |
+| 187 | desde las 10 (KANY’S INTERLUDE) | Tainy, Kany García | DATA | 2023-07-15 | <sub>spotify:track:3kviwFPwSWwjgjRNBEBUSe</sub> |
+| 188 | mañana | Tainy, Young Miko, The Marías | DATA | 2023-07-15 | <sub>spotify:track:6eSlDHA3XYLha1e0z8I9DO</sub> |
+| 189 | BUENOS AIRES | Tainy, Mora, Zion | DATA | 2023-07-15 | <sub>spotify:track:1VCMkNBJtt1obiqIGRvla5</sub> |
+| 190 | me jodi... | Tainy, Arcángel | DATA | 2023-07-15 | <sub>spotify:track:6xntXCix5SxiEtv9zH7pXF</sub> |
+| 191 | VOLVER | Tainy, Skrillex, Four Tet, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:1ncGbGufa7aUaJ5zC4YP3y</sub> |
+| 192 | Lo Siento BB:/ | Tainy, Bad Bunny, Julieta Venegas | DATA | 2023-07-15 | <sub>spotify:track:4JtLrFUg0ff2x9TsXCgx76</sub> |
+| 193 | si preguntas por mi | Tainy, Kris Floyd, Judeline | DATA | 2023-07-15 | <sub>spotify:track:7z3rdMzhY122waIpkSsE7P</sub> |
+| 194 | Sci-Fi | Tainy, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:73dabjAcAF06vA4C1o16ta</sub> |
+| 195 | PARANORMAL | Tainy, Alvaro Diaz | DATA | 2023-07-15 | <sub>spotify:track:2m8V3evS07OnhatBWyh0Nt</sub> |
+| 196 | SACRIFICIO | Tainy, Xantos | DATA | 2023-07-15 | <sub>spotify:track:4ip9d4gpr7qni3OB1YYLSt</sub> |
+| 197 | S91 | KAROL G | S91 | 2023-07-18 | <sub>spotify:track:7EpOXgSRgnglRWr86pZfGU</sub> |
+| 198 | SI TE VAS | Tainy, Yandel, SAINt JHN | SI TE VAS | 2023-07-18 | <sub>spotify:track:5Xx66nNmEkP4pIB3NtXsYX</sub> |
+| 199 | LA FAMA | ROSALÍA, The Weeknd | MOTOMAMI | 2023-07-21 | <sub>spotify:track:6Y46tOTRhkBamosyuWa6YX</sub> |
+| 200 | From The Start | Laufey | From The Start | 2023-07-22 | <sub>spotify:track:1Ukxccao1BlWrPhYkcXbwZ</sub> |
+| 201 | BIZCOCHITO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:2RGIXMgdKl2t4zLqVYwPu4</sub> |
+| 202 | DIABLO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:19nu8H97D8j1G0bSwV5emP</sub> |
+| 203 | LA COMBI VERSACE | ROSALÍA, Tokischa | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:5OcFWC7ynhXNdLgJXRmCd9</sub> |
+| 204 | TKN (feat. Travis Scott) | ROSALÍA, Travis Scott | TKN (feat. Travis Scott) | 2023-07-27 | <sub>spotify:track:4w47S36wQGBhGg073q3nt7</sub> |
+| 205 | Paint The Town Red | Doja Cat | Paint The Town Red | 2023-08-17 | <sub>spotify:track:2IGMVunIBsBLtEQyoI1Mu7</sub> |
+| 206 | Back On 74 | Jungle | Back On 74 | 2023-09-05 | <sub>spotify:track:2xC3aQCmwgsW7ChDlJxLca</sub> |
+| 207 | All The Words We Don't Say | Hiatus Kaiyote | Mood Valiant | 2023-09-17 | <sub>spotify:track:5BfayLeEScEePDYXJCnvU1</sub> |
+| 208 | Chivalry Is Not Dead | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3STeMaQt9svi9EyB4BYrIc</sub> |
+| 209 | And We Go Gentle | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3PHgxKy3nKy0v9KvUtHl8g</sub> |
+| 210 | Get Sun (feat. Arthur Verocai) | Hiatus Kaiyote, Arthur Verocai | Mood Valiant | 2023-10-02 | <sub>spotify:track:5CBEzaNEuv3OO32kZoXgOX</sub> |
+| 211 | Red Room | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:55mvtucws4Mnro27744t9X</sub> |
+| 212 | Te Mata | Kali Uchis | Te Mata | 2023-10-23 | <sub>spotify:track:4kvDU8vfvxupVezsVPag5v</sub> |
+| 213 | A Night To Remember | beabadoobee, Laufey | A Night To Remember | 2023-10-23 | <sub>spotify:track:180AbZduI6bYQIzwCHRwu9</sub> |
+| 214 | Str8 Outta Mumbai | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:0mRtv3pnmPiN2mDMzYzWt2</sub> |
+| 215 | Zion Wolf Theme - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4gXzqH2l6fUxK0t3Zx6lUz</sub> |
+| 216 | Genevieve - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:72GKPVtBchtCDoL8LURCrB</sub> |
+| 217 | Jasmine - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:44LAHDPaM5dvkmmD5w1W84</sub> |
+| 218 | 100,000 - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4oEA3a7mE5bWNPi6ky4fcU</sub> |
+| 219 | Vibin' - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:5Yv2R7YzdGsbc2JNSlaqWb</sub> |
+| 220 | Desert River - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4ovaHVxywIqTsJL76Hogls</sub> |
+| 221 | All Night - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:3mp4xFRxiqMp9K7DlBiyqn</sub> |
+| 222 | BTSTU - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:59bvVhQYDomd4zc1gWYc3z</sub> |
+| 223 | On the Level | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4RpwQDPnn1GhWpZooUcCzd</sub> |
+| 224 | For the First Time | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:2R4AlwtrrkMaRKojcTIzmL</sub> |
+| 225 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
+| 226 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
+| 227 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
+| 228 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
+| 229 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
+| 230 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
+| 231 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
+| 232 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
