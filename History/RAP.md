@@ -718,3 +718,4 @@
 | 715 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
 | 716 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
 | 717 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
+| 718 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
