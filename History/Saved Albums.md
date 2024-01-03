@@ -125,3 +125,5 @@
 | 122 | Gimme Fiction (Deluxe Edition) | Spoon | 2023-12-26 | <sub>spotify:album:4sjSsxnmBlzxgZ9HGkHDsk</sub> |
 | 123 | Ga Ga Ga Ga Ga (2017 Remaster) | Spoon | 2023-12-26 | <sub>spotify:album:3tSpLdSd2zhM0N0aYZd13E</sub> |
 | 124 | Discovery | Daft Punk | 2023-12-26 | <sub>spotify:album:2noRn2Aes5aoNVsU6iWThc</sub> |
+| 125 | 1999 | Joey Bada$$ | 2024-01-02 | <sub>spotify:album:5ra51AaWF3iVebyhlZ1aqq</sub> |
+| 126 | OK Computer | Radiohead | 2024-01-03 | <sub>spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE</sub> |
