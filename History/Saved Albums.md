@@ -127,3 +127,4 @@
 | 124 | Discovery | Daft Punk | 2023-12-26 | <sub>spotify:album:2noRn2Aes5aoNVsU6iWThc</sub> |
 | 125 | 1999 | Joey Bada$$ | 2024-01-02 | <sub>spotify:album:5ra51AaWF3iVebyhlZ1aqq</sub> |
 | 126 | OK Computer | Radiohead | 2024-01-03 | <sub>spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE</sub> |
+| 127 | Flockaveli | Waka Flocka Flame | 2024-01-05 | <sub>spotify:album:6MQtWELG7aRX7CkAzQ6nLM</sub> |

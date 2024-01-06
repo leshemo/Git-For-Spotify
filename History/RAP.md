@@ -718,3 +718,7 @@
 | 715 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
 | 716 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
 | 717 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
+| 718 | Rusty (feat. Domo Genesis & Earl Sweatshirt) | Tyler, The Creator, Domo Genesis, Earl Sweatshirt | Wolf | 2024-01-05 | <sub>spotify:track:4oQkcfukOHfKsmeoeXQLWC</sub> |
+| 719 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
+| 720 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
+| 721 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
