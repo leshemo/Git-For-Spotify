@@ -233,3 +233,5 @@
 | 230 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
 | 231 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
 | 232 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
+| 233 | My Mathematical Mind | Spoon | Gimme Fiction (Deluxe Edition) | 2024-01-06 | <sub>spotify:track:6Vvmd6f6sEceLjHg6xJyIk</sub> |
+| 234 | Stuck In The Middle | Conor Albert, ELSAS | Collage 2 | 2024-01-07 | <sub>spotify:track:7zu4F2AtCvns6DINJCJ5AM</sub> |
