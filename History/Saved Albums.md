@@ -130,3 +130,5 @@
 | 127 | Flockaveli | Waka Flocka Flame | 2024-01-05 | <sub>spotify:album:6MQtWELG7aRX7CkAzQ6nLM</sub> |
 | 128 | Process (Bonus Edition) | Sampha | 2024-01-07 | <sub>spotify:album:4rA6i9oXyMhh77pqK0cXKv</sub> |
 | 129 | The Art of the Concrete | ELSAS | 2024-01-07 | <sub>spotify:album:4geHfysxrZP4TIe09hAXdL</sub> |
+| 130 | Vaudeville Villain | Viktor Vaughn, MF DOOM | 2024-01-09 | <sub>spotify:album:7HPjcPD2cr8E5oHvVAmBp7</sub> |
+| 131 | Local Mvp | Sainté | 2024-01-10 | <sub>spotify:album:02gUzFCFgKdsj8p1KcnASN</sub> |
