@@ -132,3 +132,4 @@
 | 129 | The Art of the Concrete | ELSAS | 2024-01-07 | <sub>spotify:album:4geHfysxrZP4TIe09hAXdL</sub> |
 | 130 | Vaudeville Villain | Viktor Vaughn, MF DOOM | 2024-01-09 | <sub>spotify:album:7HPjcPD2cr8E5oHvVAmBp7</sub> |
 | 131 | Local Mvp | Sainté | 2024-01-10 | <sub>spotify:album:02gUzFCFgKdsj8p1KcnASN</sub> |
+| 132 | The Water (S) | Mick Jenkins | 2024-01-13 | <sub>spotify:album:39yAlNzbQD6MAvveqeY3IP</sub> |
