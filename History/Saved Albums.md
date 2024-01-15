@@ -133,3 +133,5 @@
 | 130 | Vaudeville Villain | Viktor Vaughn, MF DOOM | 2024-01-09 | <sub>spotify:album:7HPjcPD2cr8E5oHvVAmBp7</sub> |
 | 131 | Local Mvp | Sainté | 2024-01-10 | <sub>spotify:album:02gUzFCFgKdsj8p1KcnASN</sub> |
 | 132 | The Water (S) | Mick Jenkins | 2024-01-13 | <sub>spotify:album:39yAlNzbQD6MAvveqeY3IP</sub> |
+| 133 | The Impossible Kid | Aesop Rock | 2024-01-15 | <sub>spotify:album:6D6v19wYlLDsYkkfebOY3g</sub> |
+| 134 | Heavy Heavy | Young Fathers | 2024-01-15 | <sub>spotify:album:6CmlLROLOUJZnZ8QeCCpqD</sub> |
