@@ -135,3 +135,5 @@
 | 132 | The Water (S) | Mick Jenkins | 2024-01-13 | <sub>spotify:album:39yAlNzbQD6MAvveqeY3IP</sub> |
 | 133 | The Impossible Kid | Aesop Rock | 2024-01-15 | <sub>spotify:album:6D6v19wYlLDsYkkfebOY3g</sub> |
 | 134 | Heavy Heavy | Young Fathers | 2024-01-15 | <sub>spotify:album:6CmlLROLOUJZnZ8QeCCpqD</sub> |
+| 135 | Lonerism | Tame Impala | 2024-01-16 | <sub>spotify:album:3C2MFZ2iHotUQOSBzdSvM7</sub> |
+| 136 | Currents | Tame Impala | 2024-01-16 | <sub>spotify:album:79dL7FLiJFOO0EoehUHQBv</sub> |

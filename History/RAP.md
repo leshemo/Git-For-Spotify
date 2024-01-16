@@ -704,3 +704,4 @@
 | 701 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
 | 702 | Beef FloMix | Flo Milli | Ho, why is you here ? | 2024-01-13 | <sub>spotify:track:7qdFz1dTJqgdVe6NA4F4DP</sub> |
 | 703 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
+| 704 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
