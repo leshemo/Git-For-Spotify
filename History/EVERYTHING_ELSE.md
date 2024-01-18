@@ -236,3 +236,5 @@
 | 233 | My Mathematical Mind | Spoon | Gimme Fiction (Deluxe Edition) | 2024-01-06 | <sub>spotify:track:6Vvmd6f6sEceLjHg6xJyIk</sub> |
 | 234 | Stuck In The Middle | Conor Albert, ELSAS | Collage 2 | 2024-01-07 | <sub>spotify:track:7zu4F2AtCvns6DINJCJ5AM</sub> |
 | 235 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
+| 236 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
+| 237 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |

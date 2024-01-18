@@ -702,3 +702,5 @@
 | 699 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
 | 700 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
 | 701 | How To Build A Relationship | Flume, JPEGMAFIA | Hi This Is Flume (Mixtape) | 2024-01-16 | <sub>spotify:track:7zhJC4wvakRamUyLCfxFA5</sub> |
+| 702 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
+| 703 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |

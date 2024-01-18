@@ -137,3 +137,4 @@
 | 134 | Heavy Heavy | Young Fathers | 2024-01-15 | <sub>spotify:album:6CmlLROLOUJZnZ8QeCCpqD</sub> |
 | 135 | Lonerism | Tame Impala | 2024-01-16 | <sub>spotify:album:3C2MFZ2iHotUQOSBzdSvM7</sub> |
 | 136 | Currents | Tame Impala | 2024-01-16 | <sub>spotify:album:79dL7FLiJFOO0EoehUHQBv</sub> |
+| 137 | ORQUÍDEAS | Kali Uchis | 2024-01-17 | <sub>spotify:album:5U20AVSsUvycGtWip4XQfo</sub> |
