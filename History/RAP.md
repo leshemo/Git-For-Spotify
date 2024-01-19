@@ -704,3 +704,5 @@
 | 701 | How To Build A Relationship | Flume, JPEGMAFIA | Hi This Is Flume (Mixtape) | 2024-01-16 | <sub>spotify:track:7zhJC4wvakRamUyLCfxFA5</sub> |
 | 702 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
 | 703 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
+| 704 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
+| 705 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
