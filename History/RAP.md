@@ -705,3 +705,6 @@
 | 702 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
 | 703 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
 | 704 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
+| 705 | End of The niGht. | Phony Ppl | Yesterday's Tomorrow | 2024-01-21 | <sub>spotify:track:2p4ARx5nk3b9Jh07ivQR1c</sub> |
+| 706 | Louie Bag (feat. Smino) | Yebba, Smino | Dawn | 2024-01-21 | <sub>spotify:track:0PspnH1gJYzr1NGqYRK3IO</sub> |
+| 707 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |

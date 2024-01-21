@@ -238,3 +238,4 @@
 | 235 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
 | 236 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
 | 237 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |
+| 238 | The Palisades | Childish Gambino, Christian Rich | Kauai | 2024-01-21 | <sub>spotify:track:5rhneBPYMdfbeapETTW0vT</sub> |
