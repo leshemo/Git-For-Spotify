@@ -138,3 +138,4 @@
 | 135 | Currents | Tame Impala | 2024-01-16 | <sub>spotify:album:79dL7FLiJFOO0EoehUHQBv</sub> |
 | 136 | ORQUÍDEAS | Kali Uchis | 2024-01-17 | <sub>spotify:album:5U20AVSsUvycGtWip4XQfo</sub> |
 | 137 | Floss | Injury Reserve | 2024-01-18 | <sub>spotify:album:67sUOjUevVJGgfCj1N2e4N</sub> |
+| 138 | Malibu | Anderson .Paak | 2024-01-21 | <sub>spotify:album:4VFG1DOuTeDMBjBLZT7hCK</sub> |
