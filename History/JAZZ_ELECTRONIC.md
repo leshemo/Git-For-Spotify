@@ -649,3 +649,4 @@
 | 646 | What You Need | KAYTRANADA, Charlotte Day Wilson | BUBBA | 2024-01-08 | <sub>spotify:track:4O9t8Qq941SAzdGlex4noA</sub> |
 | 647 | Losalamitoslatinfunklovesong | Gene Harris | Astral Signal | 2024-01-10 | <sub>spotify:track:6fK7vB7NeJCSB4ZaLptgwW</sub> |
 | 648 | 10% | KAYTRANADA, Kali Uchis | BUBBA | 2024-01-10 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
+| 649 | Archangel | Burial | Untrue | 2024-01-25 | <sub>spotify:track:2agb1CPPGWXqXnrKn6cx7u</sub> |

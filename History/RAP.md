@@ -709,3 +709,4 @@
 | 706 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |
 | 707 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
 | 708 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
+| 709 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |

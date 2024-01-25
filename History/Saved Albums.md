@@ -139,3 +139,7 @@
 | 136 | ORQUÍDEAS | Kali Uchis | 2024-01-17 | <sub>spotify:album:5U20AVSsUvycGtWip4XQfo</sub> |
 | 137 | Floss | Injury Reserve | 2024-01-18 | <sub>spotify:album:67sUOjUevVJGgfCj1N2e4N</sub> |
 | 138 | Malibu | Anderson .Paak | 2024-01-21 | <sub>spotify:album:4VFG1DOuTeDMBjBLZT7hCK</sub> |
+| 139 | Post | Björk | 2024-01-25 | <sub>spotify:album:3p7WXDBxhC5KS9IFXnwae7</sub> |
+| 140 | Homogenic | Björk | 2024-01-25 | <sub>spotify:album:0HMsmYvoT1h2x1C4di5faf</sub> |
+| 141 | Vespertine | Björk | 2024-01-25 | <sub>spotify:album:5vBpIxm8ws6pWyVmTWiGE1</sub> |
+| 142 | Vulnicura | Björk | 2024-01-25 | <sub>spotify:album:1ttnHZ0HVGMSMTJdZZ7kYK</sub> |
