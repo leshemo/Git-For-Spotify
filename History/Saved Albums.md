@@ -143,3 +143,4 @@
 | 140 | Homogenic | Björk | 2024-01-25 | <sub>spotify:album:0HMsmYvoT1h2x1C4di5faf</sub> |
 | 141 | Vespertine | Björk | 2024-01-25 | <sub>spotify:album:5vBpIxm8ws6pWyVmTWiGE1</sub> |
 | 142 | Vulnicura | Björk | 2024-01-25 | <sub>spotify:album:1ttnHZ0HVGMSMTJdZZ7kYK</sub> |
+| 143 | Liberation | Talib Kweli, Madlib | 2024-01-28 | <sub>spotify:album:2Lvyy8TE9YjUZVaB76DtFS</sub> |
