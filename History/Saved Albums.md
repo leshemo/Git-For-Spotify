@@ -146,3 +146,4 @@
 | 143 | Liberation | Talib Kweli, Madlib | 2024-01-28 | <sub>spotify:album:2Lvyy8TE9YjUZVaB76DtFS</sub> |
 | 144 | Maps | billy woods, Kenny Segal | 2024-01-29 | <sub>spotify:album:3VoX4iyvy7et6Qt47e2XwS</sub> |
 | 145 | Everything Ecstatic | Four Tet | 2024-01-29 | <sub>spotify:album:2BKXRpAaq7jZStXo6A10qK</sub> |
+| 146 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
