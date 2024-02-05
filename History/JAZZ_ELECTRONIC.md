@@ -653,3 +653,5 @@
 | 650 | Biscuit | Portishead | Dummy | 2024-01-25 | <sub>spotify:track:6dDcfbMUFkFDk6x93kITY7</sub> |
 | 651 | The Rip | Portishead | Third | 2024-01-28 | <sub>spotify:track:5KX2DSPC6aCA0pdDidTmBC</sub> |
 | 652 | Abie | Avishai Cohen | From Darkness | 2024-02-01 | <sub>spotify:track:5BmnoQH8bpl1AjS5xKPztt</sub> |
+| 653 | Huit octobre 1971 | Cortex | Troupeau bleu | 2024-02-05 | <sub>spotify:track:2CsnpBAB8VQMTyPuws57ao</sub> |
+| 654 | Arrival | The Alchemist | Israeli Salad | 2024-02-05 | <sub>spotify:track:6quMGNh47CpSR5kmZSYSTK</sub> |

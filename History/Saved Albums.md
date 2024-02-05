@@ -147,3 +147,4 @@
 | 144 | Maps | billy woods, Kenny Segal | 2024-01-29 | <sub>spotify:album:3VoX4iyvy7et6Qt47e2XwS</sub> |
 | 145 | Everything Ecstatic | Four Tet | 2024-01-29 | <sub>spotify:album:2BKXRpAaq7jZStXo6A10qK</sub> |
 | 146 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
+| 147 | Israeli Salad | The Alchemist | 2024-02-05 | <sub>spotify:album:7ntqAx8PbkYHwjeZnliXRV</sub> |
