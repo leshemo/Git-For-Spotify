@@ -691,3 +691,4 @@
 | 688 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
 | 689 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
 | 690 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
+| 691 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
