@@ -581,114 +581,113 @@
 | 578 | Suicide Doors | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3fDTzkvrOo5xQIO480Qmsb</sub> |
 | 579 | Aye (feat. Travis Scott) | Lil Uzi Vert, Travis Scott | Pink Tape | 2023-07-02 | <sub>spotify:track:2Hc1LaV6bzFil3dE71eORA</sub> |
 | 580 | Died and Came Back | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:6kQF79mjbOkvuRvg0J2XZv</sub> |
-| 581 | Spin Again | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:1pDbGAAH5GQ8U0KG4fI77H</sub> |
-| 582 | That Fiya | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:1bIHv5s0rByq6ZOqDSt8K8</sub> |
-| 583 | I Gotta | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3lcfs9Qjfxzy00VSVkixDv</sub> |
-| 584 | Endless Fashion (feat. Nicki Minaj) | Lil Uzi Vert, Nicki Minaj | Pink Tape | 2023-07-02 | <sub>spotify:track:41bmnQZoDMQdDh5zyomtW7</sub> |
-| 585 | Pluto to Mars | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:0WCJSIy75ZVxqY51ce0enc</sub> |
-| 586 | Patience (feat. Don Toliver) | Lil Uzi Vert, Don Toliver | Pink Tape | 2023-07-02 | <sub>spotify:track:05grSYrVwYw58YMOdJceyz</sub> |
-| 587 | Days Come and Go | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:4Dk42ykoREkq82ny0mWZnU</sub> |
-| 588 | Rehab | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3diKIcRsDj2WultNgqi62P</sub> |
-| 589 | Zoom (Bonus Track) | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3VFGA65JnN8EDmnRb5SHW2</sub> |
-| 590 | LOSIN U | CLAVIS 7EVEN | LOSIN U | 2023-07-10 | <sub>spotify:track:3Yev5ppYhApRb0qiaN3N1J</sub> |
-| 591 | FORCE OF HABIT | Paris Texas | BOY ANONYMOUS | 2023-07-14 | <sub>spotify:track:5HxZVwYpdu1SgUvl411nZ6</sub> |
-| 592 | HEAVY METAL | Paris Texas | BOY ANONYMOUS | 2023-07-14 | <sub>spotify:track:1j6zEnDOTIRJhBhknrd86m</sub> |
-| 593 | Daydreamin' (feat. Jill Scott) | Lupe Fiasco, Jill Scott | Lupe Fiasco's Food & Liquor | 2023-08-03 | <sub>spotify:track:50M2QjfSM82wkJ1d0iV4mh</sub> |
-| 594 | HYAENA | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:0hL9gOw6XBWsygEUcVjxEc</sub> |
-| 595 | THANK GOD | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:1PH2MDbcBAU094DlgTIND1</sub> |
-| 596 | MY EYES | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:4kjI1gwQZRKNDkw1nI475M</sub> |
-| 597 | SIRENS | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:7LSpFCvRZZot2AlmkUzy9k</sub> |
-| 598 | MELTDOWN (feat. Drake) | Travis Scott, Drake | UTOPIA | 2023-08-05 | <sub>spotify:track:67nepsnrcZkowTxMWigSbb</sub> |
-| 599 | FE!N (feat. Playboi Carti) | Travis Scott, Playboi Carti | UTOPIA | 2023-08-05 | <sub>spotify:track:42VsgItocQwOQC3XWZ8JNA</sub> |
-| 600 | DELRESTO (ECHOES) (feat. Beyoncé) | Travis Scott, Beyoncé | UTOPIA | 2023-08-05 | <sub>spotify:track:0OEe83mMZ5kaNw5uZQ7ilG</sub> |
-| 601 | I KNOW ? | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:6wsqVwoiVH2kde4k4KKAFU</sub> |
-| 602 | TOPIA TWINS (feat. Rob49 & 21 Savage) | Travis Scott, Rob49, 21 Savage | UTOPIA | 2023-08-05 | <sub>spotify:track:0lodMO0qK83vfPiiD7FMEt</sub> |
-| 603 | CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee) | Travis Scott, The Weeknd, Swae Lee | UTOPIA | 2023-08-05 | <sub>spotify:track:4GL9GMX9t7Qkprvf1YighZ</sub> |
-| 604 | PARASAIL (feat. Yung Lean & Dave Chappelle) | Travis Scott, Yung Lean, Dave Chappelle | UTOPIA | 2023-08-05 | <sub>spotify:track:2Q0aElTZQtEUsoiaQfizu6</sub> |
-| 605 | LOST FOREVER (feat. Westside Gunn) | Travis Scott, Westside Gunn | UTOPIA | 2023-08-05 | <sub>spotify:track:7EiUtdeoWcKqLi5ELZCjYf</sub> |
-| 606 | LOOOVE (feat. Kid Cudi) | Travis Scott, Kid Cudi | UTOPIA | 2023-08-05 | <sub>spotify:track:0a4SMs889NwP8oWI7Vemle</sub> |
-| 607 | K-POP (feat. Bad Bunny & The Weeknd) | Travis Scott, Bad Bunny, The Weeknd | UTOPIA | 2023-08-05 | <sub>spotify:track:4o82J5zr4DFEs9yj5szCVX</sub> |
-| 608 | TELEKINESIS (feat. SZA & Future) | Travis Scott, SZA, Future | UTOPIA | 2023-08-05 | <sub>spotify:track:1i9lZvlaDdWDPyXEE95aiq</sub> |
-| 609 | TIL FURTHER NOTICE (feat. James Blake & 21 Savage) | Travis Scott, James Blake, 21 Savage | UTOPIA | 2023-08-05 | <sub>spotify:track:76gcXhY3Zv6wW0BTe9nHJo</sub> |
-| 610 | Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge) | Danger Mouse, Black Thought, Russ, Dylan Cartlidge, Joey Bada$$ | Cheat Codes | 2023-08-07 | <sub>spotify:track:1pRkGgpQGX6nr8PrO1NMIs</sub> |
-| 611 | The Color Violet | Tory Lanez | Alone At Prom | 2023-08-12 | <sub>spotify:track:3azJifCSqg9fRij2yKIbWz</sub> |
-| 612 | Yellow Square - Starkey Remix | Jammz, Elijah, Starkey | Make the Ting (Starkey Remixes) | 2023-08-25 | <sub>spotify:track:2vyhWVYnm8gm3H35c4bXCN</sub> |
-| 613 | Iniesta Flow | namesbliss, scruz | Iniesta Flow | 2023-08-25 | <sub>spotify:track:1fZlxYXWrsus7bSPjX5Wng</sub> |
-| 614 | Pure Water | Skepta | Ignorance is Bliss | 2023-08-25 | <sub>spotify:track:27H75QUZMb6C0vNfN3T370</sub> |
-| 615 | Retail Therapy | Central Cee | 23 | 2023-08-25 | <sub>spotify:track:12auvGedCkbd6jiuspZXWS</sub> |
-| 616 | Londis | Blanco | ReBourne | 2023-08-25 | <sub>spotify:track:49sbpteBVjEyW4M6P38SM4</sub> |
-| 617 | Loading | Central Cee | Wild West | 2023-08-25 | <sub>spotify:track:4vzJrkfHbCGaodPA5RY5BV</sub> |
-| 618 | Sometimes | Danger Mouse, Black Thought | Cheat Codes | 2023-09-03 | <sub>spotify:track:5Bm3H6NCbcFIAi1OwZWn1S</sub> |
-| 619 | Nakamarra | Hiatus Kaiyote, Q-Tip | Tawk Tomahawk | 2023-09-18 | <sub>spotify:track:23D6FgVV4VygFfJxAtk72J</sub> |
-| 620 | Get Got | Death Grips | The Money Store | 2023-09-21 | <sub>spotify:track:781V2Y5LPtcpgONEOadadE</sub> |
-| 621 | The Secret Recipe | Lil Yachty, J. Cole | The Secret Recipe | 2023-10-07 | <sub>spotify:track:0pRqj4CrVCHOjDngEXZxcz</sub> |
-| 622 | TESLA | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:1wJNy6lvA0eeESHr86zICO</sub> |
-| 623 | Slide | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:25jjAbYCdkvo4tkuJoY2kz</sub> |
-| 624 | SOLO STEPPIN CRETE BOY | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:72HrnDF0CfN1jARxsVS0md</sub> |
-| 625 | Strike (Holster) | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:1SrKc6DEAZuzpPTxVk3fkk</sub> |
-| 626 | Red | IDK, Westside Gunn, MF DOOM, Jay Electronica | USEE4YOURSELF | 2023-10-12 | <sub>spotify:track:061yVp0KkuKIb7a1GY6eia</sub> |
-| 627 | STRAWBERRY LOUIS VUITTON ft. Thundercat and Maeta | VIC MENSA, Maeta, Thundercat | Victor | 2023-10-16 | <sub>spotify:track:1oX9O8hD9vysbWAINsTOLo</sub> |
-| 628 | Flowers (feat. MAVI) | TOBi, MAVI | Flowers (feat. MAVI) | 2023-10-16 | <sub>spotify:track:2e8OPXNNk9onHe4pknBZhD</sub> |
-| 629 | Win | IDK | Win | 2023-10-16 | <sub>spotify:track:4X4EtnTuuVY0QMZroFVwHY</sub> |
-| 630 | The Fly who couldn't Fly straight (feat. Tyler, The Creator) | Westside Gunn, Tyler, The Creator | Hitler Wears Hermes 8: Side B | 2023-10-17 | <sub>spotify:track:6bCbBTw3mqHWQwhFMMaOOq</sub> |
-| 631 | Van Gogh (feat. Lil Yachty) | JID, Lil Yachty | BlakkBoyz present Half Doin Dope/Van Gogh | 2023-10-17 | <sub>spotify:track:2tcI5EedPVjrxwewRQs62W</sub> |
-| 632 | RIOT (Rowdy Pipe'n) | A$AP Rocky, Pharrell Williams | RIOT (Rowdy Pipe'n) | 2023-10-17 | <sub>spotify:track:0B1xarnfKvUFWUoFdQnooq</sub> |
-| 633 | Half Doin Dope (with BabyTron feat. Lil Yachty) | JID, BabyTron, Lil Yachty | BlakkBoyz present Half Doin Dope/Van Gogh | 2023-10-18 | <sub>spotify:track:1J0O3RqCeoMcXbayQZDZXL</sub> |
-| 634 | Fire Squad | J. Cole | 2014 Forest Hills Drive | 2023-10-22 | <sub>spotify:track:6sf35vqrEAN8fOFzrKmv9A</sub> |
-| 635 | A$AP Forever (feat. Moby) | A$AP Rocky, Moby | A$AP Forever (feat. Moby) | 2023-10-23 | <sub>spotify:track:1YmF9PvLhIISIANoMLIYGq</sub> |
-| 636 | PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak) | DOMi & JD BECK, Anderson .Paak, Busta Rhymes, Snoop Dogg | NOT TiGHT | 2023-10-25 | <sub>spotify:track:6OquGsVTLqZHyxqG0PLwFz</sub> |
-| 637 | Show Me | Joey Bada$$ | 2000 | 2023-10-26 | <sub>spotify:track:2uuJs2nltcYFh9pkKP7bW4</sub> |
-| 638 | ASTROTHUNDER | Travis Scott | ASTROWORLD | 2023-10-26 | <sub>spotify:track:4MXhiYIRDMGAuvZc5IFTwC</sub> |
-| 639 | LVL | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) | 2023-10-26 | <sub>spotify:track:787rCZF9i4L1cXGMkdyIk4</sub> |
-| 640 | black samuarai. | jev. | the color grey. | 2023-10-26 | <sub>spotify:track:16JrfiRjHTFahRTV6fPKqQ</sub> |
-| 641 | 12.38 (feat. 21 Savage, Ink & Kadhja Bonet) | Childish Gambino, 21 Savage, Ink, Kadhja Bonet | 3.15.20 | 2023-10-29 | <sub>spotify:track:011ZwIM48eD8ee2UBpG8nK</sub> |
-| 642 | On Sight | Free Nationals, JID, Kadhja Bonet, MIKNNA | Free Nationals | 2023-10-29 | <sub>spotify:track:5WiShbQYrJnoG7mD961IKY</sub> |
-| 643 | Electric Relaxation | A Tribe Called Quest | The Anthology | 2023-10-29 | <sub>spotify:track:0eEXcw3JLVXcRxYrVYMy68</sub> |
-| 644 | Shook Ones, Pt. II | Mobb Deep | The Infamous | 2023-10-29 | <sub>spotify:track:33ZXjLCpiINn8eQIDYEPTD</sub> |
-| 645 | untitled 02 - 06.23.2014. | Kendrick Lamar | untitled unmastered. | 2023-10-29 | <sub>spotify:track:3I0FBDc1c1BLNtXWKVjmFg</sub> |
-| 646 | MOVIN' | Bluestaeb, Mick Jenkins, Aréna | MOVIN' | 2023-10-29 | <sub>spotify:track:4mWTAI8wYE4HpYIgPAASpV</sub> |
-| 647 | hue_man nature | Saba, No ID | hue_man nature | 2023-10-31 | <sub>spotify:track:2cVIKCgIfYOYyyXfQEstZN</sub> |
-| 648 | MOSHPIT | Baby Keem | DIE FOR MY BITCH | 2023-11-02 | <sub>spotify:track:6XrRiRgDivf3Kv4CKuQh9o</sub> |
-| 649 | Extinct | REASON, Isaiah Rashad, JID | New Beginnings | 2023-11-02 | <sub>spotify:track:70hDklZStSazrExPjHJPfR</sub> |
-| 650 | Said N Done | 21 Savage, Metro Boomin | SAVAGE MODE II | 2023-11-03 | <sub>spotify:track:11XegnWeJHBDtj9IsNwngu</sub> |
-| 651 | All The Stars (with SZA) | Kendrick Lamar, SZA | Black Panther The Album Music From And Inspired By | 2023-11-05 | <sub>spotify:track:3GCdLUSnKSMJhs4Tj6CV3s</sub> |
-| 652 | Hands on the Wheel (feat. Asap Rocky) | ScHoolboy Q, A$AP Rocky | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:78JKJfKsqgeBDBF58gv1SF</sub> |
-| 653 | Sex Drive (feat. J Hene Aiko) | ScHoolboy Q, Jhené Aiko | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:1j64JX3cT30zXUAz2a2C1H</sub> |
-| 654 | Sacrilegious | ScHoolboy Q | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4L3hja5ROnBDN5So4bUEo3</sub> |
-| 655 | Codeine Crazy | Future | Monster | 2023-11-08 | <sub>spotify:track:0joQFwiBKmi6X1Iq5R1ubH</sub> |
-| 656 | Druggys Wit Hoes Again (feat. Ab Soul) | ScHoolboy Q, Ab-Soul | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4vpNOBwJSl8HA3pLXY6c8U</sub> |
-| 657 | Smoke Break-Dance (feat. JID) | Mick Jenkins, JID | Smoke Break-Dance (feat. JID) | 2023-11-12 | <sub>spotify:track:1Dm5maHjhhmcdqS5hK61Ut</sub> |
-| 658 | Simple Life | Skepta, Sam Frank | Blacklisted | 2023-11-14 | <sub>spotify:track:1cDLyaFDWUjab3x0pI2oPT</sub> |
-| 659 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
-| 660 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
-| 661 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
-| 662 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
-| 663 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
-| 664 | leavemealone | Fred again.., Baby Keem | leavemealone | 2023-12-11 | <sub>spotify:track:1MVqeIAwhD4T44AKVkIfic</sub> |
-| 665 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
-| 666 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
-| 667 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
-| 668 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
-| 669 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK, Shiki | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
-| 670 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
-| 671 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
-| 672 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
-| 673 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
-| 674 | Woman | Little Simz, Cleo Sol | Sometimes I Might Be Introvert | 2024-01-08 | <sub>spotify:track:60GM1mA58L7SYD1bLQXBho</sub> |
-| 675 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
-| 676 | Beef FloMix | Flo Milli | Ho, why is you here ? | 2024-01-13 | <sub>spotify:track:7qdFz1dTJqgdVe6NA4F4DP</sub> |
-| 677 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
-| 678 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
-| 679 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
-| 680 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
-| 681 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
-| 682 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
-| 683 | By Design | Kid Cudi, André Benjamin | Passion, Pain & Demon Slayin' | 2024-01-21 | <sub>spotify:track:5FxVTEpoBress37MmlMhbZ</sub> |
-| 684 | End of The niGht. | Phony Ppl | Yesterday's Tomorrow | 2024-01-21 | <sub>spotify:track:2p4ARx5nk3b9Jh07ivQR1c</sub> |
-| 685 | Louie Bag (feat. Smino) | Yebba, Smino | Dawn | 2024-01-21 | <sub>spotify:track:0PspnH1gJYzr1NGqYRK3IO</sub> |
-| 686 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |
-| 687 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
-| 688 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
-| 689 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
-| 690 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
-| 691 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
+| 581 | That Fiya | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:1bIHv5s0rByq6ZOqDSt8K8</sub> |
+| 582 | I Gotta | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3lcfs9Qjfxzy00VSVkixDv</sub> |
+| 583 | Endless Fashion (feat. Nicki Minaj) | Lil Uzi Vert, Nicki Minaj | Pink Tape | 2023-07-02 | <sub>spotify:track:41bmnQZoDMQdDh5zyomtW7</sub> |
+| 584 | Pluto to Mars | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:0WCJSIy75ZVxqY51ce0enc</sub> |
+| 585 | Patience (feat. Don Toliver) | Lil Uzi Vert, Don Toliver | Pink Tape | 2023-07-02 | <sub>spotify:track:05grSYrVwYw58YMOdJceyz</sub> |
+| 586 | Days Come and Go | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:4Dk42ykoREkq82ny0mWZnU</sub> |
+| 587 | Rehab | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3diKIcRsDj2WultNgqi62P</sub> |
+| 588 | Zoom (Bonus Track) | Lil Uzi Vert | Pink Tape | 2023-07-02 | <sub>spotify:track:3VFGA65JnN8EDmnRb5SHW2</sub> |
+| 589 | LOSIN U | CLAVIS 7EVEN | LOSIN U | 2023-07-10 | <sub>spotify:track:3Yev5ppYhApRb0qiaN3N1J</sub> |
+| 590 | FORCE OF HABIT | Paris Texas | BOY ANONYMOUS | 2023-07-14 | <sub>spotify:track:5HxZVwYpdu1SgUvl411nZ6</sub> |
+| 591 | HEAVY METAL | Paris Texas | BOY ANONYMOUS | 2023-07-14 | <sub>spotify:track:1j6zEnDOTIRJhBhknrd86m</sub> |
+| 592 | Daydreamin' (feat. Jill Scott) | Lupe Fiasco, Jill Scott | Lupe Fiasco's Food & Liquor | 2023-08-03 | <sub>spotify:track:50M2QjfSM82wkJ1d0iV4mh</sub> |
+| 593 | HYAENA | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:0hL9gOw6XBWsygEUcVjxEc</sub> |
+| 594 | THANK GOD | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:1PH2MDbcBAU094DlgTIND1</sub> |
+| 595 | MY EYES | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:4kjI1gwQZRKNDkw1nI475M</sub> |
+| 596 | SIRENS | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:7LSpFCvRZZot2AlmkUzy9k</sub> |
+| 597 | MELTDOWN (feat. Drake) | Travis Scott, Drake | UTOPIA | 2023-08-05 | <sub>spotify:track:67nepsnrcZkowTxMWigSbb</sub> |
+| 598 | FE!N (feat. Playboi Carti) | Travis Scott, Playboi Carti | UTOPIA | 2023-08-05 | <sub>spotify:track:42VsgItocQwOQC3XWZ8JNA</sub> |
+| 599 | DELRESTO (ECHOES) (feat. Beyoncé) | Travis Scott, Beyoncé | UTOPIA | 2023-08-05 | <sub>spotify:track:0OEe83mMZ5kaNw5uZQ7ilG</sub> |
+| 600 | I KNOW ? | Travis Scott | UTOPIA | 2023-08-05 | <sub>spotify:track:6wsqVwoiVH2kde4k4KKAFU</sub> |
+| 601 | TOPIA TWINS (feat. Rob49 & 21 Savage) | Travis Scott, Rob49, 21 Savage | UTOPIA | 2023-08-05 | <sub>spotify:track:0lodMO0qK83vfPiiD7FMEt</sub> |
+| 602 | CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee) | Travis Scott, The Weeknd, Swae Lee | UTOPIA | 2023-08-05 | <sub>spotify:track:4GL9GMX9t7Qkprvf1YighZ</sub> |
+| 603 | PARASAIL (feat. Yung Lean & Dave Chappelle) | Travis Scott, Yung Lean, Dave Chappelle | UTOPIA | 2023-08-05 | <sub>spotify:track:2Q0aElTZQtEUsoiaQfizu6</sub> |
+| 604 | LOST FOREVER (feat. Westside Gunn) | Travis Scott, Westside Gunn | UTOPIA | 2023-08-05 | <sub>spotify:track:7EiUtdeoWcKqLi5ELZCjYf</sub> |
+| 605 | LOOOVE (feat. Kid Cudi) | Travis Scott, Kid Cudi | UTOPIA | 2023-08-05 | <sub>spotify:track:0a4SMs889NwP8oWI7Vemle</sub> |
+| 606 | K-POP (feat. Bad Bunny & The Weeknd) | Travis Scott, Bad Bunny, The Weeknd | UTOPIA | 2023-08-05 | <sub>spotify:track:4o82J5zr4DFEs9yj5szCVX</sub> |
+| 607 | TELEKINESIS (feat. SZA & Future) | Travis Scott, SZA, Future | UTOPIA | 2023-08-05 | <sub>spotify:track:1i9lZvlaDdWDPyXEE95aiq</sub> |
+| 608 | TIL FURTHER NOTICE (feat. James Blake & 21 Savage) | Travis Scott, James Blake, 21 Savage | UTOPIA | 2023-08-05 | <sub>spotify:track:76gcXhY3Zv6wW0BTe9nHJo</sub> |
+| 609 | Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge) | Danger Mouse, Black Thought, Russ, Dylan Cartlidge, Joey Bada$$ | Cheat Codes | 2023-08-07 | <sub>spotify:track:1pRkGgpQGX6nr8PrO1NMIs</sub> |
+| 610 | The Color Violet | Tory Lanez | Alone At Prom | 2023-08-12 | <sub>spotify:track:3azJifCSqg9fRij2yKIbWz</sub> |
+| 611 | Yellow Square - Starkey Remix | Jammz, Elijah, Starkey | Make the Ting (Starkey Remixes) | 2023-08-25 | <sub>spotify:track:2vyhWVYnm8gm3H35c4bXCN</sub> |
+| 612 | Iniesta Flow | namesbliss, scruz | Iniesta Flow | 2023-08-25 | <sub>spotify:track:1fZlxYXWrsus7bSPjX5Wng</sub> |
+| 613 | Pure Water | Skepta | Ignorance is Bliss | 2023-08-25 | <sub>spotify:track:27H75QUZMb6C0vNfN3T370</sub> |
+| 614 | Retail Therapy | Central Cee | 23 | 2023-08-25 | <sub>spotify:track:12auvGedCkbd6jiuspZXWS</sub> |
+| 615 | Londis | Blanco | ReBourne | 2023-08-25 | <sub>spotify:track:49sbpteBVjEyW4M6P38SM4</sub> |
+| 616 | Loading | Central Cee | Wild West | 2023-08-25 | <sub>spotify:track:4vzJrkfHbCGaodPA5RY5BV</sub> |
+| 617 | Sometimes | Danger Mouse, Black Thought | Cheat Codes | 2023-09-03 | <sub>spotify:track:5Bm3H6NCbcFIAi1OwZWn1S</sub> |
+| 618 | Nakamarra | Hiatus Kaiyote, Q-Tip | Tawk Tomahawk | 2023-09-18 | <sub>spotify:track:23D6FgVV4VygFfJxAtk72J</sub> |
+| 619 | Get Got | Death Grips | The Money Store | 2023-09-21 | <sub>spotify:track:781V2Y5LPtcpgONEOadadE</sub> |
+| 620 | The Secret Recipe | Lil Yachty, J. Cole | The Secret Recipe | 2023-10-07 | <sub>spotify:track:0pRqj4CrVCHOjDngEXZxcz</sub> |
+| 621 | TESLA | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:1wJNy6lvA0eeESHr86zICO</sub> |
+| 622 | Slide | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:25jjAbYCdkvo4tkuJoY2kz</sub> |
+| 623 | SOLO STEPPIN CRETE BOY | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:72HrnDF0CfN1jARxsVS0md</sub> |
+| 624 | Strike (Holster) | Lil Yachty | The Secret Recipe | 2023-10-07 | <sub>spotify:track:1SrKc6DEAZuzpPTxVk3fkk</sub> |
+| 625 | Red | IDK, Westside Gunn, MF DOOM, Jay Electronica | USEE4YOURSELF | 2023-10-12 | <sub>spotify:track:061yVp0KkuKIb7a1GY6eia</sub> |
+| 626 | STRAWBERRY LOUIS VUITTON ft. Thundercat and Maeta | VIC MENSA, Maeta, Thundercat | Victor | 2023-10-16 | <sub>spotify:track:1oX9O8hD9vysbWAINsTOLo</sub> |
+| 627 | Flowers (feat. MAVI) | TOBi, MAVI | Flowers (feat. MAVI) | 2023-10-16 | <sub>spotify:track:2e8OPXNNk9onHe4pknBZhD</sub> |
+| 628 | Win | IDK | Win | 2023-10-16 | <sub>spotify:track:4X4EtnTuuVY0QMZroFVwHY</sub> |
+| 629 | The Fly who couldn't Fly straight (feat. Tyler, The Creator) | Westside Gunn, Tyler, The Creator | Hitler Wears Hermes 8: Side B | 2023-10-17 | <sub>spotify:track:6bCbBTw3mqHWQwhFMMaOOq</sub> |
+| 630 | Van Gogh (feat. Lil Yachty) | JID, Lil Yachty | BlakkBoyz present Half Doin Dope/Van Gogh | 2023-10-17 | <sub>spotify:track:2tcI5EedPVjrxwewRQs62W</sub> |
+| 631 | RIOT (Rowdy Pipe'n) | A$AP Rocky, Pharrell Williams | RIOT (Rowdy Pipe'n) | 2023-10-17 | <sub>spotify:track:0B1xarnfKvUFWUoFdQnooq</sub> |
+| 632 | Half Doin Dope (with BabyTron feat. Lil Yachty) | JID, BabyTron, Lil Yachty | BlakkBoyz present Half Doin Dope/Van Gogh | 2023-10-18 | <sub>spotify:track:1J0O3RqCeoMcXbayQZDZXL</sub> |
+| 633 | Fire Squad | J. Cole | 2014 Forest Hills Drive | 2023-10-22 | <sub>spotify:track:6sf35vqrEAN8fOFzrKmv9A</sub> |
+| 634 | A$AP Forever (feat. Moby) | A$AP Rocky, Moby | A$AP Forever (feat. Moby) | 2023-10-23 | <sub>spotify:track:1YmF9PvLhIISIANoMLIYGq</sub> |
+| 635 | PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak) | DOMi & JD BECK, Anderson .Paak, Busta Rhymes, Snoop Dogg | NOT TiGHT | 2023-10-25 | <sub>spotify:track:6OquGsVTLqZHyxqG0PLwFz</sub> |
+| 636 | Show Me | Joey Bada$$ | 2000 | 2023-10-26 | <sub>spotify:track:2uuJs2nltcYFh9pkKP7bW4</sub> |
+| 637 | ASTROTHUNDER | Travis Scott | ASTROWORLD | 2023-10-26 | <sub>spotify:track:4MXhiYIRDMGAuvZc5IFTwC</sub> |
+| 638 | LVL | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) | 2023-10-26 | <sub>spotify:track:787rCZF9i4L1cXGMkdyIk4</sub> |
+| 639 | black samuarai. | jev. | the color grey. | 2023-10-26 | <sub>spotify:track:16JrfiRjHTFahRTV6fPKqQ</sub> |
+| 640 | 12.38 (feat. 21 Savage, Ink & Kadhja Bonet) | Childish Gambino, 21 Savage, Ink, Kadhja Bonet | 3.15.20 | 2023-10-29 | <sub>spotify:track:011ZwIM48eD8ee2UBpG8nK</sub> |
+| 641 | On Sight | Free Nationals, JID, Kadhja Bonet, MIKNNA | Free Nationals | 2023-10-29 | <sub>spotify:track:5WiShbQYrJnoG7mD961IKY</sub> |
+| 642 | Electric Relaxation | A Tribe Called Quest | The Anthology | 2023-10-29 | <sub>spotify:track:0eEXcw3JLVXcRxYrVYMy68</sub> |
+| 643 | Shook Ones, Pt. II | Mobb Deep | The Infamous | 2023-10-29 | <sub>spotify:track:33ZXjLCpiINn8eQIDYEPTD</sub> |
+| 644 | untitled 02 - 06.23.2014. | Kendrick Lamar | untitled unmastered. | 2023-10-29 | <sub>spotify:track:3I0FBDc1c1BLNtXWKVjmFg</sub> |
+| 645 | MOVIN' | Bluestaeb, Mick Jenkins, Aréna | MOVIN' | 2023-10-29 | <sub>spotify:track:4mWTAI8wYE4HpYIgPAASpV</sub> |
+| 646 | hue_man nature | Saba, No ID | hue_man nature | 2023-10-31 | <sub>spotify:track:2cVIKCgIfYOYyyXfQEstZN</sub> |
+| 647 | MOSHPIT | Baby Keem | DIE FOR MY BITCH | 2023-11-02 | <sub>spotify:track:6XrRiRgDivf3Kv4CKuQh9o</sub> |
+| 648 | Extinct | REASON, Isaiah Rashad, JID | New Beginnings | 2023-11-02 | <sub>spotify:track:70hDklZStSazrExPjHJPfR</sub> |
+| 649 | Said N Done | 21 Savage, Metro Boomin | SAVAGE MODE II | 2023-11-03 | <sub>spotify:track:11XegnWeJHBDtj9IsNwngu</sub> |
+| 650 | All The Stars (with SZA) | Kendrick Lamar, SZA | Black Panther The Album Music From And Inspired By | 2023-11-05 | <sub>spotify:track:3GCdLUSnKSMJhs4Tj6CV3s</sub> |
+| 651 | Hands on the Wheel (feat. Asap Rocky) | ScHoolboy Q, A$AP Rocky | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:78JKJfKsqgeBDBF58gv1SF</sub> |
+| 652 | Sex Drive (feat. J Hene Aiko) | ScHoolboy Q, Jhené Aiko | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:1j64JX3cT30zXUAz2a2C1H</sub> |
+| 653 | Sacrilegious | ScHoolboy Q | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4L3hja5ROnBDN5So4bUEo3</sub> |
+| 654 | Codeine Crazy | Future | Monster | 2023-11-08 | <sub>spotify:track:0joQFwiBKmi6X1Iq5R1ubH</sub> |
+| 655 | Druggys Wit Hoes Again (feat. Ab Soul) | ScHoolboy Q, Ab-Soul | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4vpNOBwJSl8HA3pLXY6c8U</sub> |
+| 656 | Smoke Break-Dance (feat. JID) | Mick Jenkins, JID | Smoke Break-Dance (feat. JID) | 2023-11-12 | <sub>spotify:track:1Dm5maHjhhmcdqS5hK61Ut</sub> |
+| 657 | Simple Life | Skepta, Sam Frank | Blacklisted | 2023-11-14 | <sub>spotify:track:1cDLyaFDWUjab3x0pI2oPT</sub> |
+| 658 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
+| 659 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
+| 660 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
+| 661 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
+| 662 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
+| 663 | leavemealone | Fred again.., Baby Keem | leavemealone | 2023-12-11 | <sub>spotify:track:1MVqeIAwhD4T44AKVkIfic</sub> |
+| 664 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
+| 665 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
+| 666 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
+| 667 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
+| 668 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK, Shiki | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
+| 669 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
+| 670 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
+| 671 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
+| 672 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
+| 673 | Woman | Little Simz, Cleo Sol | Sometimes I Might Be Introvert | 2024-01-08 | <sub>spotify:track:60GM1mA58L7SYD1bLQXBho</sub> |
+| 674 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
+| 675 | Beef FloMix | Flo Milli | Ho, why is you here ? | 2024-01-13 | <sub>spotify:track:7qdFz1dTJqgdVe6NA4F4DP</sub> |
+| 676 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
+| 677 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
+| 678 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
+| 679 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
+| 680 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
+| 681 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
+| 682 | By Design | Kid Cudi, André Benjamin | Passion, Pain & Demon Slayin' | 2024-01-21 | <sub>spotify:track:5FxVTEpoBress37MmlMhbZ</sub> |
+| 683 | End of The niGht. | Phony Ppl | Yesterday's Tomorrow | 2024-01-21 | <sub>spotify:track:2p4ARx5nk3b9Jh07ivQR1c</sub> |
+| 684 | Louie Bag (feat. Smino) | Yebba, Smino | Dawn | 2024-01-21 | <sub>spotify:track:0PspnH1gJYzr1NGqYRK3IO</sub> |
+| 685 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |
+| 686 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
+| 687 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
+| 688 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
+| 689 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
+| 690 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
