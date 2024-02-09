@@ -655,3 +655,4 @@
 | 652 | Abie | Avishai Cohen | From Darkness | 2024-02-01 | <sub>spotify:track:5BmnoQH8bpl1AjS5xKPztt</sub> |
 | 653 | Huit octobre 1971 | Cortex | Troupeau bleu | 2024-02-05 | <sub>spotify:track:2CsnpBAB8VQMTyPuws57ao</sub> |
 | 654 | Arrival | The Alchemist | Israeli Salad | 2024-02-05 | <sub>spotify:track:6quMGNh47CpSR5kmZSYSTK</sub> |
+| 655 | Earl (Feat. Leland Whitty) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Earl+%28Feat.+Leland+Whitty%29:226</sub> |
