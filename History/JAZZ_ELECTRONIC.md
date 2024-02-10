@@ -656,3 +656,13 @@
 | 653 | Huit octobre 1971 | Cortex | Troupeau bleu | 2024-02-05 | <sub>spotify:track:2CsnpBAB8VQMTyPuws57ao</sub> |
 | 654 | Arrival | The Alchemist | Israeli Salad | 2024-02-05 | <sub>spotify:track:6quMGNh47CpSR5kmZSYSTK</sub> |
 | 655 | Earl (Feat. Leland Whitty) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Earl+%28Feat.+Leland+Whitty%29:226</sub> |
+| 656 | Vices | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Vices:280</sub> |
+| 657 | Limit To Your Love | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Limit+To+Your+Love:270</sub> |
+| 658 | Rotten Decay | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Rotten+Decay:391</sub> |
+| 659 | Bastard / Lemonade | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Bastard+%2F+Lemonade:424</sub> |
+| 660 | CHSTR | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:CHSTR:325</sub> |
+| 661 | UWM (Feat. Leland Whitty) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:UWM+%28Feat.+Leland+Whitty%29:362</sub> |
+| 662 | DMZ | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:DMZ:312</sub> |
+| 663 | CMYK | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:CMYK:316</sub> |
+| 664 | Flashing Lights | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Flashing+Lights:436</sub> |
+| 665 | You Made Me Realise (Feat. Luan Phung) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:You+Made+Me+Realise+%28Feat.+Luan+Phung%29:321</sub> |
