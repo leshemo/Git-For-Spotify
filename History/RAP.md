@@ -690,3 +690,4 @@
 | 687 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
 | 688 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
 | 689 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
+| 690 | Waves | Joey Bada$$ | 1999 | 2024-02-11 | <sub>spotify:track:3AM2ihc5RFzbC47eCpTg2I</sub> |

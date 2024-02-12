@@ -149,3 +149,5 @@
 | 146 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
 | 147 | Israeli Salad | The Alchemist | 2024-02-05 | <sub>spotify:album:7ntqAx8PbkYHwjeZnliXRV</sub> |
 | 148 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-10 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
+| 149 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
+| 150 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
