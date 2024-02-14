@@ -151,3 +151,4 @@
 | 148 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-10 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
 | 149 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
 | 150 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
+| 151 | Talk Memory | BADBADNOTGOOD | 2024-02-14 | <sub>spotify:album:594yqwr1MOvVX0UBnOWftY</sub> |

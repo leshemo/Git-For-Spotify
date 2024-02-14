@@ -666,3 +666,4 @@
 | 663 | CMYK | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:CMYK:316</sub> |
 | 664 | Flashing Lights | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:Flashing+Lights:436</sub> |
 | 665 | You Made Me Realise (Feat. Luan Phung) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:You+Made+Me+Realise+%28Feat.+Luan+Phung%29:321</sub> |
+| 666 | 1969 | Boards of Canada | Geogaddi | 2024-02-14 | <sub>spotify:track:7qWHLT10dDsu8fCJZFkL5y</sub> |
