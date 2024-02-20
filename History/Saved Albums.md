@@ -148,10 +148,10 @@
 | 145 | Everything Ecstatic | Four Tet | 2024-01-29 | <sub>spotify:album:2BKXRpAaq7jZStXo6A10qK</sub> |
 | 146 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
 | 147 | Israeli Salad | The Alchemist | 2024-02-05 | <sub>spotify:album:7ntqAx8PbkYHwjeZnliXRV</sub> |
-| 148 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-10 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
-| 149 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
-| 150 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
-| 151 | Talk Memory | BADBADNOTGOOD | 2024-02-14 | <sub>spotify:album:594yqwr1MOvVX0UBnOWftY</sub> |
-| 152 | As Grande As | Grande Mahogany | 2024-02-15 | <sub>spotify:album:1qR6pJM4fiDxflPzAuJ1t6</sub> |
-| 153 | Funeral | Arcade Fire | 2024-02-16 | <sub>spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH</sub> |
-| 154 | She Reaches Out To She Reaches Out To She | Chelsea Wolfe | 2024-02-17 | <sub>spotify:album:4uJMF1xAEk9IgPA5UbwNA6</sub> |
+| 148 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
+| 149 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
+| 150 | Talk Memory | BADBADNOTGOOD | 2024-02-14 | <sub>spotify:album:594yqwr1MOvVX0UBnOWftY</sub> |
+| 151 | As Grande As | Grande Mahogany | 2024-02-15 | <sub>spotify:album:1qR6pJM4fiDxflPzAuJ1t6</sub> |
+| 152 | Funeral | Arcade Fire | 2024-02-16 | <sub>spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH</sub> |
+| 153 | She Reaches Out To She Reaches Out To She | Chelsea Wolfe | 2024-02-17 | <sub>spotify:album:4uJMF1xAEk9IgPA5UbwNA6</sub> |
+| 154 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-19 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
