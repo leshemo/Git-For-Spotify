@@ -245,3 +245,5 @@
 | 242 | Kerosene! | Yves Tumor | Heaven To A Tortured Mind | 2024-02-10 | <sub>spotify:track:2OoKzfr7RB5o9cxHArUoIS</sub> |
 | 243 | Dream Palette | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:3vrJL03OZSxa1QZQ7b63jn</sub> |
 | 244 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
+| 245 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
+| 246 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
