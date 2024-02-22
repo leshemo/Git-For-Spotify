@@ -668,3 +668,4 @@
 | 665 | You Made Me Realise (Feat. Luan Phung) | BADBADNOTGOOD | BBNG2 | 2024-02-09 | <sub>spotify:local:BADBADNOTGOOD:BBNG2:You+Made+Me+Realise+%28Feat.+Luan+Phung%29:321</sub> |
 | 666 | 1969 | Boards of Canada | Geogaddi | 2024-02-14 | <sub>spotify:track:7qWHLT10dDsu8fCJZFkL5y</sub> |
 | 667 | Overcome | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-02-16 | <sub>spotify:track:0tYEsmdrsv5Fi3UOn58bou</sub> |
+| 668 | Opium (feat. EARTHGANG) | Gorillaz, EARTHGANG | Song Machine, Season One: Strange Timez (Deluxe) | 2024-02-21 | <sub>spotify:track:4jNs9cJBsFTiahZAe3iuwV</sub> |

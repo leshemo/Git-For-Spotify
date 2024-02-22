@@ -34,7 +34,7 @@
 | 31 | Intro | The xx | xx | 2018-02-16 | <sub>spotify:track:0DAsxISzun85PbsqAfIzeC</sub> |
 | 32 | Trojans | Atlas Genius | When It Was Now (Deluxe Edition) | 2018-02-16 | <sub>spotify:track:4AyoAGuhE8gydBPrczuhbl</sub> |
 | 33 | Stolen Dance | Milky Chance | Sadnecessary | 2018-02-16 | <sub>spotify:track:6vECYJHxYmm3Ydt3fF01pE</sub> |
-| 34 | Walking On A Dream | Empire of the Sun | Walking On A Dream | 2018-02-16 | <sub>spotify:track:0mBkoM8r7KAQzZij5swTUL</sub> |
+| 34 | Walking On A Dream | Empire Of The Sun | Walking On A Dream | 2018-02-16 | <sub>spotify:track:0mBkoM8r7KAQzZij5swTUL</sub> |
 | 35 | 1901 | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:5JtPGzRgrWxkXX9LoROq3d</sub> |
 | 36 | Lisztomania | Phoenix | Wolfgang Amadeus Phoenix | 2018-02-16 | <sub>spotify:track:6ZrlXT6mUMEgomN128iekU</sub> |
 | 37 | If I Ever Feel Better | Phoenix | United | 2018-02-16 | <sub>spotify:track:3AA8xNhDC0MpqwkGX3EP5V</sub> |
@@ -247,3 +247,5 @@
 | 244 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
 | 245 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
 | 246 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
+| 247 | Tunnel Lights | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:1IfF0yORFZlaMAWQW1UTiu</sub> |
+| 248 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
