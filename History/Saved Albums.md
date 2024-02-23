@@ -155,3 +155,4 @@
 | 152 | Funeral | Arcade Fire | 2024-02-16 | <sub>spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH</sub> |
 | 153 | She Reaches Out To She Reaches Out To She | Chelsea Wolfe | 2024-02-17 | <sub>spotify:album:4uJMF1xAEk9IgPA5UbwNA6</sub> |
 | 154 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-19 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
+| 155 | Manger on McNichols | Boldy James, Sterling Toles | 2024-02-22 | <sub>spotify:album:0ZUtBUG7Ya4y0p8qSYlPFj</sub> |
