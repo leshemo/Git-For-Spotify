@@ -689,3 +689,4 @@
 | 686 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
 | 687 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
 | 688 | Waves | Joey Bada$$ | 1999 | 2024-02-11 | <sub>spotify:track:3AM2ihc5RFzbC47eCpTg2I</sub> |
+| 689 | Gangsta | Free Nationals, A$AP Rocky, Anderson .Paak | Gangsta | 2024-02-25 | <sub>spotify:track:49oKnEjgRSs3DMXScEU2G1</sub> |
