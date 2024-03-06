@@ -158,3 +158,4 @@
 | 155 | Manger on McNichols | Boldy James, Sterling Toles | 2024-02-22 | <sub>spotify:album:0ZUtBUG7Ya4y0p8qSYlPFj</sub> |
 | 156 | ANIMA | Thom Yorke | 2024-02-23 | <sub>spotify:album:5DDPFOJVHhc93OlqirbAtm</sub> |
 | 157 | Oracular Spectacular | MGMT | 2024-03-02 | <sub>spotify:album:6mm1Skz3JE6AXneya9Nyiv</sub> |
+| 158 | Shabrang | Sevdaliza | 2024-03-05 | <sub>spotify:album:54tTC9UQtLnu5Wldhlnstr</sub> |
