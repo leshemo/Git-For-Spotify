@@ -160,4 +160,5 @@
 | 157 | Oracular Spectacular | MGMT | 2024-03-02 | <sub>spotify:album:6mm1Skz3JE6AXneya9Nyiv</sub> |
 | 158 | Shabrang | Sevdaliza | 2024-03-05 | <sub>spotify:album:54tTC9UQtLnu5Wldhlnstr</sub> |
 | 159 | BLUE LIPS | ScHoolboy Q | 2024-03-06 | <sub>spotify:album:107WsrBqn5xVPgystkziry</sub> |
-| 160 | Xeno | rei brown | 2024-03-07 | <sub>spotify:album:54DKeR5680lyfCrx7Gpmfr</sub> |
+| 160 | Loss Of Life | MGMT | 2024-03-08 | <sub>spotify:album:4dJvBAUQOaaCpRqsECRooa</sub> |
+| 161 | Little Dark Age | MGMT | 2024-03-08 | <sub>spotify:album:7GjVWG39IOj4viyWplJV4H</sub> |
