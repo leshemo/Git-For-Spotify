@@ -691,3 +691,5 @@
 | 688 | Waves | Joey Bada$$ | 1999 | 2024-02-11 | <sub>spotify:track:3AM2ihc5RFzbC47eCpTg2I</sub> |
 | 689 | Gangsta | Free Nationals, A$AP Rocky, Anderson .Paak | Gangsta | 2024-02-25 | <sub>spotify:track:49oKnEjgRSs3DMXScEU2G1</sub> |
 | 690 | SOMEBODY | Nobu Woods | IRIS | 2024-03-07 | <sub>spotify:track:7pVnRgGMi2uNjOj04TL5eg</sub> |
+| 691 | Love Birds (feat. Devin Malik & Lance Skiiiwalker) | ScHoolboy Q, Devin Malik, Lance Skiiiwalker | BLUE LIPS | 2024-03-08 | <sub>spotify:track:6aTGdCvAqaiO5YwcjAkfrW</sub> |
+| 692 | Blueslides | ScHoolboy Q | BLUE LIPS | 2024-03-08 | <sub>spotify:track:7u1P36qRqrSNrXAp98cyp1</sub> |

@@ -161,4 +161,6 @@
 | 158 | Shabrang | Sevdaliza | 2024-03-05 | <sub>spotify:album:54tTC9UQtLnu5Wldhlnstr</sub> |
 | 159 | BLUE LIPS | ScHoolboy Q | 2024-03-06 | <sub>spotify:album:107WsrBqn5xVPgystkziry</sub> |
 | 160 | Loss Of Life | MGMT | 2024-03-08 | <sub>spotify:album:4dJvBAUQOaaCpRqsECRooa</sub> |
-| 161 | Little Dark Age | MGMT | 2024-03-08 | <sub>spotify:album:7GjVWG39IOj4viyWplJV4H</sub> |
+| 161 | Dreamfear / Boy Sent From Above | Burial | 2024-03-08 | <sub>spotify:album:6gfaxkb8AwQpr0idbYnsAm</sub> |
+| 162 | Prelude to Ecstasy | The Last Dinner Party | 2024-03-08 | <sub>spotify:album:1ycq58KRtWt3wFtbuIkvLn</sub> |
+| 163 | 2093 | Yeat | 2024-03-08 | <sub>spotify:album:1jXYc5gip5tqCTDOotfY5L</sub> |
