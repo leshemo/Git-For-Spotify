@@ -693,3 +693,4 @@
 | 690 | SOMEBODY | Nobu Woods | IRIS | 2024-03-07 | <sub>spotify:track:7pVnRgGMi2uNjOj04TL5eg</sub> |
 | 691 | Love Birds (feat. Devin Malik & Lance Skiiiwalker) | ScHoolboy Q, Devin Malik, Lance Skiiiwalker | BLUE LIPS | 2024-03-08 | <sub>spotify:track:6aTGdCvAqaiO5YwcjAkfrW</sub> |
 | 692 | Blueslides | ScHoolboy Q | BLUE LIPS | 2024-03-08 | <sub>spotify:track:7u1P36qRqrSNrXAp98cyp1</sub> |
+| 693 | Foux (feat. Ab-Soul) | ScHoolboy Q, Ab-Soul | BLUE LIPS | 2024-03-09 | <sub>spotify:track:6UqgBwNMKmhjDuN0OcVJA0</sub> |

@@ -164,3 +164,4 @@
 | 161 | Dreamfear / Boy Sent From Above | Burial | 2024-03-08 | <sub>spotify:album:6gfaxkb8AwQpr0idbYnsAm</sub> |
 | 162 | Prelude to Ecstasy | The Last Dinner Party | 2024-03-08 | <sub>spotify:album:1ycq58KRtWt3wFtbuIkvLn</sub> |
 | 163 | 2093 | Yeat | 2024-03-08 | <sub>spotify:album:1jXYc5gip5tqCTDOotfY5L</sub> |
+| 164 | Hard Normal Daddy | Squarepusher | 2024-03-09 | <sub>spotify:album:08XR1KLcDo49Yay08q7CsE</sub> |
