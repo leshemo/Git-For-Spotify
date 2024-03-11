@@ -694,3 +694,4 @@
 | 691 | Love Birds (feat. Devin Malik & Lance Skiiiwalker) | ScHoolboy Q, Devin Malik, Lance Skiiiwalker | BLUE LIPS | 2024-03-08 | <sub>spotify:track:6aTGdCvAqaiO5YwcjAkfrW</sub> |
 | 692 | Blueslides | ScHoolboy Q | BLUE LIPS | 2024-03-08 | <sub>spotify:track:7u1P36qRqrSNrXAp98cyp1</sub> |
 | 693 | Foux (feat. Ab-Soul) | ScHoolboy Q, Ab-Soul | BLUE LIPS | 2024-03-09 | <sub>spotify:track:6UqgBwNMKmhjDuN0OcVJA0</sub> |
+| 694 | Brilliant Mind | Blanco | ReBourne | 2024-03-10 | <sub>spotify:track:5S46E2UNGDYcwZ26yj6aNr</sub> |
