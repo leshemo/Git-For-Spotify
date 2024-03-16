@@ -142,8 +142,8 @@
 | 139 | Improv #1 (Pt. I Outro) | Brasstracks, Robert Glasper | For Those Who Know (Deluxe) | 2020-09-09 | <sub>spotify:track:4S6UPmpmoU4JbLdphoOTXH</sub> |
 | 140 | Memories (feat. Kid Cudi) | David Guetta, Kid Cudi | One Love (Deluxe) | 2020-11-18 | <sub>spotify:track:4dTaAiV9xFFCxnPur9c9yL</sub> |
 | 141 | Feeling Good | Nina Simone | I Put A Spell On You | 2020-11-20 | <sub>spotify:track:6Rqn2GFlmvmV4w9Ala0I1e</sub> |
-| 142 | 10% | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
-| 143 | Culture | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
+| 142 | 10% (feat. Kali Uchis) | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
+| 143 | Culture (feat. Teedra Moses) | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
 | 144 | GONE, GONE / THANK YOU | Tyler, The Creator | IGOR | 2020-12-28 | <sub>spotify:track:1hz7SRTGUNAtIQ46qiNv2p</sub> |
 | 145 | Think About Things | Daði Freyr | Think About Things | 2021-03-06 | <sub>spotify:track:2iRniYXjMHKmwXqA2jYXP7</sub> |
 | 146 | Little Dark Age | MGMT | Little Dark Age | 2021-10-29 | <sub>spotify:track:2Y0iGXY6m6immVb2ktbseM</sub> |
@@ -178,7 +178,7 @@
 | 175 | Close To You | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6D2tzc8kRnZb7P1lNwMBLH</sub> |
 | 176 | Goodnight Gotham | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5LJz7kmFhLqB53tmVWxig5</sub> |
 | 177 | Sex With Me | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:7BiELrM90hRxpozaIXbsLw</sub> |
-| 178 | Virtual Insanity - Remastered | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
+| 178 | Virtual Insanity - Remastered 2006 | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
 | 179 | white noise! (feat. cybertrash) | she loves boon, Cybertrash | white noise! (feat. cybertrash) | 2023-06-16 | <sub>spotify:track:4RZRRDbFDgxkf5hV2xizyr</sub> |
 | 180 | obstáculo | Tainy, Myke Towers | DATA | 2023-07-15 | <sub>spotify:track:3O4V8llGlOYtmZVoZi8U5v</sub> |
 | 181 | PASIEMPRE | Tainy, Arcángel, Jhayco, Myke Towers, Omar Courtz, Arca | DATA | 2023-07-15 | <sub>spotify:track:5NhLA2P7AiV3cloVmwtwLS</sub> |
