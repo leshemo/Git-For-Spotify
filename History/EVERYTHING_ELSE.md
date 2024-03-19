@@ -251,3 +251,5 @@
 | 248 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
 | 249 | Thundercurls | Grande Mahogany | As Grande As | 2024-02-22 | <sub>spotify:track:4O0xgjA5G5bYxp9VQ3VNSa</sub> |
 | 250 | Rhode | Sevdaliza | Shabrang | 2024-03-11 | <sub>spotify:track:36RBtb5cme2MASrGN3xsQ8</sub> |
+| 251 | Cowboy Nudes | Geese | 3D Country | 2024-03-19 | <sub>spotify:track:7i8XQTUczz7xyFdkSAdEg9</sub> |
+| 252 | 4D Country | Geese | 4D Country | 2024-03-19 | <sub>spotify:track:03vAF0pePPaK8kQAK0JVAa</sub> |
