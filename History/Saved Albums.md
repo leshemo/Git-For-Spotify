@@ -165,3 +165,6 @@
 | 162 | Hard Normal Daddy | Squarepusher | 2024-03-09 | <sub>spotify:album:08XR1KLcDo49Yay08q7CsE</sub> |
 | 163 | 3D Country | Geese | 2024-03-17 | <sub>spotify:album:475CtqaU2OY24xBvIekWV6</sub> |
 | 164 | The Great Bailout | Moor Mother | 2024-03-18 | <sub>spotify:album:4McRUm1jODWhmUWmgmG0px</sub> |
+| 165 | NEOPOLIS | Hidden Renaissance | 2024-03-20 | <sub>spotify:album:07qZ5nWFN9m1oVkE7jNCuC</sub> |
+| 166 | The Sun's Tirade | Isaiah Rashad | 2024-03-20 | <sub>spotify:album:6jjX8mGrsWtrpYpFhGMrg1</sub> |
+| 167 | Oil Change | Trapo | 2024-03-20 | <sub>spotify:album:2jJXeNsChwq1VEWdZnDznu</sub> |
