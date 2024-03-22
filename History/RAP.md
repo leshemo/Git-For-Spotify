@@ -696,6 +696,8 @@
 | 693 | Foux (feat. Ab-Soul) | ScHoolboy Q, Ab-Soul | BLUE LIPS | 2024-03-09 | <sub>spotify:track:6UqgBwNMKmhjDuN0OcVJA0</sub> |
 | 694 | Brilliant Mind | Blanco | ReBourne | 2024-03-10 | <sub>spotify:track:5S46E2UNGDYcwZ26yj6aNr</sub> |
 | 695 | Desoleil (Brilliant Corners) | Loyle Carner, Sampha | Not Waving, But Drowning | 2024-03-19 | <sub>spotify:track:5rYTMjVkGioNF4MpSQISlg</sub> |
-| 696 | MAUVAIS PAYEUR | La Fève | ERRR | 2024-03-20 | <sub>spotify:track:18gJ5bLhq6cfKJefdwzGpj</sub> |
-| 697 | Love, of Money | MAVI | Let the Sun Talk | 2024-03-20 | <sub>spotify:track:6qUkNMd34rjpDP5EUy9JNS</sub> |
-| 698 | pick up the phone | Young Thug, Travis Scott | pick up the phone | 2024-03-21 | <sub>spotify:track:4GXl8l1MfZPf2GvpyRPJBf</sub> |
+| 696 | Love, of Money | MAVI | Let the Sun Talk | 2024-03-20 | <sub>spotify:track:6qUkNMd34rjpDP5EUy9JNS</sub> |
+| 697 | THE SUN (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-21 | <sub>spotify:track:106yiMHU6uhZXvFyAcKKuA</sub> |
+| 698 | Let The Sample Work | Ben Reilly | Let The Sample Work | 2024-03-21 | <sub>spotify:track:4vyA2HBhmv5g0qCLaXWjOJ</sub> |
+| 699 | Unusual | Zahir, Phoenix James, Wiseboy Jeremy | Unusual | 2024-03-21 | <sub>spotify:track:2qLHdO8ARL5Fjk5fyJH6Us</sub> |
+| 700 | OKAY! (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-22 | <sub>spotify:track:2g7t7LDSgevL6DZmQu6xp9</sub> |

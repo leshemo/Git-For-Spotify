@@ -168,3 +168,5 @@
 | 165 | NEOPOLIS | Hidden Renaissance | 2024-03-20 | <sub>spotify:album:07qZ5nWFN9m1oVkE7jNCuC</sub> |
 | 166 | The Sun's Tirade | Isaiah Rashad | 2024-03-20 | <sub>spotify:album:6jjX8mGrsWtrpYpFhGMrg1</sub> |
 | 167 | Oil Change | Trapo | 2024-03-20 | <sub>spotify:album:2jJXeNsChwq1VEWdZnDznu</sub> |
+| 168 | Modus Vivendi | 070 Shake | 2024-03-21 | <sub>spotify:album:6Q2rUMVAKj1DaDh3xB0IEU</sub> |
+| 169 | You Can’t Kill Me | 070 Shake | 2024-03-22 | <sub>spotify:album:6KQa2rAuOS2rX18xyA9eru</sub> |
