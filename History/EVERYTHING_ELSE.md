@@ -257,3 +257,4 @@
 | 254 | The Pines | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0uTw7TNnYn64XmCAo5jr0c</sub> |
 | 255 | Guilty Conscience | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0smgkpVia3VCXgY4qhVJvp</sub> |
 | 256 | Come Around | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0fl8Tsy98InF9qnM6vrZ60</sub> |
+| 257 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
