@@ -260,3 +260,4 @@
 | 257 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
 | 258 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
 | 259 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
+| 260 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
