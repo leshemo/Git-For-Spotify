@@ -261,3 +261,4 @@
 | 258 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
 | 259 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
 | 260 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
+| 261 | Regret | St. Vincent | St. Vincent (Deluxe Edition) | 2024-04-05 | <sub>spotify:track:2OCus0BsjJFo7E2TSAGnIe</sub> |
