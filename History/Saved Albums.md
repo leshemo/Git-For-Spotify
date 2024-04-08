@@ -172,3 +172,4 @@
 | 169 | You Can’t Kill Me | 070 Shake | 2024-03-22 | <sub>spotify:album:6KQa2rAuOS2rX18xyA9eru</sub> |
 | 170 | St. Vincent (Deluxe Edition) | St. Vincent | 2024-04-04 | <sub>spotify:album:2FtneRtIF1I5HPBsIxSqf0</sub> |
 | 171 | The Collective | Kim Gordon | 2024-04-06 | <sub>spotify:album:4j9UADX3wZtXWolDNT3y3x</sub> |
+| 172 | Shabrang | Sevdaliza | 2024-04-08 | <sub>spotify:album:0VtzP3PGH07r1pzwX1CSwq</sub> |
