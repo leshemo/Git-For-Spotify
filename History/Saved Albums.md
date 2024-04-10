@@ -173,3 +173,6 @@
 | 170 | St. Vincent (Deluxe Edition) | St. Vincent | 2024-04-04 | <sub>spotify:album:2FtneRtIF1I5HPBsIxSqf0</sub> |
 | 171 | The Collective | Kim Gordon | 2024-04-06 | <sub>spotify:album:4j9UADX3wZtXWolDNT3y3x</sub> |
 | 172 | Shabrang | Sevdaliza | 2024-04-08 | <sub>spotify:album:0VtzP3PGH07r1pzwX1CSwq</sub> |
+| 173 | I Should Coco | Supergrass | 2024-04-09 | <sub>spotify:album:4XeQWsW3K9qjfv5FP9Jtcv</sub> |
+| 174 | Supergrass | Supergrass | 2024-04-09 | <sub>spotify:album:3XNEqXHHt9KIT2vOPfwx5m</sub> |
+| 175 | In It for the Money | Supergrass | 2024-04-09 | <sub>spotify:album:020brgMKGgdPSYjcVNypql</sub> |
