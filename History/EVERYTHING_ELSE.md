@@ -129,137 +129,136 @@
 | 126 | Hanging Tree | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:0CCCRAKJHgvhMK3RzsisiI</sub> |
 | 127 | Summertime Sadness | Lana Del Rey | Born To Die - The Paradise Edition | 2020-01-14 | <sub>spotify:track:2dBwB667LHQkLhdYlwLUZK</sub> |
 | 128 | Gonna Leave You | Queens of the Stone Age | Songs For The Deaf | 2020-01-14 | <sub>spotify:track:5taBpQ59lvb2NLGDdbDQbB</sub> |
-| 129 | Still Don't Know My Name | Labrinth | Euphoria (Original Score from the HBO Series) | 2020-03-19 | <sub>spotify:track:6N22FZs2ZhPBYi3b9XPajV</sub> |
-| 130 | Blinding Lights | The Weeknd | Blinding Lights | 2020-03-21 | <sub>spotify:track:0sf12qNH5qcw8qpgymFOqD</sub> |
-| 131 | After Hours | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:4ejyZ4uJEXUURcgKp1kP8v</sub> |
-| 132 | Alone Again | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:6b5P51m8xx2XA6U7sdNZ5E</sub> |
-| 133 | Redbone | Childish Gambino | "Awaken, My Love!" | 2020-03-24 | <sub>spotify:track:0wXuerDYiBnERgIpbb3JBR</sub> |
-| 134 | Jerk It Out | Caesars | Love For The Streets | 2020-06-14 | <sub>spotify:track:5XMjXjwCkJVmk0AHm7z8IV</sub> |
-| 135 | While My Guitar Gently Weeps - 2018 Mix | The Beatles | The Beatles | 2020-07-08 | <sub>spotify:track:0ZqSsO2xoVvcrhpiRuqCmt</sub> |
-| 136 | Eleanor Rigby - Remastered 2015 | The Beatles | 1 (Remastered) | 2020-07-08 | <sub>spotify:track:0Wv8IXRUDZOfmFJHC1VOFI</sub> |
-| 137 | Strawberry Fields Forever - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2020-07-08 | <sub>spotify:track:3Am0IbOxmvlSXro7N5iSfZ</sub> |
-| 138 | Megaboss | The Funky Knuckles | Delicious | 2020-09-09 | <sub>spotify:track:4H4ZUzwqPgSOti1B6Q5oay</sub> |
-| 139 | Improv #1 (Pt. I Outro) | Brasstracks, Robert Glasper | For Those Who Know (Deluxe) | 2020-09-09 | <sub>spotify:track:4S6UPmpmoU4JbLdphoOTXH</sub> |
-| 140 | Memories (feat. Kid Cudi) | David Guetta, Kid Cudi | One Love (Deluxe) | 2020-11-18 | <sub>spotify:track:4dTaAiV9xFFCxnPur9c9yL</sub> |
-| 141 | Feeling Good | Nina Simone | I Put A Spell On You | 2020-11-20 | <sub>spotify:track:6Rqn2GFlmvmV4w9Ala0I1e</sub> |
-| 142 | 10% (feat. Kali Uchis) | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
-| 143 | Culture (feat. Teedra Moses) | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
-| 144 | GONE, GONE / THANK YOU | Tyler, The Creator | IGOR | 2020-12-28 | <sub>spotify:track:1hz7SRTGUNAtIQ46qiNv2p</sub> |
-| 145 | Think About Things | Daði Freyr | Think About Things | 2021-03-06 | <sub>spotify:track:2iRniYXjMHKmwXqA2jYXP7</sub> |
-| 146 | Little Dark Age | MGMT | Little Dark Age | 2021-10-29 | <sub>spotify:track:2Y0iGXY6m6immVb2ktbseM</sub> |
-| 147 | Weightless | Marconi Union | The Ambient Zone Just Music Cafe Vol 4 | 2021-11-24 | <sub>spotify:track:6kkwzB6hXLIONkEk9JciA6</sub> |
-| 148 | Why'd You Only Call Me When You're High? | Arctic Monkeys | AM | 2021-12-21 | <sub>spotify:track:086myS9r57YsLbJpU0TgK9</sub> |
-| 149 | Song 2 - 2012 Remaster | Blur | Blur (Special Edition) | 2022-03-23 | <sub>spotify:track:1FTSo4v6BOZH9QxKc3MbVM</sub> |
-| 150 | Cracker Island (feat. Thundercat) | Gorillaz, Thundercat | Cracker Island (feat. Thundercat) | 2022-06-25 | <sub>spotify:track:2W3ZpQg9i6lE6kmHbcdu9N</sub> |
-| 151 | Deceptacon | Le Tigre | Le Tigre | 2022-08-30 | <sub>spotify:track:5773KSWFzg9kCc8yazjbSt</sub> |
-| 152 | New Gold (feat. Tame Impala and Bootie Brown) | Gorillaz, Tame Impala, Bootie Brown | New Gold (feat. Tame Impala and Bootie Brown) | 2022-09-06 | <sub>spotify:track:64dLd6rVqDLtkXFYrEUHIU</sub> |
-| 153 | Me and Your Mama | Childish Gambino | "Awaken, My Love!" | 2022-10-07 | <sub>spotify:track:31tf1qEai5o5f4r66Kd0pU</sub> |
-| 154 | Fantasy | Earth, Wind & Fire | All 'N All | 2022-11-05 | <sub>spotify:track:2GH5jo15wbTv1Ll7zXEzSg</sub> |
-| 155 | שירת הסטיקר 2019 | Hadag Nahash, Firqat Alnoor | שירת הסטיקר 2019 | 2022-12-27 | <sub>spotify:track:7vrM6gSFwKLlWsr6ZYQjhi</sub> |
-| 156 | לא מוותר | Hadag Nahash | המכונה של הגרוב | 2022-12-27 | <sub>spotify:track:64hgE6tpdju5feSAz7ozMO</sub> |
-| 157 | Santa Barbara | Benny Sings, Nataly Dawn | Santa Barbara | 2023-01-12 | <sub>spotify:track:5HYPU0x0lbMfMyCASETzK5</sub> |
-| 158 | the ride- | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:04HeNxRRVjcwctfp2K2kMu</sub> |
-| 159 | running out of time | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7zy7iE31dGO70ShMXghsfj</sub> |
-| 160 | pRETTy | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6vDyzD9o8aYhR1963oJpkO</sub> |
-| 161 | WE SAW THE SUN! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7FqH4CO8H5j9EXHKTBP7xE</sub> |
-| 162 | IVE OFFICIALLY LOST ViSiON!!!! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:4PXuZYWhkyGXQzfSRy2PW1</sub> |
-| 163 | sAy sOMETHINg | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:1G7wqLzQQ3tveTYHcO5uVN</sub> |
-| 164 | paint THE sky | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:2lHMX3XlQgGbawYFtSZ3Si</sub> |
-| 165 | The Alchemist. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:3Hjvju1zzBXkkpUHvHk8Js</sub> |
-| 166 | REACH THE SUNSHINE. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:0t8YVhiyInlDW9cHtMGhJg</sub> |
-| 167 | Memento Mori (feat. Killstation) | Polyphia, Killstation | Remember That You Will Die | 2023-02-01 | <sub>spotify:track:7lftB3f1vir7xBnYzEnaUr</sub> |
-| 168 | Consideration | Rihanna, SZA | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6t90Z9XkdsHD8xMxro6KRP</sub> |
-| 169 | James Joint | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6K4Co1NQyOnoFEJMkZHkln</sub> |
-| 170 | Kiss It Better | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:0UHB9METy4VCXNgkcGqHqS</sub> |
-| 171 | Desperado | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:4mCf3vQf7z0Yseo0RxAi3V</sub> |
-| 172 | Woo | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:3HQcsqRjRdruUjkbDSgmVF</sub> |
-| 173 | Same Ol’ Mistakes | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6RtzmszGXs32TRhv5zTKNM</sub> |
-| 174 | Love On The Brain | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5oO3drDxtziYU2H1X23ZIp</sub> |
-| 175 | Close To You | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6D2tzc8kRnZb7P1lNwMBLH</sub> |
-| 176 | Goodnight Gotham | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5LJz7kmFhLqB53tmVWxig5</sub> |
-| 177 | Sex With Me | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:7BiELrM90hRxpozaIXbsLw</sub> |
-| 178 | Virtual Insanity - Remastered 2006 | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
-| 179 | white noise! (feat. cybertrash) | she loves boon, Cybertrash | white noise! (feat. cybertrash) | 2023-06-16 | <sub>spotify:track:4RZRRDbFDgxkf5hV2xizyr</sub> |
-| 180 | obstáculo | Tainy, Myke Towers | DATA | 2023-07-15 | <sub>spotify:track:3O4V8llGlOYtmZVoZi8U5v</sub> |
-| 181 | PASIEMPRE | Tainy, Arcángel, Jhayco, Myke Towers, Omar Courtz, Arca | DATA | 2023-07-15 | <sub>spotify:track:5NhLA2P7AiV3cloVmwtwLS</sub> |
-| 182 | MOJABI GHOST | Tainy, Bad Bunny | DATA | 2023-07-15 | <sub>spotify:track:4eMKD8MRroxCqugpsxCCNb</sub> |
-| 183 | 11 Y ONCE | Tainy, Sech, E.VAX | DATA | 2023-07-15 | <sub>spotify:track:1YUTTfAThKaxEYP9Zfv21V</sub> |
-| 184 | desde las 10 (KANY’S INTERLUDE) | Tainy, Kany García | DATA | 2023-07-15 | <sub>spotify:track:3kviwFPwSWwjgjRNBEBUSe</sub> |
-| 185 | mañana | Tainy, Young Miko, The Marías | DATA | 2023-07-15 | <sub>spotify:track:6eSlDHA3XYLha1e0z8I9DO</sub> |
-| 186 | BUENOS AIRES | Tainy, Mora, Zion | DATA | 2023-07-15 | <sub>spotify:track:1VCMkNBJtt1obiqIGRvla5</sub> |
-| 187 | me jodi... | Tainy, Arcángel | DATA | 2023-07-15 | <sub>spotify:track:6xntXCix5SxiEtv9zH7pXF</sub> |
-| 188 | VOLVER | Tainy, Skrillex, Four Tet, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:1ncGbGufa7aUaJ5zC4YP3y</sub> |
-| 189 | Lo Siento BB:/ | Tainy, Bad Bunny, Julieta Venegas | DATA | 2023-07-15 | <sub>spotify:track:4JtLrFUg0ff2x9TsXCgx76</sub> |
-| 190 | si preguntas por mi | Tainy, Kris Floyd, Judeline | DATA | 2023-07-15 | <sub>spotify:track:7z3rdMzhY122waIpkSsE7P</sub> |
-| 191 | Sci-Fi | Tainy, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:73dabjAcAF06vA4C1o16ta</sub> |
-| 192 | PARANORMAL | Tainy, Alvaro Diaz | DATA | 2023-07-15 | <sub>spotify:track:2m8V3evS07OnhatBWyh0Nt</sub> |
-| 193 | S91 | KAROL G | S91 | 2023-07-18 | <sub>spotify:track:7EpOXgSRgnglRWr86pZfGU</sub> |
-| 194 | SI TE VAS | Tainy, Yandel, SAINt JHN | SI TE VAS | 2023-07-18 | <sub>spotify:track:5Xx66nNmEkP4pIB3NtXsYX</sub> |
-| 195 | LA FAMA | ROSALÍA, The Weeknd | MOTOMAMI | 2023-07-21 | <sub>spotify:track:6Y46tOTRhkBamosyuWa6YX</sub> |
-| 196 | From The Start | Laufey | From The Start | 2023-07-22 | <sub>spotify:track:1Ukxccao1BlWrPhYkcXbwZ</sub> |
-| 197 | BIZCOCHITO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:2RGIXMgdKl2t4zLqVYwPu4</sub> |
-| 198 | DIABLO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:19nu8H97D8j1G0bSwV5emP</sub> |
-| 199 | LA COMBI VERSACE | ROSALÍA, Tokischa | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:5OcFWC7ynhXNdLgJXRmCd9</sub> |
-| 200 | TKN (feat. Travis Scott) | ROSALÍA, Travis Scott | TKN (feat. Travis Scott) | 2023-07-27 | <sub>spotify:track:4w47S36wQGBhGg073q3nt7</sub> |
-| 201 | Paint The Town Red | Doja Cat | Paint The Town Red | 2023-08-17 | <sub>spotify:track:2IGMVunIBsBLtEQyoI1Mu7</sub> |
-| 202 | Back On 74 | Jungle | Back On 74 | 2023-09-05 | <sub>spotify:track:2xC3aQCmwgsW7ChDlJxLca</sub> |
-| 203 | All The Words We Don't Say | Hiatus Kaiyote | Mood Valiant | 2023-09-17 | <sub>spotify:track:5BfayLeEScEePDYXJCnvU1</sub> |
-| 204 | Chivalry Is Not Dead | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3STeMaQt9svi9EyB4BYrIc</sub> |
-| 205 | And We Go Gentle | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3PHgxKy3nKy0v9KvUtHl8g</sub> |
-| 206 | Get Sun (feat. Arthur Verocai) | Hiatus Kaiyote, Arthur Verocai | Mood Valiant | 2023-10-02 | <sub>spotify:track:5CBEzaNEuv3OO32kZoXgOX</sub> |
-| 207 | Red Room | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:55mvtucws4Mnro27744t9X</sub> |
-| 208 | Te Mata | Kali Uchis | Te Mata | 2023-10-23 | <sub>spotify:track:4kvDU8vfvxupVezsVPag5v</sub> |
-| 209 | A Night To Remember | beabadoobee, Laufey | A Night To Remember | 2023-10-23 | <sub>spotify:track:180AbZduI6bYQIzwCHRwu9</sub> |
-| 210 | Str8 Outta Mumbai | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:0mRtv3pnmPiN2mDMzYzWt2</sub> |
-| 211 | Zion Wolf Theme - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4gXzqH2l6fUxK0t3Zx6lUz</sub> |
-| 212 | Genevieve - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:72GKPVtBchtCDoL8LURCrB</sub> |
-| 213 | Jasmine - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:44LAHDPaM5dvkmmD5w1W84</sub> |
-| 214 | 100,000 - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4oEA3a7mE5bWNPi6ky4fcU</sub> |
-| 215 | Vibin' - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:5Yv2R7YzdGsbc2JNSlaqWb</sub> |
-| 216 | Desert River - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4ovaHVxywIqTsJL76Hogls</sub> |
-| 217 | All Night - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:3mp4xFRxiqMp9K7DlBiyqn</sub> |
-| 218 | BTSTU - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:59bvVhQYDomd4zc1gWYc3z</sub> |
-| 219 | On the Level | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4RpwQDPnn1GhWpZooUcCzd</sub> |
-| 220 | For the First Time | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:2R4AlwtrrkMaRKojcTIzmL</sub> |
-| 221 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
-| 222 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
-| 223 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
-| 224 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
-| 225 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
-| 226 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
-| 227 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
-| 228 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
-| 229 | My Mathematical Mind | Spoon | Gimme Fiction (Deluxe Edition) | 2024-01-06 | <sub>spotify:track:6Vvmd6f6sEceLjHg6xJyIk</sub> |
-| 230 | Stuck In The Middle | Conor Albert, ELSAS | Collage 2 | 2024-01-07 | <sub>spotify:track:7zu4F2AtCvns6DINJCJ5AM</sub> |
-| 231 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
-| 232 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
-| 233 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |
-| 234 | The Palisades | Childish Gambino, Christian Rich | Kauai | 2024-01-21 | <sub>spotify:track:5rhneBPYMdfbeapETTW0vT</sub> |
-| 235 | Reverse Faults | Sampha | Process (Bonus Edition) | 2024-01-21 | <sub>spotify:track:1JI8rfUZv30QmoZzFvuQoj</sub> |
-| 236 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
-| 237 | Baker Street | Gerry Rafferty | City to City | 2024-01-25 | <sub>spotify:track:5gOd6zDC8vhlYjqbQdJVWP</sub> |
-| 238 | Come Down | Anderson .Paak | Malibu | 2024-01-30 | <sub>spotify:track:276zciJ7Fg7Jk6Ta6QuLkp</sub> |
-| 239 | Army of Me | Björk | Post | 2024-01-31 | <sub>spotify:track:3vEmpJQC2p8h0U3OiBufQm</sub> |
-| 240 | Enjoy | Björk | Post | 2024-01-31 | <sub>spotify:track:6JQVN9gi04NCK1tiz0aQA1</sub> |
-| 241 | Strangers | Kenya Grace | Strangers | 2024-02-09 | <sub>spotify:track:5mjYQaktjmjcMKcUIcqz4s</sub> |
-| 242 | Kerosene! | Yves Tumor | Heaven To A Tortured Mind | 2024-02-10 | <sub>spotify:track:2OoKzfr7RB5o9cxHArUoIS</sub> |
-| 243 | Dream Palette | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:3vrJL03OZSxa1QZQ7b63jn</sub> |
-| 244 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
-| 245 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
-| 246 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
-| 247 | Tunnel Lights | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:1IfF0yORFZlaMAWQW1UTiu</sub> |
-| 248 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
-| 249 | Thundercurls | Grande Mahogany | As Grande As | 2024-02-22 | <sub>spotify:track:4O0xgjA5G5bYxp9VQ3VNSa</sub> |
-| 250 | Rhode | Sevdaliza | Shabrang | 2024-03-11 | <sub>spotify:track:36RBtb5cme2MASrGN3xsQ8</sub> |
-| 251 | Cowboy Nudes | Geese | 3D Country | 2024-03-19 | <sub>spotify:track:7i8XQTUczz7xyFdkSAdEg9</sub> |
-| 252 | 3D Country | Geese | 3D Country | 2024-03-21 | <sub>spotify:track:6TLl4M9cQVHkPI75LTqABu</sub> |
-| 253 | Wana | nour | Wana | 2024-03-21 | <sub>spotify:track:6ygaR0OCPjB2YdBbbNKvss</sub> |
-| 254 | The Pines | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0uTw7TNnYn64XmCAo5jr0c</sub> |
-| 255 | Guilty Conscience | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0smgkpVia3VCXgY4qhVJvp</sub> |
-| 256 | Come Around | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0fl8Tsy98InF9qnM6vrZ60</sub> |
-| 257 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
-| 258 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
-| 259 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
-| 260 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
-| 261 | Regret | St. Vincent | St. Vincent (Deluxe Edition) | 2024-04-05 | <sub>spotify:track:2OCus0BsjJFo7E2TSAGnIe</sub> |
-| 262 | Meteora Blues | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-06 | <sub>spotify:track:0KtYUlIhPf0fLpmJRT73yM</sub> |
+| 129 | Blinding Lights | The Weeknd | Blinding Lights | 2020-03-21 | <sub>spotify:track:0sf12qNH5qcw8qpgymFOqD</sub> |
+| 130 | After Hours | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:4ejyZ4uJEXUURcgKp1kP8v</sub> |
+| 131 | Alone Again | The Weeknd | After Hours | 2020-03-21 | <sub>spotify:track:6b5P51m8xx2XA6U7sdNZ5E</sub> |
+| 132 | Redbone | Childish Gambino | "Awaken, My Love!" | 2020-03-24 | <sub>spotify:track:0wXuerDYiBnERgIpbb3JBR</sub> |
+| 133 | Jerk It Out | Caesars | Love For The Streets | 2020-06-14 | <sub>spotify:track:5XMjXjwCkJVmk0AHm7z8IV</sub> |
+| 134 | While My Guitar Gently Weeps - 2018 Mix | The Beatles | The Beatles | 2020-07-08 | <sub>spotify:track:0ZqSsO2xoVvcrhpiRuqCmt</sub> |
+| 135 | Eleanor Rigby - Remastered 2015 | The Beatles | 1 (Remastered) | 2020-07-08 | <sub>spotify:track:0Wv8IXRUDZOfmFJHC1VOFI</sub> |
+| 136 | Strawberry Fields Forever - Remastered 2009 | The Beatles | Magical Mystery Tour (Remastered) | 2020-07-08 | <sub>spotify:track:3Am0IbOxmvlSXro7N5iSfZ</sub> |
+| 137 | Megaboss | The Funky Knuckles | Delicious | 2020-09-09 | <sub>spotify:track:4H4ZUzwqPgSOti1B6Q5oay</sub> |
+| 138 | Improv #1 (Pt. I Outro) | Brasstracks, Robert Glasper | For Those Who Know (Deluxe) | 2020-09-09 | <sub>spotify:track:4S6UPmpmoU4JbLdphoOTXH</sub> |
+| 139 | Memories (feat. Kid Cudi) | David Guetta, Kid Cudi | One Love (Deluxe) | 2020-11-18 | <sub>spotify:track:4dTaAiV9xFFCxnPur9c9yL</sub> |
+| 140 | Feeling Good | Nina Simone | I Put A Spell On You | 2020-11-20 | <sub>spotify:track:6Rqn2GFlmvmV4w9Ala0I1e</sub> |
+| 141 | 10% (feat. Kali Uchis) | KAYTRANADA, Kali Uchis | BUBBA | 2020-12-02 | <sub>spotify:track:41SwdQIX8Hy2u6fuEDgvWr</sub> |
+| 142 | Culture (feat. Teedra Moses) | KAYTRANADA, Teedra Moses | BUBBA | 2020-12-13 | <sub>spotify:track:23zOqixUia8E5BVMYHXL0c</sub> |
+| 143 | GONE, GONE / THANK YOU | Tyler, The Creator | IGOR | 2020-12-28 | <sub>spotify:track:1hz7SRTGUNAtIQ46qiNv2p</sub> |
+| 144 | Think About Things | Daði Freyr | Think About Things | 2021-03-06 | <sub>spotify:track:2iRniYXjMHKmwXqA2jYXP7</sub> |
+| 145 | Little Dark Age | MGMT | Little Dark Age | 2021-10-29 | <sub>spotify:track:2Y0iGXY6m6immVb2ktbseM</sub> |
+| 146 | Weightless | Marconi Union | The Ambient Zone Just Music Cafe Vol 4 | 2021-11-24 | <sub>spotify:track:6kkwzB6hXLIONkEk9JciA6</sub> |
+| 147 | Why'd You Only Call Me When You're High? | Arctic Monkeys | AM | 2021-12-21 | <sub>spotify:track:086myS9r57YsLbJpU0TgK9</sub> |
+| 148 | Song 2 - 2012 Remaster | Blur | Blur (Special Edition) | 2022-03-23 | <sub>spotify:track:1FTSo4v6BOZH9QxKc3MbVM</sub> |
+| 149 | Cracker Island (feat. Thundercat) | Gorillaz, Thundercat | Cracker Island (feat. Thundercat) | 2022-06-25 | <sub>spotify:track:2W3ZpQg9i6lE6kmHbcdu9N</sub> |
+| 150 | Deceptacon | Le Tigre | Le Tigre | 2022-08-30 | <sub>spotify:track:5773KSWFzg9kCc8yazjbSt</sub> |
+| 151 | New Gold (feat. Tame Impala and Bootie Brown) | Gorillaz, Tame Impala, Bootie Brown | New Gold (feat. Tame Impala and Bootie Brown) | 2022-09-06 | <sub>spotify:track:64dLd6rVqDLtkXFYrEUHIU</sub> |
+| 152 | Me and Your Mama | Childish Gambino | "Awaken, My Love!" | 2022-10-07 | <sub>spotify:track:31tf1qEai5o5f4r66Kd0pU</sub> |
+| 153 | Fantasy | Earth, Wind & Fire | All 'N All | 2022-11-05 | <sub>spotify:track:2GH5jo15wbTv1Ll7zXEzSg</sub> |
+| 154 | שירת הסטיקר 2019 | Hadag Nahash, Firqat Alnoor | שירת הסטיקר 2019 | 2022-12-27 | <sub>spotify:track:7vrM6gSFwKLlWsr6ZYQjhi</sub> |
+| 155 | לא מוותר | Hadag Nahash | המכונה של הגרוב | 2022-12-27 | <sub>spotify:track:64hgE6tpdju5feSAz7ozMO</sub> |
+| 156 | Santa Barbara | Benny Sings, Nataly Dawn | Santa Barbara | 2023-01-12 | <sub>spotify:track:5HYPU0x0lbMfMyCASETzK5</sub> |
+| 157 | the ride- | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:04HeNxRRVjcwctfp2K2kMu</sub> |
+| 158 | running out of time | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7zy7iE31dGO70ShMXghsfj</sub> |
+| 159 | pRETTy | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:6vDyzD9o8aYhR1963oJpkO</sub> |
+| 160 | WE SAW THE SUN! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:7FqH4CO8H5j9EXHKTBP7xE</sub> |
+| 161 | IVE OFFICIALLY LOST ViSiON!!!! | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:4PXuZYWhkyGXQzfSRy2PW1</sub> |
+| 162 | sAy sOMETHINg | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:1G7wqLzQQ3tveTYHcO5uVN</sub> |
+| 163 | paint THE sky | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:2lHMX3XlQgGbawYFtSZ3Si</sub> |
+| 164 | The Alchemist. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:3Hjvju1zzBXkkpUHvHk8Js</sub> |
+| 165 | REACH THE SUNSHINE. | Lil Yachty | Let’s Start Here. | 2023-01-31 | <sub>spotify:track:0t8YVhiyInlDW9cHtMGhJg</sub> |
+| 166 | Memento Mori (feat. Killstation) | Polyphia, Killstation | Remember That You Will Die | 2023-02-01 | <sub>spotify:track:7lftB3f1vir7xBnYzEnaUr</sub> |
+| 167 | Consideration | Rihanna, SZA | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6t90Z9XkdsHD8xMxro6KRP</sub> |
+| 168 | James Joint | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6K4Co1NQyOnoFEJMkZHkln</sub> |
+| 169 | Kiss It Better | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:0UHB9METy4VCXNgkcGqHqS</sub> |
+| 170 | Desperado | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:4mCf3vQf7z0Yseo0RxAi3V</sub> |
+| 171 | Woo | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:3HQcsqRjRdruUjkbDSgmVF</sub> |
+| 172 | Same Ol’ Mistakes | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6RtzmszGXs32TRhv5zTKNM</sub> |
+| 173 | Love On The Brain | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5oO3drDxtziYU2H1X23ZIp</sub> |
+| 174 | Close To You | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:6D2tzc8kRnZb7P1lNwMBLH</sub> |
+| 175 | Goodnight Gotham | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:5LJz7kmFhLqB53tmVWxig5</sub> |
+| 176 | Sex With Me | Rihanna | ANTI (Deluxe) | 2023-02-15 | <sub>spotify:track:7BiELrM90hRxpozaIXbsLw</sub> |
+| 177 | Virtual Insanity - Remastered 2006 | Jamiroquai | Driving Songs | 2023-05-26 | <sub>spotify:track:4UQDZlZhGUDoYMohwrY28v</sub> |
+| 178 | white noise! (feat. cybertrash) | she loves boon, Cybertrash | white noise! (feat. cybertrash) | 2023-06-16 | <sub>spotify:track:4RZRRDbFDgxkf5hV2xizyr</sub> |
+| 179 | obstáculo | Tainy, Myke Towers | DATA | 2023-07-15 | <sub>spotify:track:3O4V8llGlOYtmZVoZi8U5v</sub> |
+| 180 | PASIEMPRE | Tainy, Arcángel, Jhayco, Myke Towers, Omar Courtz, Arca | DATA | 2023-07-15 | <sub>spotify:track:5NhLA2P7AiV3cloVmwtwLS</sub> |
+| 181 | MOJABI GHOST | Tainy, Bad Bunny | DATA | 2023-07-15 | <sub>spotify:track:4eMKD8MRroxCqugpsxCCNb</sub> |
+| 182 | 11 Y ONCE | Tainy, Sech, E.VAX | DATA | 2023-07-15 | <sub>spotify:track:1YUTTfAThKaxEYP9Zfv21V</sub> |
+| 183 | desde las 10 (KANY’S INTERLUDE) | Tainy, Kany García | DATA | 2023-07-15 | <sub>spotify:track:3kviwFPwSWwjgjRNBEBUSe</sub> |
+| 184 | mañana | Tainy, Young Miko, The Marías | DATA | 2023-07-15 | <sub>spotify:track:6eSlDHA3XYLha1e0z8I9DO</sub> |
+| 185 | BUENOS AIRES | Tainy, Mora, Zion | DATA | 2023-07-15 | <sub>spotify:track:1VCMkNBJtt1obiqIGRvla5</sub> |
+| 186 | me jodi... | Tainy, Arcángel | DATA | 2023-07-15 | <sub>spotify:track:6xntXCix5SxiEtv9zH7pXF</sub> |
+| 187 | VOLVER | Tainy, Skrillex, Four Tet, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:1ncGbGufa7aUaJ5zC4YP3y</sub> |
+| 188 | Lo Siento BB:/ | Tainy, Bad Bunny, Julieta Venegas | DATA | 2023-07-15 | <sub>spotify:track:4JtLrFUg0ff2x9TsXCgx76</sub> |
+| 189 | si preguntas por mi | Tainy, Kris Floyd, Judeline | DATA | 2023-07-15 | <sub>spotify:track:7z3rdMzhY122waIpkSsE7P</sub> |
+| 190 | Sci-Fi | Tainy, Rauw Alejandro | DATA | 2023-07-15 | <sub>spotify:track:73dabjAcAF06vA4C1o16ta</sub> |
+| 191 | PARANORMAL | Tainy, Alvaro Diaz | DATA | 2023-07-15 | <sub>spotify:track:2m8V3evS07OnhatBWyh0Nt</sub> |
+| 192 | S91 | KAROL G | S91 | 2023-07-18 | <sub>spotify:track:7EpOXgSRgnglRWr86pZfGU</sub> |
+| 193 | SI TE VAS | Tainy, Yandel, SAINt JHN | SI TE VAS | 2023-07-18 | <sub>spotify:track:5Xx66nNmEkP4pIB3NtXsYX</sub> |
+| 194 | LA FAMA | ROSALÍA, The Weeknd | MOTOMAMI | 2023-07-21 | <sub>spotify:track:6Y46tOTRhkBamosyuWa6YX</sub> |
+| 195 | From The Start | Laufey | From The Start | 2023-07-22 | <sub>spotify:track:1Ukxccao1BlWrPhYkcXbwZ</sub> |
+| 196 | BIZCOCHITO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:2RGIXMgdKl2t4zLqVYwPu4</sub> |
+| 197 | DIABLO | ROSALÍA | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:19nu8H97D8j1G0bSwV5emP</sub> |
+| 198 | LA COMBI VERSACE | ROSALÍA, Tokischa | MOTOMAMI + | 2023-07-25 | <sub>spotify:track:5OcFWC7ynhXNdLgJXRmCd9</sub> |
+| 199 | TKN (feat. Travis Scott) | ROSALÍA, Travis Scott | TKN (feat. Travis Scott) | 2023-07-27 | <sub>spotify:track:4w47S36wQGBhGg073q3nt7</sub> |
+| 200 | Paint The Town Red | Doja Cat | Paint The Town Red | 2023-08-17 | <sub>spotify:track:2IGMVunIBsBLtEQyoI1Mu7</sub> |
+| 201 | Back On 74 | Jungle | Back On 74 | 2023-09-05 | <sub>spotify:track:2xC3aQCmwgsW7ChDlJxLca</sub> |
+| 202 | All The Words We Don't Say | Hiatus Kaiyote | Mood Valiant | 2023-09-17 | <sub>spotify:track:5BfayLeEScEePDYXJCnvU1</sub> |
+| 203 | Chivalry Is Not Dead | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3STeMaQt9svi9EyB4BYrIc</sub> |
+| 204 | And We Go Gentle | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:3PHgxKy3nKy0v9KvUtHl8g</sub> |
+| 205 | Get Sun (feat. Arthur Verocai) | Hiatus Kaiyote, Arthur Verocai | Mood Valiant | 2023-10-02 | <sub>spotify:track:5CBEzaNEuv3OO32kZoXgOX</sub> |
+| 206 | Red Room | Hiatus Kaiyote | Mood Valiant | 2023-10-02 | <sub>spotify:track:55mvtucws4Mnro27744t9X</sub> |
+| 207 | Te Mata | Kali Uchis | Te Mata | 2023-10-23 | <sub>spotify:track:4kvDU8vfvxupVezsVPag5v</sub> |
+| 208 | A Night To Remember | beabadoobee, Laufey | A Night To Remember | 2023-10-23 | <sub>spotify:track:180AbZduI6bYQIzwCHRwu9</sub> |
+| 209 | Str8 Outta Mumbai | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:0mRtv3pnmPiN2mDMzYzWt2</sub> |
+| 210 | Zion Wolf Theme - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4gXzqH2l6fUxK0t3Zx6lUz</sub> |
+| 211 | Genevieve - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:72GKPVtBchtCDoL8LURCrB</sub> |
+| 212 | Jasmine - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:44LAHDPaM5dvkmmD5w1W84</sub> |
+| 213 | 100,000 - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4oEA3a7mE5bWNPi6ky4fcU</sub> |
+| 214 | Vibin' - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:5Yv2R7YzdGsbc2JNSlaqWb</sub> |
+| 215 | Desert River - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:4ovaHVxywIqTsJL76Hogls</sub> |
+| 216 | All Night - Unfinished | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:3mp4xFRxiqMp9K7DlBiyqn</sub> |
+| 217 | BTSTU - Demo | Jai Paul | Leak 04-13 (Bait Ones) | 2023-11-06 | <sub>spotify:track:59bvVhQYDomd4zc1gWYc3z</sub> |
+| 218 | On the Level | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4RpwQDPnn1GhWpZooUcCzd</sub> |
+| 219 | For the First Time | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:2R4AlwtrrkMaRKojcTIzmL</sub> |
+| 220 | Still Beating | Mac DeMarco | This Old Dog | 2023-11-08 | <sub>spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo</sub> |
+| 221 | Sour Times | Portishead | Dummy | 2023-11-09 | <sub>spotify:track:6vTtCOimcPs5H1Jr9d0Aep</sub> |
+| 222 | De Selby (Part 2) | Hozier | De Selby (Part 2) | 2023-12-03 | <sub>spotify:track:4SFNe716eUbgX1XvGCTBu7</sub> |
+| 223 | Plastic 100°C | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:7MOgLN4PHcXhhTZLchodnC</sub> |
+| 224 | Kora Sings | Sampha | Process (Bonus Edition) | 2023-12-12 | <sub>spotify:track:4mQxDBlR6RE4LSUeRW6d47</sub> |
+| 225 | Suspended | Sampha | Lahai | 2023-12-13 | <sub>spotify:track:1maIZ0gsjVbdANLvl4v0ao</sub> |
+| 226 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
+| 227 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
+| 228 | My Mathematical Mind | Spoon | Gimme Fiction (Deluxe Edition) | 2024-01-06 | <sub>spotify:track:6Vvmd6f6sEceLjHg6xJyIk</sub> |
+| 229 | Stuck In The Middle | Conor Albert, ELSAS | Collage 2 | 2024-01-07 | <sub>spotify:track:7zu4F2AtCvns6DINJCJ5AM</sub> |
+| 230 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
+| 231 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
+| 232 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |
+| 233 | The Palisades | Childish Gambino, Christian Rich | Kauai | 2024-01-21 | <sub>spotify:track:5rhneBPYMdfbeapETTW0vT</sub> |
+| 234 | Reverse Faults | Sampha | Process (Bonus Edition) | 2024-01-21 | <sub>spotify:track:1JI8rfUZv30QmoZzFvuQoj</sub> |
+| 235 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
+| 236 | Baker Street | Gerry Rafferty | City to City | 2024-01-25 | <sub>spotify:track:5gOd6zDC8vhlYjqbQdJVWP</sub> |
+| 237 | Come Down | Anderson .Paak | Malibu | 2024-01-30 | <sub>spotify:track:276zciJ7Fg7Jk6Ta6QuLkp</sub> |
+| 238 | Army of Me | Björk | Post | 2024-01-31 | <sub>spotify:track:3vEmpJQC2p8h0U3OiBufQm</sub> |
+| 239 | Enjoy | Björk | Post | 2024-01-31 | <sub>spotify:track:6JQVN9gi04NCK1tiz0aQA1</sub> |
+| 240 | Strangers | Kenya Grace | Strangers | 2024-02-09 | <sub>spotify:track:5mjYQaktjmjcMKcUIcqz4s</sub> |
+| 241 | Kerosene! | Yves Tumor | Heaven To A Tortured Mind | 2024-02-10 | <sub>spotify:track:2OoKzfr7RB5o9cxHArUoIS</sub> |
+| 242 | Dream Palette | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:3vrJL03OZSxa1QZQ7b63jn</sub> |
+| 243 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
+| 244 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
+| 245 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
+| 246 | Tunnel Lights | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:1IfF0yORFZlaMAWQW1UTiu</sub> |
+| 247 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
+| 248 | Thundercurls | Grande Mahogany | As Grande As | 2024-02-22 | <sub>spotify:track:4O0xgjA5G5bYxp9VQ3VNSa</sub> |
+| 249 | Rhode | Sevdaliza | Shabrang | 2024-03-11 | <sub>spotify:track:36RBtb5cme2MASrGN3xsQ8</sub> |
+| 250 | Cowboy Nudes | Geese | 3D Country | 2024-03-19 | <sub>spotify:track:7i8XQTUczz7xyFdkSAdEg9</sub> |
+| 251 | 3D Country | Geese | 3D Country | 2024-03-21 | <sub>spotify:track:6TLl4M9cQVHkPI75LTqABu</sub> |
+| 252 | Wana | nour | Wana | 2024-03-21 | <sub>spotify:track:6ygaR0OCPjB2YdBbbNKvss</sub> |
+| 253 | The Pines | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0uTw7TNnYn64XmCAo5jr0c</sub> |
+| 254 | Guilty Conscience | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0smgkpVia3VCXgY4qhVJvp</sub> |
+| 255 | Come Around | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0fl8Tsy98InF9qnM6vrZ60</sub> |
+| 256 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
+| 257 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
+| 258 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
+| 259 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
+| 260 | Regret | St. Vincent | St. Vincent (Deluxe Edition) | 2024-04-05 | <sub>spotify:track:2OCus0BsjJFo7E2TSAGnIe</sub> |
+| 261 | Meteora Blues | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-06 | <sub>spotify:track:0KtYUlIhPf0fLpmJRT73yM</sub> |
