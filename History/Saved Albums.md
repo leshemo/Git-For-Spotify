@@ -177,3 +177,4 @@
 | 174 | Supergrass | Supergrass | 2024-04-09 | <sub>spotify:album:3XNEqXHHt9KIT2vOPfwx5m</sub> |
 | 175 | In It for the Money | Supergrass | 2024-04-09 | <sub>spotify:album:020brgMKGgdPSYjcVNypql</sub> |
 | 176 | Only God Was Above Us | Vampire Weekend | 2024-04-10 | <sub>spotify:album:1W04wu2W4OIcuiNc5AMB3y</sub> |
+| 177 | WE DON'T TRUST YOU | Future, Metro Boomin | 2024-04-16 | <sub>spotify:album:4iqbFIdGOTzXeDtt9owjQn</sub> |
