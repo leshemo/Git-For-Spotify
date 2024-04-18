@@ -266,3 +266,4 @@
 | 263 | What Went Wrong (In Your Head) | Supergrass | Supergrass | 2024-04-13 | <sub>spotify:track:1u8ibciFnAxaH3rTwIz3RN</sub> |
 | 264 | Heaven Surrounds Us Like a Hood | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-15 | <sub>spotify:track:6jCaLfO4BcwoLDpMKgSFkp</sub> |
 | 265 | All Mine | Portishead | Portishead | 2024-04-16 | <sub>spotify:track:785Qya5mtMUwBQtuypVqrx</sub> |
+| 266 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
