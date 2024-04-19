@@ -178,3 +178,4 @@
 | 175 | In It for the Money | Supergrass | 2024-04-09 | <sub>spotify:album:020brgMKGgdPSYjcVNypql</sub> |
 | 176 | Only God Was Above Us | Vampire Weekend | 2024-04-10 | <sub>spotify:album:1W04wu2W4OIcuiNc5AMB3y</sub> |
 | 177 | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | Yves Tumor | 2024-04-16 | <sub>spotify:album:5LIlFbWpjACyQFNW0nYvUC</sub> |
+| 178 | Silence Is Loud | Nia Archives | 2024-04-18 | <sub>spotify:album:7aIsJRcf04ZeFiU1Fa70Cq</sub> |
