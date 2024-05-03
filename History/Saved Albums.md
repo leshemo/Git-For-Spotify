@@ -180,3 +180,4 @@
 | 177 | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | Yves Tumor | 2024-04-16 | <sub>spotify:album:5LIlFbWpjACyQFNW0nYvUC</sub> |
 | 178 | Silence Is Loud | Nia Archives | 2024-04-18 | <sub>spotify:album:7aIsJRcf04ZeFiU1Fa70Cq</sub> |
 | 179 | Assume Form | James Blake | 2024-04-26 | <sub>spotify:album:23dKNZpiadggKHrQgHLi3L</sub> |
+| 180 | CAROUSEL FROM HELL | LustSickPuppy | 2024-05-03 | <sub>spotify:album:2csNHdXgFUqHtXkzKIJ52w</sub> |
