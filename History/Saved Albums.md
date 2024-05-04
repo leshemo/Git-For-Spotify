@@ -181,3 +181,4 @@
 | 178 | Silence Is Loud | Nia Archives | 2024-04-18 | <sub>spotify:album:7aIsJRcf04ZeFiU1Fa70Cq</sub> |
 | 179 | Assume Form | James Blake | 2024-04-26 | <sub>spotify:album:23dKNZpiadggKHrQgHLi3L</sub> |
 | 180 | CAROUSEL FROM HELL | LustSickPuppy | 2024-05-03 | <sub>spotify:album:2csNHdXgFUqHtXkzKIJ52w</sub> |
+| 181 | IRE | Combo Chimbita | 2024-05-04 | <sub>spotify:album:3Eetml593uIo24zFDxwTtm</sub> |
