@@ -705,3 +705,4 @@
 | 702 | Double Standards (feat. Sampha) | Ghetts, Sampha | Double Standards (feat. Sampha) | 2024-04-02 | <sub>spotify:track:0eAXtuToazVgRJvKn8Rln9</sub> |
 | 703 | Bought The Earth | Yeat | 2093 | 2024-04-11 | <sub>spotify:track:5Bno6wFa22tRbFUwh4iZdk</sub> |
 | 704 | Where's The Catch? (feat. André 3000) | James Blake, André 3000 | Assume Form | 2024-04-24 | <sub>spotify:track:7omij53d6AvXefx13NNyfn</sub> |
+| 705 | MILLION DOLLAR BABY | Tommy Richman | MILLION DOLLAR BABY | 2024-05-07 | <sub>spotify:track:7fzHQizxTqy8wTXwlrgPQQ</sub> |
