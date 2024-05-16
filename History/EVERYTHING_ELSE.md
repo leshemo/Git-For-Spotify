@@ -266,3 +266,4 @@
 | 263 | Heaven Surrounds Us Like a Hood | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-15 | <sub>spotify:track:6jCaLfO4BcwoLDpMKgSFkp</sub> |
 | 264 | All Mine | Portishead | Portishead | 2024-04-16 | <sub>spotify:track:785Qya5mtMUwBQtuypVqrx</sub> |
 | 265 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
+| 266 | Barefoot In The Park (feat. ROSALÍA) | James Blake, ROSALÍA | Assume Form | 2024-05-15 | <sub>spotify:track:3onYsieuDICdVt5ULZSExF</sub> |

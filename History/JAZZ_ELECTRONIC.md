@@ -669,3 +669,7 @@
 | 666 | dashstar* - VIP | Knock2 | dashstar* (VIP) | 2024-03-30 | <sub>spotify:track:4FKRT4uPFx2L4exy9DCs1o</sub> |
 | 667 | Massage Situation | Flying Lotus | Reset EP | 2024-04-14 | <sub>spotify:track:5Uqk4advjDTn8XHZegplGL</sub> |
 | 668 | No Doubt | Braxton Cook | No Doubt | 2024-04-19 | <sub>spotify:track:4YCFMXMgNgU8pkMx3ZJiZa</sub> |
+| 669 | N.E.W. | Hiromi, 馬場智章, Shun Ishiwaka | BLUE GIANT (オリジナル・サウンドトラック) | 2024-05-16 | <sub>spotify:track:0uniIrDLtvdypzbMtmLmVV</sub> |
+| 670 | FIRST NOTE | Hiromi, 馬場智章, Shun Ishiwaka | BLUE GIANT (オリジナル・サウンドトラック) | 2024-05-16 | <sub>spotify:track:03IckTW2qNaWUvrOHtuYhL</sub> |
+| 671 | BLUE GIANT | Hiromi, 馬場智章, Shun Ishiwaka | BLUE GIANT (オリジナル・サウンドトラック) | 2024-05-16 | <sub>spotify:track:6cNsewEICKlNmFT8q3i4b9</sub> |
+| 672 | MOMENTUM | Julius Rodriguez | MOMENTUM | 2024-05-16 | <sub>spotify:track:57B1YJVhgmCFAcryA9W2xu</sub> |
