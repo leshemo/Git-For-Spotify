@@ -706,3 +706,5 @@
 | 703 | Bought The Earth | Yeat | 2093 | 2024-04-11 | <sub>spotify:track:5Bno6wFa22tRbFUwh4iZdk</sub> |
 | 704 | Where's The Catch? (feat. André 3000) | James Blake, André 3000 | Assume Form | 2024-04-24 | <sub>spotify:track:7omij53d6AvXefx13NNyfn</sub> |
 | 705 | MILLION DOLLAR BABY | Tommy Richman | MILLION DOLLAR BABY | 2024-05-07 | <sub>spotify:track:7fzHQizxTqy8wTXwlrgPQQ</sub> |
+| 706 | ILIKEU | Machinedrum, Duckwrth | ILIKEU | 2024-05-18 | <sub>spotify:track:5bp8cOT9xug35hnhZgW9d7</sub> |
+| 707 | Freedom 2 | Kwengface, Joy Orbison, Overmono | Freedom 2 | 2024-05-18 | <sub>spotify:track:3sn7UM54xyAUjfR9rNxZwp</sub> |

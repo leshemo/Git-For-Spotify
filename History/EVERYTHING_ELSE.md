@@ -267,3 +267,4 @@
 | 264 | All Mine | Portishead | Portishead | 2024-04-16 | <sub>spotify:track:785Qya5mtMUwBQtuypVqrx</sub> |
 | 265 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
 | 266 | Barefoot In The Park (feat. ROSALÍA) | James Blake, ROSALÍA | Assume Form | 2024-05-15 | <sub>spotify:track:3onYsieuDICdVt5ULZSExF</sub> |
+| 267 | Broken Man | St. Vincent | All Born Screaming | 2024-05-18 | <sub>spotify:track:1kgLXgHrXecZyRCDROfAPb</sub> |
