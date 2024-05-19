@@ -673,3 +673,4 @@
 | 670 | FIRST NOTE | Hiromi, 馬場智章, Shun Ishiwaka | BLUE GIANT (オリジナル・サウンドトラック) | 2024-05-16 | <sub>spotify:track:03IckTW2qNaWUvrOHtuYhL</sub> |
 | 671 | BLUE GIANT | Hiromi, 馬場智章, Shun Ishiwaka | BLUE GIANT (オリジナル・サウンドトラック) | 2024-05-16 | <sub>spotify:track:6cNsewEICKlNmFT8q3i4b9</sub> |
 | 672 | MOMENTUM | Julius Rodriguez | MOMENTUM | 2024-05-16 | <sub>spotify:track:57B1YJVhgmCFAcryA9W2xu</sub> |
+| 673 | Forbidden Feelingz | Nia Archives | Silence Is Loud | 2024-05-18 | <sub>spotify:track:6c21bVRfGC8IOXvQVQ2UTb</sub> |
