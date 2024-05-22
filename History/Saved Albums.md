@@ -182,3 +182,5 @@
 | 179 | Assume Form | James Blake | 2024-04-26 | <sub>spotify:album:23dKNZpiadggKHrQgHLi3L</sub> |
 | 180 | CAROUSEL FROM HELL | LustSickPuppy | 2024-05-03 | <sub>spotify:album:2csNHdXgFUqHtXkzKIJ52w</sub> |
 | 181 | IRE | Combo Chimbita | 2024-05-04 | <sub>spotify:album:3Eetml593uIo24zFDxwTtm</sub> |
+| 182 | Atavista | Childish Gambino | 2024-05-21 | <sub>spotify:album:692R05mxz7V6eOFoj5PMlQ</sub> |
+| 183 | HIT ME HARD AND SOFT | Billie Eilish | 2024-05-21 | <sub>spotify:album:7aJuG4TFXa2hmE4z1yxc3n</sub> |
