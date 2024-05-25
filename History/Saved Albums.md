@@ -108,79 +108,78 @@
 | 105 | Tha Carter III | Lil Wayne | 2023-12-04 | <sub>spotify:album:5BGzOpea6At0Nd7tYtYZOP</sub> |
 | 106 | The Patience | Mick Jenkins | 2023-12-05 | <sub>spotify:album:7GlMEHJyohBhILSQYQIFgI</sub> |
 | 107 | "Awaken, My Love!" | Childish Gambino | 2023-12-13 | <sub>spotify:album:7caGY3YPOchIO8xLvTKWN4</sub> |
-| 108 | 3.15.20 | Childish Gambino | 2023-12-13 | <sub>spotify:album:600ClrWRsAr7jZ0qjaBLHz</sub> |
-| 109 | Love Me Like | Rayana Jay | 2023-12-19 | <sub>spotify:album:4ASozZrX3WMIJplKcfRJYf</sub> |
-| 110 | New Blue Sun | André 3000 | 2023-12-19 | <sub>spotify:album:33Ek6daAL3oXyQIV1uoItD</sub> |
-| 111 | SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane] | Killer Mike, André 3000, Eryn Allen Kane | 2023-12-19 | <sub>spotify:album:2dxxlSiPPh9v9TwSTpjLgo</sub> |
-| 112 | Bad News | Real Bad Man, Blu | 2023-12-19 | <sub>spotify:album:3GZYDIQKkBPbWHhl7t3fcf</sub> |
-| 113 | Let's Hope Heteros Fail, Learn and Retire | Alice Longyu Gao | 2023-12-20 | <sub>spotify:album:5YjuPPmMZy5VGjlesAPbHG</sub> |
-| 114 | ZUU | Denzel Curry | 2023-12-26 | <sub>spotify:album:6PkSBdx19zarn4ae1D08gA</sub> |
-| 115 | Fragile (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:0dZF93WHyOhTWjz5EWM7yG</sub> |
-| 116 | The Yes Album (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:4nQe6IzubN7cE7EWzrIvu4</sub> |
-| 117 | Close to the Edge (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:6344rkGqCBDenGoS7eJlBN</sub> |
-| 118 | Electric Ladyland | Jimi Hendrix | 2023-12-26 | <sub>spotify:album:5z090LQztiqh13wYspQvKQ</sub> |
-| 119 | Out of the Blue | Electric Light Orchestra | 2023-12-26 | <sub>spotify:album:3usnShwygMXVZB4IV5dwnU</sub> |
-| 120 | Gimme Fiction (Deluxe Edition) | Spoon | 2023-12-26 | <sub>spotify:album:4sjSsxnmBlzxgZ9HGkHDsk</sub> |
-| 121 | Ga Ga Ga Ga Ga (2017 Remaster) | Spoon | 2023-12-26 | <sub>spotify:album:3tSpLdSd2zhM0N0aYZd13E</sub> |
-| 122 | Discovery | Daft Punk | 2023-12-26 | <sub>spotify:album:2noRn2Aes5aoNVsU6iWThc</sub> |
-| 123 | 1999 | Joey Bada$$ | 2024-01-02 | <sub>spotify:album:5ra51AaWF3iVebyhlZ1aqq</sub> |
-| 124 | OK Computer | Radiohead | 2024-01-03 | <sub>spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE</sub> |
-| 125 | Flockaveli | Waka Flocka Flame | 2024-01-05 | <sub>spotify:album:6MQtWELG7aRX7CkAzQ6nLM</sub> |
-| 126 | Process (Bonus Edition) | Sampha | 2024-01-07 | <sub>spotify:album:4rA6i9oXyMhh77pqK0cXKv</sub> |
-| 127 | Vaudeville Villain | Viktor Vaughn, MF DOOM | 2024-01-09 | <sub>spotify:album:7HPjcPD2cr8E5oHvVAmBp7</sub> |
-| 128 | Local Mvp | Sainté | 2024-01-10 | <sub>spotify:album:02gUzFCFgKdsj8p1KcnASN</sub> |
-| 129 | The Water (S) | Mick Jenkins | 2024-01-13 | <sub>spotify:album:39yAlNzbQD6MAvveqeY3IP</sub> |
-| 130 | The Impossible Kid | Aesop Rock | 2024-01-15 | <sub>spotify:album:6D6v19wYlLDsYkkfebOY3g</sub> |
-| 131 | Heavy Heavy | Young Fathers | 2024-01-15 | <sub>spotify:album:6CmlLROLOUJZnZ8QeCCpqD</sub> |
-| 132 | Lonerism | Tame Impala | 2024-01-16 | <sub>spotify:album:3C2MFZ2iHotUQOSBzdSvM7</sub> |
-| 133 | Currents | Tame Impala | 2024-01-16 | <sub>spotify:album:79dL7FLiJFOO0EoehUHQBv</sub> |
-| 134 | ORQUÍDEAS | Kali Uchis | 2024-01-17 | <sub>spotify:album:5U20AVSsUvycGtWip4XQfo</sub> |
-| 135 | Floss | Injury Reserve | 2024-01-18 | <sub>spotify:album:67sUOjUevVJGgfCj1N2e4N</sub> |
-| 136 | Malibu | Anderson .Paak | 2024-01-21 | <sub>spotify:album:4VFG1DOuTeDMBjBLZT7hCK</sub> |
-| 137 | Post | Björk | 2024-01-25 | <sub>spotify:album:3p7WXDBxhC5KS9IFXnwae7</sub> |
-| 138 | Homogenic | Björk | 2024-01-25 | <sub>spotify:album:0HMsmYvoT1h2x1C4di5faf</sub> |
-| 139 | Vespertine | Björk | 2024-01-25 | <sub>spotify:album:5vBpIxm8ws6pWyVmTWiGE1</sub> |
-| 140 | Vulnicura | Björk | 2024-01-25 | <sub>spotify:album:1ttnHZ0HVGMSMTJdZZ7kYK</sub> |
-| 141 | Liberation | Talib Kweli, Madlib | 2024-01-28 | <sub>spotify:album:2Lvyy8TE9YjUZVaB76DtFS</sub> |
-| 142 | Maps | billy woods, Kenny Segal | 2024-01-29 | <sub>spotify:album:3VoX4iyvy7et6Qt47e2XwS</sub> |
-| 143 | Everything Ecstatic | Four Tet | 2024-01-29 | <sub>spotify:album:2BKXRpAaq7jZStXo6A10qK</sub> |
-| 144 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
-| 145 | Israeli Salad | The Alchemist | 2024-02-05 | <sub>spotify:album:7ntqAx8PbkYHwjeZnliXRV</sub> |
-| 146 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
-| 147 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
-| 148 | Talk Memory | BADBADNOTGOOD | 2024-02-14 | <sub>spotify:album:594yqwr1MOvVX0UBnOWftY</sub> |
-| 149 | As Grande As | Grande Mahogany | 2024-02-15 | <sub>spotify:album:1qR6pJM4fiDxflPzAuJ1t6</sub> |
-| 150 | Funeral | Arcade Fire | 2024-02-16 | <sub>spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH</sub> |
-| 151 | She Reaches Out To She Reaches Out To She | Chelsea Wolfe | 2024-02-17 | <sub>spotify:album:4uJMF1xAEk9IgPA5UbwNA6</sub> |
-| 152 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-19 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
-| 153 | Manger on McNichols | Boldy James, Sterling Toles | 2024-02-22 | <sub>spotify:album:0ZUtBUG7Ya4y0p8qSYlPFj</sub> |
-| 154 | ANIMA | Thom Yorke | 2024-02-23 | <sub>spotify:album:5DDPFOJVHhc93OlqirbAtm</sub> |
-| 155 | Oracular Spectacular | MGMT | 2024-03-02 | <sub>spotify:album:6mm1Skz3JE6AXneya9Nyiv</sub> |
-| 156 | Shabrang | Sevdaliza | 2024-03-05 | <sub>spotify:album:54tTC9UQtLnu5Wldhlnstr</sub> |
-| 157 | BLUE LIPS | ScHoolboy Q | 2024-03-06 | <sub>spotify:album:107WsrBqn5xVPgystkziry</sub> |
-| 158 | Loss Of Life | MGMT | 2024-03-08 | <sub>spotify:album:4dJvBAUQOaaCpRqsECRooa</sub> |
-| 159 | Dreamfear / Boy Sent From Above | Burial | 2024-03-08 | <sub>spotify:album:6gfaxkb8AwQpr0idbYnsAm</sub> |
-| 160 | Prelude to Ecstasy | The Last Dinner Party | 2024-03-08 | <sub>spotify:album:1ycq58KRtWt3wFtbuIkvLn</sub> |
-| 161 | 2093 | Yeat | 2024-03-08 | <sub>spotify:album:1jXYc5gip5tqCTDOotfY5L</sub> |
-| 162 | Hard Normal Daddy | Squarepusher | 2024-03-09 | <sub>spotify:album:08XR1KLcDo49Yay08q7CsE</sub> |
-| 163 | 3D Country | Geese | 2024-03-17 | <sub>spotify:album:475CtqaU2OY24xBvIekWV6</sub> |
-| 164 | The Great Bailout | Moor Mother | 2024-03-18 | <sub>spotify:album:4McRUm1jODWhmUWmgmG0px</sub> |
-| 165 | NEOPOLIS | Hidden Renaissance | 2024-03-20 | <sub>spotify:album:07qZ5nWFN9m1oVkE7jNCuC</sub> |
-| 166 | The Sun's Tirade | Isaiah Rashad | 2024-03-20 | <sub>spotify:album:6jjX8mGrsWtrpYpFhGMrg1</sub> |
-| 167 | Oil Change | Trapo | 2024-03-20 | <sub>spotify:album:2jJXeNsChwq1VEWdZnDznu</sub> |
-| 168 | Modus Vivendi | 070 Shake | 2024-03-21 | <sub>spotify:album:6Q2rUMVAKj1DaDh3xB0IEU</sub> |
-| 169 | You Can’t Kill Me | 070 Shake | 2024-03-22 | <sub>spotify:album:6KQa2rAuOS2rX18xyA9eru</sub> |
-| 170 | St. Vincent (Deluxe Edition) | St. Vincent | 2024-04-04 | <sub>spotify:album:2FtneRtIF1I5HPBsIxSqf0</sub> |
-| 171 | The Collective | Kim Gordon | 2024-04-06 | <sub>spotify:album:4j9UADX3wZtXWolDNT3y3x</sub> |
-| 172 | Shabrang | Sevdaliza | 2024-04-08 | <sub>spotify:album:0VtzP3PGH07r1pzwX1CSwq</sub> |
-| 173 | I Should Coco | Supergrass | 2024-04-09 | <sub>spotify:album:4XeQWsW3K9qjfv5FP9Jtcv</sub> |
-| 174 | Supergrass | Supergrass | 2024-04-09 | <sub>spotify:album:3XNEqXHHt9KIT2vOPfwx5m</sub> |
-| 175 | In It for the Money | Supergrass | 2024-04-09 | <sub>spotify:album:020brgMKGgdPSYjcVNypql</sub> |
-| 176 | Only God Was Above Us | Vampire Weekend | 2024-04-10 | <sub>spotify:album:1W04wu2W4OIcuiNc5AMB3y</sub> |
-| 177 | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | Yves Tumor | 2024-04-16 | <sub>spotify:album:5LIlFbWpjACyQFNW0nYvUC</sub> |
-| 178 | Silence Is Loud | Nia Archives | 2024-04-18 | <sub>spotify:album:7aIsJRcf04ZeFiU1Fa70Cq</sub> |
-| 179 | Assume Form | James Blake | 2024-04-26 | <sub>spotify:album:23dKNZpiadggKHrQgHLi3L</sub> |
-| 180 | CAROUSEL FROM HELL | LustSickPuppy | 2024-05-03 | <sub>spotify:album:2csNHdXgFUqHtXkzKIJ52w</sub> |
-| 181 | IRE | Combo Chimbita | 2024-05-04 | <sub>spotify:album:3Eetml593uIo24zFDxwTtm</sub> |
-| 182 | Atavista | Childish Gambino | 2024-05-21 | <sub>spotify:album:692R05mxz7V6eOFoj5PMlQ</sub> |
-| 183 | HIT ME HARD AND SOFT | Billie Eilish | 2024-05-21 | <sub>spotify:album:7aJuG4TFXa2hmE4z1yxc3n</sub> |
+| 108 | Love Me Like | Rayana Jay | 2023-12-19 | <sub>spotify:album:4ASozZrX3WMIJplKcfRJYf</sub> |
+| 109 | New Blue Sun | André 3000 | 2023-12-19 | <sub>spotify:album:33Ek6daAL3oXyQIV1uoItD</sub> |
+| 110 | SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane] | Killer Mike, André 3000, Eryn Allen Kane | 2023-12-19 | <sub>spotify:album:2dxxlSiPPh9v9TwSTpjLgo</sub> |
+| 111 | Bad News | Real Bad Man, Blu | 2023-12-19 | <sub>spotify:album:3GZYDIQKkBPbWHhl7t3fcf</sub> |
+| 112 | Let's Hope Heteros Fail, Learn and Retire | Alice Longyu Gao | 2023-12-20 | <sub>spotify:album:5YjuPPmMZy5VGjlesAPbHG</sub> |
+| 113 | ZUU | Denzel Curry | 2023-12-26 | <sub>spotify:album:6PkSBdx19zarn4ae1D08gA</sub> |
+| 114 | Fragile (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:0dZF93WHyOhTWjz5EWM7yG</sub> |
+| 115 | The Yes Album (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:4nQe6IzubN7cE7EWzrIvu4</sub> |
+| 116 | Close to the Edge (Deluxe Edition) | Yes | 2023-12-26 | <sub>spotify:album:6344rkGqCBDenGoS7eJlBN</sub> |
+| 117 | Electric Ladyland | Jimi Hendrix | 2023-12-26 | <sub>spotify:album:5z090LQztiqh13wYspQvKQ</sub> |
+| 118 | Out of the Blue | Electric Light Orchestra | 2023-12-26 | <sub>spotify:album:3usnShwygMXVZB4IV5dwnU</sub> |
+| 119 | Gimme Fiction (Deluxe Edition) | Spoon | 2023-12-26 | <sub>spotify:album:4sjSsxnmBlzxgZ9HGkHDsk</sub> |
+| 120 | Ga Ga Ga Ga Ga (2017 Remaster) | Spoon | 2023-12-26 | <sub>spotify:album:3tSpLdSd2zhM0N0aYZd13E</sub> |
+| 121 | Discovery | Daft Punk | 2023-12-26 | <sub>spotify:album:2noRn2Aes5aoNVsU6iWThc</sub> |
+| 122 | 1999 | Joey Bada$$ | 2024-01-02 | <sub>spotify:album:5ra51AaWF3iVebyhlZ1aqq</sub> |
+| 123 | OK Computer | Radiohead | 2024-01-03 | <sub>spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE</sub> |
+| 124 | Flockaveli | Waka Flocka Flame | 2024-01-05 | <sub>spotify:album:6MQtWELG7aRX7CkAzQ6nLM</sub> |
+| 125 | Process (Bonus Edition) | Sampha | 2024-01-07 | <sub>spotify:album:4rA6i9oXyMhh77pqK0cXKv</sub> |
+| 126 | Vaudeville Villain | Viktor Vaughn, MF DOOM | 2024-01-09 | <sub>spotify:album:7HPjcPD2cr8E5oHvVAmBp7</sub> |
+| 127 | Local Mvp | Sainté | 2024-01-10 | <sub>spotify:album:02gUzFCFgKdsj8p1KcnASN</sub> |
+| 128 | The Water (S) | Mick Jenkins | 2024-01-13 | <sub>spotify:album:39yAlNzbQD6MAvveqeY3IP</sub> |
+| 129 | The Impossible Kid | Aesop Rock | 2024-01-15 | <sub>spotify:album:6D6v19wYlLDsYkkfebOY3g</sub> |
+| 130 | Heavy Heavy | Young Fathers | 2024-01-15 | <sub>spotify:album:6CmlLROLOUJZnZ8QeCCpqD</sub> |
+| 131 | Lonerism | Tame Impala | 2024-01-16 | <sub>spotify:album:3C2MFZ2iHotUQOSBzdSvM7</sub> |
+| 132 | Currents | Tame Impala | 2024-01-16 | <sub>spotify:album:79dL7FLiJFOO0EoehUHQBv</sub> |
+| 133 | ORQUÍDEAS | Kali Uchis | 2024-01-17 | <sub>spotify:album:5U20AVSsUvycGtWip4XQfo</sub> |
+| 134 | Floss | Injury Reserve | 2024-01-18 | <sub>spotify:album:67sUOjUevVJGgfCj1N2e4N</sub> |
+| 135 | Malibu | Anderson .Paak | 2024-01-21 | <sub>spotify:album:4VFG1DOuTeDMBjBLZT7hCK</sub> |
+| 136 | Post | Björk | 2024-01-25 | <sub>spotify:album:3p7WXDBxhC5KS9IFXnwae7</sub> |
+| 137 | Homogenic | Björk | 2024-01-25 | <sub>spotify:album:0HMsmYvoT1h2x1C4di5faf</sub> |
+| 138 | Vespertine | Björk | 2024-01-25 | <sub>spotify:album:5vBpIxm8ws6pWyVmTWiGE1</sub> |
+| 139 | Vulnicura | Björk | 2024-01-25 | <sub>spotify:album:1ttnHZ0HVGMSMTJdZZ7kYK</sub> |
+| 140 | Liberation | Talib Kweli, Madlib | 2024-01-28 | <sub>spotify:album:2Lvyy8TE9YjUZVaB76DtFS</sub> |
+| 141 | Maps | billy woods, Kenny Segal | 2024-01-29 | <sub>spotify:album:3VoX4iyvy7et6Qt47e2XwS</sub> |
+| 142 | Everything Ecstatic | Four Tet | 2024-01-29 | <sub>spotify:album:2BKXRpAaq7jZStXo6A10qK</sub> |
+| 143 | Dawn | Yebba | 2024-01-30 | <sub>spotify:album:3CogjJSvRqbIQuNJVR2JcP</sub> |
+| 144 | Israeli Salad | The Alchemist | 2024-02-05 | <sub>spotify:album:7ntqAx8PbkYHwjeZnliXRV</sub> |
+| 145 | Untrue | Burial | 2024-02-11 | <sub>spotify:album:3zhiAPi0l1rxjaA1VBa4QX</sub> |
+| 146 | Geogaddi | Boards of Canada | 2024-02-11 | <sub>spotify:album:4T7JGfRryhw5POaXalkApE</sub> |
+| 147 | Talk Memory | BADBADNOTGOOD | 2024-02-14 | <sub>spotify:album:594yqwr1MOvVX0UBnOWftY</sub> |
+| 148 | As Grande As | Grande Mahogany | 2024-02-15 | <sub>spotify:album:1qR6pJM4fiDxflPzAuJ1t6</sub> |
+| 149 | Funeral | Arcade Fire | 2024-02-16 | <sub>spotify:album:6ZB8qaR9JNuS0Q0bG1nbcH</sub> |
+| 150 | She Reaches Out To She Reaches Out To She | Chelsea Wolfe | 2024-02-17 | <sub>spotify:album:4uJMF1xAEk9IgPA5UbwNA6</sub> |
+| 151 | Heaven To A Tortured Mind | Yves Tumor | 2024-02-19 | <sub>spotify:album:00R4y0gymycDUv9IVY7VvO</sub> |
+| 152 | Manger on McNichols | Boldy James, Sterling Toles | 2024-02-22 | <sub>spotify:album:0ZUtBUG7Ya4y0p8qSYlPFj</sub> |
+| 153 | ANIMA | Thom Yorke | 2024-02-23 | <sub>spotify:album:5DDPFOJVHhc93OlqirbAtm</sub> |
+| 154 | Oracular Spectacular | MGMT | 2024-03-02 | <sub>spotify:album:6mm1Skz3JE6AXneya9Nyiv</sub> |
+| 155 | Shabrang | Sevdaliza | 2024-03-05 | <sub>spotify:album:54tTC9UQtLnu5Wldhlnstr</sub> |
+| 156 | BLUE LIPS | ScHoolboy Q | 2024-03-06 | <sub>spotify:album:107WsrBqn5xVPgystkziry</sub> |
+| 157 | Loss Of Life | MGMT | 2024-03-08 | <sub>spotify:album:4dJvBAUQOaaCpRqsECRooa</sub> |
+| 158 | Dreamfear / Boy Sent From Above | Burial | 2024-03-08 | <sub>spotify:album:6gfaxkb8AwQpr0idbYnsAm</sub> |
+| 159 | Prelude to Ecstasy | The Last Dinner Party | 2024-03-08 | <sub>spotify:album:1ycq58KRtWt3wFtbuIkvLn</sub> |
+| 160 | 2093 | Yeat | 2024-03-08 | <sub>spotify:album:1jXYc5gip5tqCTDOotfY5L</sub> |
+| 161 | Hard Normal Daddy | Squarepusher | 2024-03-09 | <sub>spotify:album:08XR1KLcDo49Yay08q7CsE</sub> |
+| 162 | 3D Country | Geese | 2024-03-17 | <sub>spotify:album:475CtqaU2OY24xBvIekWV6</sub> |
+| 163 | The Great Bailout | Moor Mother | 2024-03-18 | <sub>spotify:album:4McRUm1jODWhmUWmgmG0px</sub> |
+| 164 | NEOPOLIS | Hidden Renaissance | 2024-03-20 | <sub>spotify:album:07qZ5nWFN9m1oVkE7jNCuC</sub> |
+| 165 | The Sun's Tirade | Isaiah Rashad | 2024-03-20 | <sub>spotify:album:6jjX8mGrsWtrpYpFhGMrg1</sub> |
+| 166 | Oil Change | Trapo | 2024-03-20 | <sub>spotify:album:2jJXeNsChwq1VEWdZnDznu</sub> |
+| 167 | Modus Vivendi | 070 Shake | 2024-03-21 | <sub>spotify:album:6Q2rUMVAKj1DaDh3xB0IEU</sub> |
+| 168 | You Can’t Kill Me | 070 Shake | 2024-03-22 | <sub>spotify:album:6KQa2rAuOS2rX18xyA9eru</sub> |
+| 169 | St. Vincent (Deluxe Edition) | St. Vincent | 2024-04-04 | <sub>spotify:album:2FtneRtIF1I5HPBsIxSqf0</sub> |
+| 170 | The Collective | Kim Gordon | 2024-04-06 | <sub>spotify:album:4j9UADX3wZtXWolDNT3y3x</sub> |
+| 171 | Shabrang | Sevdaliza | 2024-04-08 | <sub>spotify:album:0VtzP3PGH07r1pzwX1CSwq</sub> |
+| 172 | I Should Coco | Supergrass | 2024-04-09 | <sub>spotify:album:4XeQWsW3K9qjfv5FP9Jtcv</sub> |
+| 173 | Supergrass | Supergrass | 2024-04-09 | <sub>spotify:album:3XNEqXHHt9KIT2vOPfwx5m</sub> |
+| 174 | In It for the Money | Supergrass | 2024-04-09 | <sub>spotify:album:020brgMKGgdPSYjcVNypql</sub> |
+| 175 | Only God Was Above Us | Vampire Weekend | 2024-04-10 | <sub>spotify:album:1W04wu2W4OIcuiNc5AMB3y</sub> |
+| 176 | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | Yves Tumor | 2024-04-16 | <sub>spotify:album:5LIlFbWpjACyQFNW0nYvUC</sub> |
+| 177 | Silence Is Loud | Nia Archives | 2024-04-18 | <sub>spotify:album:7aIsJRcf04ZeFiU1Fa70Cq</sub> |
+| 178 | Assume Form | James Blake | 2024-04-26 | <sub>spotify:album:23dKNZpiadggKHrQgHLi3L</sub> |
+| 179 | CAROUSEL FROM HELL | LustSickPuppy | 2024-05-03 | <sub>spotify:album:2csNHdXgFUqHtXkzKIJ52w</sub> |
+| 180 | IRE | Combo Chimbita | 2024-05-04 | <sub>spotify:album:3Eetml593uIo24zFDxwTtm</sub> |
+| 181 | Atavista | Childish Gambino | 2024-05-21 | <sub>spotify:album:692R05mxz7V6eOFoj5PMlQ</sub> |
+| 182 | HIT ME HARD AND SOFT | Billie Eilish | 2024-05-21 | <sub>spotify:album:7aJuG4TFXa2hmE4z1yxc3n</sub> |

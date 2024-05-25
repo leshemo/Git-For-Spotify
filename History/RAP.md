@@ -637,74 +637,74 @@
 | 634 | ASTROTHUNDER | Travis Scott | ASTROWORLD | 2023-10-26 | <sub>spotify:track:4MXhiYIRDMGAuvZc5IFTwC</sub> |
 | 635 | LVL | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) | 2023-10-26 | <sub>spotify:track:787rCZF9i4L1cXGMkdyIk4</sub> |
 | 636 | black samuarai. | jev. | the color grey. | 2023-10-26 | <sub>spotify:track:16JrfiRjHTFahRTV6fPKqQ</sub> |
-| 637 | 12.38 (feat. 21 Savage, Ink & Kadhja Bonet) | Childish Gambino, 21 Savage, Ink, Kadhja Bonet | 3.15.20 | 2023-10-29 | <sub>spotify:track:011ZwIM48eD8ee2UBpG8nK</sub> |
-| 638 | On Sight | Free Nationals, JID, Kadhja Bonet, MIKNNA | Free Nationals | 2023-10-29 | <sub>spotify:track:5WiShbQYrJnoG7mD961IKY</sub> |
-| 639 | Electric Relaxation | A Tribe Called Quest | The Anthology | 2023-10-29 | <sub>spotify:track:0eEXcw3JLVXcRxYrVYMy68</sub> |
-| 640 | Shook Ones, Pt. II | Mobb Deep | The Infamous | 2023-10-29 | <sub>spotify:track:33ZXjLCpiINn8eQIDYEPTD</sub> |
-| 641 | untitled 02 - 06.23.2014. | Kendrick Lamar | untitled unmastered. | 2023-10-29 | <sub>spotify:track:3I0FBDc1c1BLNtXWKVjmFg</sub> |
-| 642 | MOVIN' | Bluestaeb, Mick Jenkins, Aréna | MOVIN' | 2023-10-29 | <sub>spotify:track:4mWTAI8wYE4HpYIgPAASpV</sub> |
-| 643 | hue_man nature | Saba, No ID | hue_man nature | 2023-10-31 | <sub>spotify:track:2cVIKCgIfYOYyyXfQEstZN</sub> |
-| 644 | MOSHPIT | Baby Keem | DIE FOR MY BITCH | 2023-11-02 | <sub>spotify:track:6XrRiRgDivf3Kv4CKuQh9o</sub> |
-| 645 | Extinct | REASON, Isaiah Rashad, JID | New Beginnings | 2023-11-02 | <sub>spotify:track:70hDklZStSazrExPjHJPfR</sub> |
-| 646 | Said N Done | 21 Savage, Metro Boomin | SAVAGE MODE II | 2023-11-03 | <sub>spotify:track:11XegnWeJHBDtj9IsNwngu</sub> |
-| 647 | All The Stars (with SZA) | Kendrick Lamar, SZA | Black Panther The Album Music From And Inspired By | 2023-11-05 | <sub>spotify:track:3GCdLUSnKSMJhs4Tj6CV3s</sub> |
-| 648 | Hands on the Wheel (feat. Asap Rocky) | ScHoolboy Q, A$AP Rocky | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:78JKJfKsqgeBDBF58gv1SF</sub> |
-| 649 | Sex Drive (feat. J Hene Aiko) | ScHoolboy Q, Jhené Aiko | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:1j64JX3cT30zXUAz2a2C1H</sub> |
-| 650 | Sacrilegious | ScHoolboy Q | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4L3hja5ROnBDN5So4bUEo3</sub> |
-| 651 | Codeine Crazy | Future | Monster | 2023-11-08 | <sub>spotify:track:0joQFwiBKmi6X1Iq5R1ubH</sub> |
-| 652 | Druggys Wit Hoes Again (feat. Ab Soul) | ScHoolboy Q, Ab-Soul | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4vpNOBwJSl8HA3pLXY6c8U</sub> |
-| 653 | Smoke Break-Dance (feat. JID) | Mick Jenkins, JID | Smoke Break-Dance (feat. JID) | 2023-11-12 | <sub>spotify:track:1Dm5maHjhhmcdqS5hK61Ut</sub> |
-| 654 | Simple Life | Skepta, Sam Frank | Blacklisted | 2023-11-14 | <sub>spotify:track:1cDLyaFDWUjab3x0pI2oPT</sub> |
-| 655 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
-| 656 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
-| 657 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
-| 658 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
-| 659 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
-| 660 | leavemealone | Fred again.., Baby Keem | leavemealone | 2023-12-11 | <sub>spotify:track:1MVqeIAwhD4T44AKVkIfic</sub> |
-| 661 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
-| 662 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
-| 663 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
-| 664 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
-| 665 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK, Shiki | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
-| 666 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
-| 667 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
-| 668 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
-| 669 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
-| 670 | Woman | Little Simz, Cleo Sol | Sometimes I Might Be Introvert | 2024-01-08 | <sub>spotify:track:60GM1mA58L7SYD1bLQXBho</sub> |
-| 671 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
-| 672 | Beef FloMix | Flo Milli | Ho, why is you here ? | 2024-01-13 | <sub>spotify:track:7qdFz1dTJqgdVe6NA4F4DP</sub> |
-| 673 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
-| 674 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
-| 675 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
-| 676 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
-| 677 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
-| 678 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
-| 679 | By Design | Kid Cudi, André Benjamin | Passion, Pain & Demon Slayin' | 2024-01-21 | <sub>spotify:track:5FxVTEpoBress37MmlMhbZ</sub> |
-| 680 | End of The niGht. | Phony Ppl | Yesterday's Tomorrow | 2024-01-21 | <sub>spotify:track:2p4ARx5nk3b9Jh07ivQR1c</sub> |
-| 681 | Louie Bag (feat. Smino) | Yebba, Smino | Dawn | 2024-01-21 | <sub>spotify:track:0PspnH1gJYzr1NGqYRK3IO</sub> |
-| 682 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |
-| 683 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
-| 684 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
-| 685 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
-| 686 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
-| 687 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
-| 688 | Waves | Joey Bada$$ | 1999 | 2024-02-11 | <sub>spotify:track:3AM2ihc5RFzbC47eCpTg2I</sub> |
-| 689 | Gangsta | Free Nationals, A$AP Rocky, Anderson .Paak | Gangsta | 2024-02-25 | <sub>spotify:track:49oKnEjgRSs3DMXScEU2G1</sub> |
-| 690 | SOMEBODY | Nobu Woods | IRIS | 2024-03-07 | <sub>spotify:track:7pVnRgGMi2uNjOj04TL5eg</sub> |
-| 691 | Love Birds (feat. Devin Malik & Lance Skiiiwalker) | ScHoolboy Q, Devin Malik, Lance Skiiiwalker | BLUE LIPS | 2024-03-08 | <sub>spotify:track:6aTGdCvAqaiO5YwcjAkfrW</sub> |
-| 692 | Blueslides | ScHoolboy Q | BLUE LIPS | 2024-03-08 | <sub>spotify:track:7u1P36qRqrSNrXAp98cyp1</sub> |
-| 693 | Foux (feat. Ab-Soul) | ScHoolboy Q, Ab-Soul | BLUE LIPS | 2024-03-09 | <sub>spotify:track:6UqgBwNMKmhjDuN0OcVJA0</sub> |
-| 694 | Brilliant Mind | Blanco | ReBourne | 2024-03-10 | <sub>spotify:track:5S46E2UNGDYcwZ26yj6aNr</sub> |
-| 695 | Desoleil (Brilliant Corners) | Loyle Carner, Sampha | Not Waving, But Drowning | 2024-03-19 | <sub>spotify:track:5rYTMjVkGioNF4MpSQISlg</sub> |
-| 696 | Love, of Money | MAVI | Let the Sun Talk | 2024-03-20 | <sub>spotify:track:6qUkNMd34rjpDP5EUy9JNS</sub> |
-| 697 | THE SUN (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-21 | <sub>spotify:track:106yiMHU6uhZXvFyAcKKuA</sub> |
-| 698 | Let The Sample Work | Ben Reilly | Let The Sample Work | 2024-03-21 | <sub>spotify:track:4vyA2HBhmv5g0qCLaXWjOJ</sub> |
-| 699 | Unusual | Zahir, Phoenix James, Wiseboy Jeremy | Unusual | 2024-03-21 | <sub>spotify:track:2qLHdO8ARL5Fjk5fyJH6Us</sub> |
-| 700 | OKAY! (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-22 | <sub>spotify:track:2g7t7LDSgevL6DZmQu6xp9</sub> |
-| 701 | Ontheway! (feat. Standing On The Corner) | Earl Sweatshirt, Standing On The Corner | Some Rap Songs | 2024-03-23 | <sub>spotify:track:4HJ4L8hpX9YjTwipKTYwaW</sub> |
-| 702 | Double Standards (feat. Sampha) | Ghetts, Sampha | Double Standards (feat. Sampha) | 2024-04-02 | <sub>spotify:track:0eAXtuToazVgRJvKn8Rln9</sub> |
-| 703 | Bought The Earth | Yeat | 2093 | 2024-04-11 | <sub>spotify:track:5Bno6wFa22tRbFUwh4iZdk</sub> |
-| 704 | Where's The Catch? (feat. André 3000) | James Blake, André 3000 | Assume Form | 2024-04-24 | <sub>spotify:track:7omij53d6AvXefx13NNyfn</sub> |
-| 705 | MILLION DOLLAR BABY | Tommy Richman | MILLION DOLLAR BABY | 2024-05-07 | <sub>spotify:track:7fzHQizxTqy8wTXwlrgPQQ</sub> |
-| 706 | ILIKEU | Machinedrum, Duckwrth | ILIKEU | 2024-05-18 | <sub>spotify:track:5bp8cOT9xug35hnhZgW9d7</sub> |
-| 707 | Freedom 2 | Kwengface, Joy Orbison, Overmono | Freedom 2 | 2024-05-18 | <sub>spotify:track:3sn7UM54xyAUjfR9rNxZwp</sub> |
+| 637 | On Sight | Free Nationals, JID, Kadhja Bonet, MIKNNA | Free Nationals | 2023-10-29 | <sub>spotify:track:5WiShbQYrJnoG7mD961IKY</sub> |
+| 638 | Electric Relaxation | A Tribe Called Quest | The Anthology | 2023-10-29 | <sub>spotify:track:0eEXcw3JLVXcRxYrVYMy68</sub> |
+| 639 | Shook Ones, Pt. II | Mobb Deep | The Infamous | 2023-10-29 | <sub>spotify:track:33ZXjLCpiINn8eQIDYEPTD</sub> |
+| 640 | untitled 02 - 06.23.2014. | Kendrick Lamar | untitled unmastered. | 2023-10-29 | <sub>spotify:track:3I0FBDc1c1BLNtXWKVjmFg</sub> |
+| 641 | MOVIN' | Bluestaeb, Mick Jenkins, Aréna | MOVIN' | 2023-10-29 | <sub>spotify:track:4mWTAI8wYE4HpYIgPAASpV</sub> |
+| 642 | hue_man nature | Saba, No ID | hue_man nature | 2023-10-31 | <sub>spotify:track:2cVIKCgIfYOYyyXfQEstZN</sub> |
+| 643 | MOSHPIT | Baby Keem | DIE FOR MY BITCH | 2023-11-02 | <sub>spotify:track:6XrRiRgDivf3Kv4CKuQh9o</sub> |
+| 644 | Extinct | REASON, Isaiah Rashad, JID | New Beginnings | 2023-11-02 | <sub>spotify:track:70hDklZStSazrExPjHJPfR</sub> |
+| 645 | Said N Done | 21 Savage, Metro Boomin | SAVAGE MODE II | 2023-11-03 | <sub>spotify:track:11XegnWeJHBDtj9IsNwngu</sub> |
+| 646 | All The Stars (with SZA) | Kendrick Lamar, SZA | Black Panther The Album Music From And Inspired By | 2023-11-05 | <sub>spotify:track:3GCdLUSnKSMJhs4Tj6CV3s</sub> |
+| 647 | Hands on the Wheel (feat. Asap Rocky) | ScHoolboy Q, A$AP Rocky | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:78JKJfKsqgeBDBF58gv1SF</sub> |
+| 648 | Sex Drive (feat. J Hene Aiko) | ScHoolboy Q, Jhené Aiko | Habits & Contradictions | 2023-11-07 | <sub>spotify:track:1j64JX3cT30zXUAz2a2C1H</sub> |
+| 649 | Sacrilegious | ScHoolboy Q | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4L3hja5ROnBDN5So4bUEo3</sub> |
+| 650 | Codeine Crazy | Future | Monster | 2023-11-08 | <sub>spotify:track:0joQFwiBKmi6X1Iq5R1ubH</sub> |
+| 651 | Druggys Wit Hoes Again (feat. Ab Soul) | ScHoolboy Q, Ab-Soul | Habits & Contradictions | 2023-11-08 | <sub>spotify:track:4vpNOBwJSl8HA3pLXY6c8U</sub> |
+| 652 | Smoke Break-Dance (feat. JID) | Mick Jenkins, JID | Smoke Break-Dance (feat. JID) | 2023-11-12 | <sub>spotify:track:1Dm5maHjhhmcdqS5hK61Ut</sub> |
+| 653 | Simple Life | Skepta, Sam Frank | Blacklisted | 2023-11-14 | <sub>spotify:track:1cDLyaFDWUjab3x0pI2oPT</sub> |
+| 654 | Ronald Reagan Era | Kendrick Lamar | Section.80 | 2023-11-18 | <sub>spotify:track:71d1KcqByBe8cl0NhFUKVU</sub> |
+| 655 | There He Go | ScHoolboy Q | Habits & Contradictions | 2023-11-18 | <sub>spotify:track:58YBY8OiX56vQhcHUgul9m</sub> |
+| 656 | shut the fuck up talking to me | Zack Fox | shut the fuck up talking to me | 2023-11-20 | <sub>spotify:track:3NLDhxUpFwSS6tsdgracYt</sub> |
+| 657 | Lady Brown (feat. Cise Starr from CYNE) | Nujabes, Cise Starr | Metaphorical Music | 2023-11-22 | <sub>spotify:track:0JL9TZip7mL7iwC5EOkALS</sub> |
+| 658 | You Ain't Got Nuthin | Lil Wayne, Juelz Santana, Fabolous | Tha Carter III | 2023-12-04 | <sub>spotify:track:7fxzl4qyZBDnLkcsfire2j</sub> |
+| 659 | leavemealone | Fred again.., Baby Keem | leavemealone | 2023-12-11 | <sub>spotify:track:1MVqeIAwhD4T44AKVkIfic</sub> |
+| 660 | Droppin' Seeds (feat. Lil' Wayne) | Tyler, The Creator, Lil Wayne | Flower Boy | 2023-12-13 | <sub>spotify:track:39u2PsqrAZpZ0KPx6CjasV</sub> |
+| 661 | PMW (All I Really Need) (feat. ScHoolboy Q) | A$AP Rocky, ScHoolboy Q | LONG.LIVE.A$AP (Deluxe Version) | 2023-12-13 | <sub>spotify:track:5oeKoJMi9g6GXEbtz1ta0f</sub> |
+| 662 | PROM / KING | Saba | CARE FOR ME | 2023-12-18 | <sub>spotify:track:5cZpwmXGzDvBDX9Iv6wXzx</sub> |
+| 663 | Gray Area (feat. Mick Jenkins) | KAYTRANADA, Mick Jenkins | BUBBA | 2023-12-19 | <sub>spotify:track:3uJ0spXcRqOO8PCGAnjSeQ</sub> |
+| 664 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK, Shiki | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
+| 665 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
+| 666 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
+| 667 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
+| 668 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
+| 669 | Woman | Little Simz, Cleo Sol | Sometimes I Might Be Introvert | 2024-01-08 | <sub>spotify:track:60GM1mA58L7SYD1bLQXBho</sub> |
+| 670 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
+| 671 | Beef FloMix | Flo Milli | Ho, why is you here ? | 2024-01-13 | <sub>spotify:track:7qdFz1dTJqgdVe6NA4F4DP</sub> |
+| 672 | Never Lose Me | Flo Milli | Never Lose Me | 2024-01-13 | <sub>spotify:track:6uTPdRrEDeH8Fyg5L5qmeU</sub> |
+| 673 | Standout | Knucks, Loyle Carner, Venna | London Class | 2024-01-15 | <sub>spotify:track:7z8mamHXaezlYVODfFOypw</sub> |
+| 674 | SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane) | Killer Mike, André 3000, Eryn Allen Kane, Future | MICHAEL | 2024-01-17 | <sub>spotify:track:1UsPflAuWTNteFUPJAJe8E</sub> |
+| 675 | Shitsville | Freddie Gibbs, Madlib | Piñata | 2024-01-17 | <sub>spotify:track:6xwkCL4h1pYXqlUu68RAI6</sub> |
+| 676 | Look Mama I Did It | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:2XahDlBUMYFHp4B6CZNRMa</sub> |
+| 677 | Oh Shit!!! | Injury Reserve | Floss | 2024-01-19 | <sub>spotify:track:6A3hUBzQ0k6chtNJlGxDQn</sub> |
+| 678 | By Design | Kid Cudi, André Benjamin | Passion, Pain & Demon Slayin' | 2024-01-21 | <sub>spotify:track:5FxVTEpoBress37MmlMhbZ</sub> |
+| 679 | End of The niGht. | Phony Ppl | Yesterday's Tomorrow | 2024-01-21 | <sub>spotify:track:2p4ARx5nk3b9Jh07ivQR1c</sub> |
+| 680 | Louie Bag (feat. Smino) | Yebba, Smino | Dawn | 2024-01-21 | <sub>spotify:track:0PspnH1gJYzr1NGqYRK3IO</sub> |
+| 681 | GEEKIN | MIA GLADSTONE, Ciscero | GEEKIN | 2024-01-21 | <sub>spotify:track:4HiWfodoaCudNmx2AJCgq6</sub> |
+| 682 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
+| 683 | Am I Wrong (feat. ScHoolboy Q) | Anderson .Paak, ScHoolboy Q | Malibu | 2024-01-21 | <sub>spotify:track:1UjyF6okUHhnVxaLV8ojsA</sub> |
+| 684 | The Art of Peer Pressure | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) | 2024-01-25 | <sub>spotify:track:0d0jsoba88SpOoFxCxA2rZ</sub> |
+| 685 | Down In Atlanta | Pharrell Williams, Travis Scott | Down In Atlanta | 2024-02-01 | <sub>spotify:track:5unjCay0kUjuej5ebn4nS4</sub> |
+| 686 | A Cold Sunday | Lil Yachty | A Cold Sunday | 2024-02-05 | <sub>spotify:track:1Y1jtaZOJYgXBl7lKdLc9o</sub> |
+| 687 | Waves | Joey Bada$$ | 1999 | 2024-02-11 | <sub>spotify:track:3AM2ihc5RFzbC47eCpTg2I</sub> |
+| 688 | Gangsta | Free Nationals, A$AP Rocky, Anderson .Paak | Gangsta | 2024-02-25 | <sub>spotify:track:49oKnEjgRSs3DMXScEU2G1</sub> |
+| 689 | SOMEBODY | Nobu Woods | IRIS | 2024-03-07 | <sub>spotify:track:7pVnRgGMi2uNjOj04TL5eg</sub> |
+| 690 | Love Birds (feat. Devin Malik & Lance Skiiiwalker) | ScHoolboy Q, Devin Malik, Lance Skiiiwalker | BLUE LIPS | 2024-03-08 | <sub>spotify:track:6aTGdCvAqaiO5YwcjAkfrW</sub> |
+| 691 | Blueslides | ScHoolboy Q | BLUE LIPS | 2024-03-08 | <sub>spotify:track:7u1P36qRqrSNrXAp98cyp1</sub> |
+| 692 | Foux (feat. Ab-Soul) | ScHoolboy Q, Ab-Soul | BLUE LIPS | 2024-03-09 | <sub>spotify:track:6UqgBwNMKmhjDuN0OcVJA0</sub> |
+| 693 | Brilliant Mind | Blanco | ReBourne | 2024-03-10 | <sub>spotify:track:5S46E2UNGDYcwZ26yj6aNr</sub> |
+| 694 | Desoleil (Brilliant Corners) | Loyle Carner, Sampha | Not Waving, But Drowning | 2024-03-19 | <sub>spotify:track:5rYTMjVkGioNF4MpSQISlg</sub> |
+| 695 | Love, of Money | MAVI | Let the Sun Talk | 2024-03-20 | <sub>spotify:track:6qUkNMd34rjpDP5EUy9JNS</sub> |
+| 696 | THE SUN (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-21 | <sub>spotify:track:106yiMHU6uhZXvFyAcKKuA</sub> |
+| 697 | Let The Sample Work | Ben Reilly | Let The Sample Work | 2024-03-21 | <sub>spotify:track:4vyA2HBhmv5g0qCLaXWjOJ</sub> |
+| 698 | Unusual | Zahir, Phoenix James, Wiseboy Jeremy | Unusual | 2024-03-21 | <sub>spotify:track:2qLHdO8ARL5Fjk5fyJH6Us</sub> |
+| 699 | OKAY! (Prod. Gesaffelstein) | KayCyy, Gesaffelstein | TW2052 | 2024-03-22 | <sub>spotify:track:2g7t7LDSgevL6DZmQu6xp9</sub> |
+| 700 | Ontheway! (feat. Standing On The Corner) | Earl Sweatshirt, Standing On The Corner | Some Rap Songs | 2024-03-23 | <sub>spotify:track:4HJ4L8hpX9YjTwipKTYwaW</sub> |
+| 701 | Double Standards (feat. Sampha) | Ghetts, Sampha | Double Standards (feat. Sampha) | 2024-04-02 | <sub>spotify:track:0eAXtuToazVgRJvKn8Rln9</sub> |
+| 702 | Bought The Earth | Yeat | 2093 | 2024-04-11 | <sub>spotify:track:5Bno6wFa22tRbFUwh4iZdk</sub> |
+| 703 | Where's The Catch? (feat. André 3000) | James Blake, André 3000 | Assume Form | 2024-04-24 | <sub>spotify:track:7omij53d6AvXefx13NNyfn</sub> |
+| 704 | MILLION DOLLAR BABY | Tommy Richman | MILLION DOLLAR BABY | 2024-05-07 | <sub>spotify:track:7fzHQizxTqy8wTXwlrgPQQ</sub> |
+| 705 | ILIKEU | Machinedrum, Duckwrth | ILIKEU | 2024-05-18 | <sub>spotify:track:5bp8cOT9xug35hnhZgW9d7</sub> |
+| 706 | Freedom 2 | Kwengface, Joy Orbison, Overmono | Freedom 2 | 2024-05-18 | <sub>spotify:track:3sn7UM54xyAUjfR9rNxZwp</sub> |
+| 707 | Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet) | Childish Gambino, 21 Savage, Ink, Kadhja Bonet | Atavista | 2024-05-24 | <sub>spotify:track:6ajiOUVtxRjYcf1EvBDoV4</sub> |
