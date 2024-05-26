@@ -183,3 +183,12 @@
 | 180 | IRE | Combo Chimbita | 2024-05-04 | <sub>spotify:album:3Eetml593uIo24zFDxwTtm</sub> |
 | 181 | Atavista | Childish Gambino | 2024-05-21 | <sub>spotify:album:692R05mxz7V6eOFoj5PMlQ</sub> |
 | 182 | HIT ME HARD AND SOFT | Billie Eilish | 2024-05-21 | <sub>spotify:album:7aJuG4TFXa2hmE4z1yxc3n</sub> |
+| 183 | Psyence Fiction | UNKLE | 2024-05-25 | <sub>spotify:album:0LFPjvWEaHP7WKQD6F5pVS</sub> |
+| 184 | Supermodified | Amon Tobin | 2024-05-25 | <sub>spotify:album:54zaC0AviuCfkDwHsUJIra</sub> |
+| 185 | Bricolage | Amon Tobin | 2024-05-25 | <sub>spotify:album:0DFvcq1cdpIdQxavKkEVCH</sub> |
+| 186 | Permutation | Amon Tobin | 2024-05-25 | <sub>spotify:album:7jxs0XY2yJS36PZCjUv4Hp</sub> |
+| 187 | Endtroducing..... | DJ Shadow | 2024-05-25 | <sub>spotify:album:4wvqGLk1HThPA0b5lzRK2l</sub> |
+| 188 | Dark Times | Vince Staples | 2024-05-25 | <sub>spotify:album:30BFY5VHii4PyWqkTubUWX</sub> |
+| 189 | Selected Ambient Works 85-92 | Aphex Twin | 2024-05-25 | <sub>spotify:album:7aNclGRxTysfh6z0d8671k</sub> |
+| 190 | Lifeforms | The Future Sound Of London | 2024-05-25 | <sub>spotify:album:0UcHfoo7KMso767JwePBMh</sub> |
+| 191 | Gulag Orkestar | Beirut | 2024-05-25 | <sub>spotify:album:4yP7cyoeE3F6EyJPZ9v47V</sub> |
