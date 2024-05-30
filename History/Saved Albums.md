@@ -192,3 +192,6 @@
 | 189 | Selected Ambient Works 85-92 | Aphex Twin | 2024-05-25 | <sub>spotify:album:7aNclGRxTysfh6z0d8671k</sub> |
 | 190 | Lifeforms | The Future Sound Of London | 2024-05-25 | <sub>spotify:album:0UcHfoo7KMso767JwePBMh</sub> |
 | 191 | Gulag Orkestar | Beirut | 2024-05-25 | <sub>spotify:album:4yP7cyoeE3F6EyJPZ9v47V</sub> |
+| 192 | Mid Spiral: Growth | BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:5CqumIo51QeCiboYgpxpN8</sub> |
+| 193 | Mid Spiral: Chaos | BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:4jSXr6It6ARLX8iDOHbwaJ</sub> |
+| 194 | Slow Burn | Baby Rose, BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:4OMrX6ldbZ3gvb0oXytTHb</sub> |
