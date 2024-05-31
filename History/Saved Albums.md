@@ -195,3 +195,4 @@
 | 192 | Mid Spiral: Growth | BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:5CqumIo51QeCiboYgpxpN8</sub> |
 | 193 | Mid Spiral: Chaos | BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:4jSXr6It6ARLX8iDOHbwaJ</sub> |
 | 194 | Slow Burn | Baby Rose, BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:4OMrX6ldbZ3gvb0oXytTHb</sub> |
+| 195 | #RICHAXXHAITIAN | Mach-Hommy | 2024-05-31 | <sub>spotify:album:3akQbvTaRFTiQYZILxVm3E</sub> |
