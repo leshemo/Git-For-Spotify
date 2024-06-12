@@ -197,3 +197,4 @@
 | 194 | Slow Burn | Baby Rose, BADBADNOTGOOD | 2024-05-29 | <sub>spotify:album:4OMrX6ldbZ3gvb0oXytTHb</sub> |
 | 195 | #RICHAXXHAITIAN | Mach-Hommy | 2024-05-31 | <sub>spotify:album:3akQbvTaRFTiQYZILxVm3E</sub> |
 | 196 | TIMELESS | KAYTRANADA | 2024-06-09 | <sub>spotify:album:3C3t2bKhwEL3wdKioqWUDh</sub> |
+| 197 | BRAT | Charli xcx | 2024-06-11 | <sub>spotify:album:2lIZef4lzdvZkiiCzvPKj7</sub> |
