@@ -268,3 +268,4 @@
 | 265 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
 | 266 | Barefoot In The Park (feat. ROSALÍA) | James Blake, ROSALÍA | Assume Form | 2024-05-15 | <sub>spotify:track:3onYsieuDICdVt5ULZSExF</sub> |
 | 267 | Broken Man | St. Vincent | All Born Screaming | 2024-05-18 | <sub>spotify:track:1kgLXgHrXecZyRCDROfAPb</sub> |
+| 268 | Atavista | Childish Gambino | Atavista | 2024-06-14 | <sub>spotify:track:6Lj4RhwPsVfMn7tsA5i8jW</sub> |

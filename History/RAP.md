@@ -708,3 +708,7 @@
 | 705 | ILIKEU | Machinedrum, Duckwrth | ILIKEU | 2024-05-18 | <sub>spotify:track:5bp8cOT9xug35hnhZgW9d7</sub> |
 | 706 | Freedom 2 | Kwengface, Joy Orbison, Overmono | Freedom 2 | 2024-05-18 | <sub>spotify:track:3sn7UM54xyAUjfR9rNxZwp</sub> |
 | 707 | Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet) | Childish Gambino, 21 Savage, Ink, Kadhja Bonet | Atavista | 2024-05-24 | <sub>spotify:track:6ajiOUVtxRjYcf1EvBDoV4</sub> |
+| 708 | #RICHAXXHAITIAN | Mach-Hommy, KAYTRANADA, 03 Greedo | #RICHAXXHAITIAN | 2024-06-14 | <sub>spotify:track:0B0lGy8qd6kohNFUz7cneO</sub> |
+| 709 | SUR LE PONT d'AVIGNON (Reparation #1) | Mach-Hommy, Sam Gendel | #RICHAXXHAITIAN | 2024-06-14 | <sub>spotify:track:7ycjG4nm0p2i52Y4VzAIIF</sub> |
+| 710 | THE SERPENT AND THE RAINBOW | Mach-Hommy | #RICHAXXHAITIAN | 2024-06-14 | <sub>spotify:track:52T3Qlr3aAH19Hglv5E9bu</sub> |
+| 711 | SONJE | Mach-Hommy, Hephzibah | #RICHAXXHAITIAN | 2024-06-15 | <sub>spotify:track:7fwdaT4sij27QUYGfHShDh</sub> |
