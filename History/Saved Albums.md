@@ -199,3 +199,4 @@
 | 196 | TIMELESS | KAYTRANADA | 2024-06-09 | <sub>spotify:album:3C3t2bKhwEL3wdKioqWUDh</sub> |
 | 197 | BRAT | Charli xcx | 2024-06-11 | <sub>spotify:album:2lIZef4lzdvZkiiCzvPKj7</sub> |
 | 198 | Music Has The Right To Children | Boards of Canada | 2024-06-14 | <sub>spotify:album:6LZiNXaDvhzvnXUubVOmNU</sub> |
+| 199 | SAWAYAMA | Rina Sawayama | 2024-06-21 | <sub>spotify:album:3stadz88XVpHcXnVYMHc4J</sub> |
