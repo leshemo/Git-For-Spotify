@@ -201,3 +201,4 @@
 | 198 | Music Has The Right To Children | Boards of Canada | 2024-06-14 | <sub>spotify:album:6LZiNXaDvhzvnXUubVOmNU</sub> |
 | 199 | SAWAYAMA | Rina Sawayama | 2024-06-21 | <sub>spotify:album:3stadz88XVpHcXnVYMHc4J</sub> |
 | 200 | Why Lawd? | NxWorries, Anderson .Paak, Knxwledge | 2024-06-23 | <sub>spotify:album:0LlzHi8Erl8zpTumqt88Qe</sub> |
+| 201 | Night Reign | Arooj Aftab | 2024-06-27 | <sub>spotify:album:2JdE3ilolUGhsNkW1oQfvf</sub> |

@@ -10,7 +10,7 @@
 | 7 | This Life | Denzel Curry | Imperial | 2022-12-11 | <sub>spotify:track:2aQwdBWk4vSPWk1Csgtzdo</sub> |
 | 8 | 20 Min | Lil Uzi Vert | Luv Is Rage 2 (Deluxe) | 2019-01-21 | <sub>spotify:track:0uxSUdBrJy9Un0EYoBowng</sub> |
 | 9 | ATM | J. Cole | KOD | 2019-01-21 | <sub>spotify:track:2UciqgwVDwro0fev3MFbxJ</sub> |
-| 10 | C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk) | Wu-Tang Clan, Method Man, Raekwon, Inspectah Deck, Buddha Monk | Enter The Wu-Tang (36 Chambers) [Expanded Edition] | 2019-01-21 | <sub>spotify:track:119c93MHjrDLJTApCVGpvx</sub> |
+| 10 | C.R.E.A.M. (Cash Rules Everything Around Me) | Wu-Tang Clan | Enter The Wu-Tang (36 Chambers) [Expanded Edition] | 2019-01-21 | <sub>spotify:track:119c93MHjrDLJTApCVGpvx</sub> |
 | 11 | Potholderz feat. Count Bass D | MF DOOM | MM...FOOD | 2022-12-11 | <sub>spotify:track:1VZUXXUGqIxePaMUXkabRn</sub> |
 | 12 | One Beer | MF DOOM | MM...FOOD | 2022-10-28 | <sub>spotify:track:4BnrGx9tWNF8aiXl1UhDBa</sub> |
 | 13 | BLACK BALLOONS - 13LACK 13ALLOONZ [FEAT. TWELVE'LEN & GOLDLINK - TWELVE'LEN + GOLDL1NK] | Denzel Curry, Twelve'len, GoldLink | TA13OO | 2022-10-10 | <sub>spotify:track:5mexbTuWx9d8DPZk4sDGF4</sub> |
