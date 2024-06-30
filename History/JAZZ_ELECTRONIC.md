@@ -79,7 +79,7 @@
 | 76 | Between the Bread | Nico Harris, daniel hayn, elmo, anu, Olly Chalk, André Moreira | Between the Bread | 2021-10-21 | <sub>spotify:track:1qTGY0QXhVVTvMtX33vw7Y</sub> |
 | 77 | Coral Jazz | Ozoyo | Coral Jazz | 2021-10-21 | <sub>spotify:track:5o3FOmZJPxN4hfLlaFR6hM</sub> |
 | 78 | Stranger Than Fiction | Moses Boyd | Dark Matter | 2021-10-21 | <sub>spotify:track:26b7DkpsVvOSnHgFnHJ4RV</sub> |
-| 79 | Sweet Shop | Kaidi & NK-OK, Blue Lab Beats | Sweet Shop | 2021-10-21 | <sub>spotify:track:66LXZLB5neVWhdeEx56qjS</sub> |
+| 79 | Sweet Shop | Blue Lab Beats | Sweet Shop | 2021-10-21 | <sub>spotify:track:66LXZLB5neVWhdeEx56qjS</sub> |
 | 80 | Friends | Kiefer | Friends | 2021-10-21 | <sub>spotify:track:6mrHWhe8HiCs32tOZx7Rey</sub> |
 | 81 | Afro Blue | Sam Gendel | Afro Blue | 2021-10-21 | <sub>spotify:track:6OV5AAEspMRkv7uVsNQiRk</sub> |
 | 82 | If U Strike Me Down | Dosh | Tomorrow 1972 | 2021-10-21 | <sub>spotify:track:2zvvOFRIBql3NfIO9hWNyk</sub> |

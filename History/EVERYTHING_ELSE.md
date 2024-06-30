@@ -273,3 +273,4 @@
 | 270 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
+| 273 | The girl, so confusing version with lorde | Charli xcx, Lorde | The girl, so confusing version with lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
