@@ -274,3 +274,4 @@
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
 | 273 | The girl, so confusing version with lorde | Charli xcx, Lorde | The girl, so confusing version with lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 274 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
