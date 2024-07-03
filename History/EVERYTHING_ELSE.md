@@ -273,5 +273,6 @@
 | 270 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
-| 273 | The girl, so confusing version with lorde | Charli xcx, Lorde | The girl, so confusing version with lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
-| 274 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
+| 273 | Cinnamon Temple | Hiatus Kaiyote | Love Heart Cheat Code | 2024-07-02 | <sub>spotify:track:6PzV5vEnJSng3LmZ23Y7DB</sub> |
+| 274 | The girl, so confusing version with lorde | Charli xcx, Lorde | The girl, so confusing version with lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 275 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |

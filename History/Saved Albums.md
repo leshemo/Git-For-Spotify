@@ -201,3 +201,6 @@
 | 198 | SAWAYAMA | Rina Sawayama | 2024-06-21 | <sub>spotify:album:3stadz88XVpHcXnVYMHc4J</sub> |
 | 199 | Why Lawd? | NxWorries, Anderson .Paak, Knxwledge | 2024-06-23 | <sub>spotify:album:0LlzHi8Erl8zpTumqt88Qe</sub> |
 | 200 | Night Reign | Arooj Aftab | 2024-06-27 | <sub>spotify:album:2JdE3ilolUGhsNkW1oQfvf</sub> |
+| 201 | Love Heart Cheat Code | Hiatus Kaiyote | 2024-07-02 | <sub>spotify:album:4JdePMYeuoe34rqQ1D19K0</sub> |
+| 202 | Lives Outgrown | Beth Gibbons | 2024-07-02 | <sub>spotify:album:0YC5MWwUmsTpJrRumtBdZA</sub> |
+| 203 | Hotel La Rut (破爛酒店) | Joanna Wang | 2024-07-02 | <sub>spotify:album:4KwldT3zrx1PGvblleu7wp</sub> |

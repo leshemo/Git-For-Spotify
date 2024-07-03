@@ -679,3 +679,4 @@
 | 676 | Sordid | Amon Tobin | Permutation | 2024-06-13 | <sub>spotify:track:10n0QaLvHieZ7OfFFiC4OQ</sub> |
 | 677 | Video (feat. Ravyn Lenae) | KAYTRANADA, Ravyn Lenae | TIMELESS | 2024-06-23 | <sub>spotify:track:7CPz32jHbtNIZev8vpa9yb</sub> |
 | 678 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-23 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
+| 679 | GOT IT GOOD | KAYTRANADA, Craig David | 99.9% | 2024-07-02 | <sub>spotify:track:7pttGrC2YJYQ997ZryXGCG</sub> |
