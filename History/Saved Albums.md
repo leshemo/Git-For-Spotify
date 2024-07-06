@@ -204,3 +204,4 @@
 | 201 | Love Heart Cheat Code | Hiatus Kaiyote | 2024-07-02 | <sub>spotify:album:4JdePMYeuoe34rqQ1D19K0</sub> |
 | 202 | Lives Outgrown | Beth Gibbons | 2024-07-02 | <sub>spotify:album:0YC5MWwUmsTpJrRumtBdZA</sub> |
 | 203 | Hotel La Rut (破爛酒店) | Joanna Wang | 2024-07-02 | <sub>spotify:album:4KwldT3zrx1PGvblleu7wp</sub> |
+| 204 | The Rise and Fall of a Midwest Princess | Chappell Roan | 2024-07-05 | <sub>spotify:album:0EiI8ylL0FmWWpgHVTsZjZ</sub> |
