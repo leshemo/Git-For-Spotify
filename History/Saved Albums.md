@@ -205,3 +205,5 @@
 | 202 | Hotel La Rut (破爛酒店) | Joanna Wang | 2024-07-02 | <sub>spotify:album:4KwldT3zrx1PGvblleu7wp</sub> |
 | 203 | The Rise and Fall of a Midwest Princess | Chappell Roan | 2024-07-05 | <sub>spotify:album:0EiI8ylL0FmWWpgHVTsZjZ</sub> |
 | 204 | Samurai | Lupe Fiasco | 2024-07-06 | <sub>spotify:album:1O6d4cNuUV78GeXv7hgr4e</sub> |
+| 205 | Garbage (20th Anniversary Deluxe Edition/Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:1Vze7jtjAVQOdIIQ8oO2X7</sub> |
+| 206 | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:3poVlFX7lPm5Q7XKsOGEwk</sub> |
