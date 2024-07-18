@@ -208,3 +208,4 @@
 | 205 | Garbage (20th Anniversary Deluxe Edition/Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:1Vze7jtjAVQOdIIQ8oO2X7</sub> |
 | 206 | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:3poVlFX7lPm5Q7XKsOGEwk</sub> |
 | 207 | Ants From Up There | Black Country, New Road | 2024-07-16 | <sub>spotify:album:21xp7NdU1ajmO1CX0w2Egd</sub> |
+| 208 | Maxinquaye (Deluxe Edition) | Tricky | 2024-07-17 | <sub>spotify:album:4pWLQ312KAN43yhm3omkZo</sub> |
