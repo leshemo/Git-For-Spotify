@@ -209,3 +209,6 @@
 | 206 | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:3poVlFX7lPm5Q7XKsOGEwk</sub> |
 | 207 | Ants From Up There | Black Country, New Road | 2024-07-16 | <sub>spotify:album:21xp7NdU1ajmO1CX0w2Egd</sub> |
 | 208 | Maxinquaye (Deluxe Edition) | Tricky | 2024-07-17 | <sub>spotify:album:4pWLQ312KAN43yhm3omkZo</sub> |
+| 209 | Bando Stone and The New World | Childish Gambino | 2024-07-19 | <sub>spotify:album:4yUqNSK6jMi7Y6eWl03U5r</sub> |
+| 210 | King Of The Mischievous South Vol. 2 | Denzel Curry | 2024-07-19 | <sub>spotify:album:6LoDd1G8en4TcqdSg7yqrV</sub> |
+| 211 | Big Ideas | Remi Wolf | 2024-07-19 | <sub>spotify:album:7HQOEMCDGKY8eJyQPdsnYH</sub> |
