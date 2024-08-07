@@ -213,3 +213,4 @@
 | 210 | Big Ideas | Remi Wolf | 2024-07-19 | <sub>spotify:album:7HQOEMCDGKY8eJyQPdsnYH</sub> |
 | 211 | Charm | Clairo | 2024-07-24 | <sub>spotify:album:1KNUCVXgIxKUGiuEB8eG0i</sub> |
 | 212 | Visions of Bodies Being Burned | clipping. | 2024-07-31 | <sub>spotify:album:0b1q9se93BEqBl3kiltn33</sub> |
+| 213 | I LAY DOWN MY LIFE FOR YOU | JPEGMAFIA | 2024-08-06 | <sub>spotify:album:1ezs1QD5SYQ6LtxpC9y5I2</sub> |
