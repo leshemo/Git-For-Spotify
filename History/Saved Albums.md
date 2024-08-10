@@ -215,3 +215,4 @@
 | 212 | Visions of Bodies Being Burned | clipping. | 2024-07-31 | <sub>spotify:album:0b1q9se93BEqBl3kiltn33</sub> |
 | 213 | I LAY DOWN MY LIFE FOR YOU | JPEGMAFIA | 2024-08-06 | <sub>spotify:album:1ezs1QD5SYQ6LtxpC9y5I2</sub> |
 | 214 | SMILE! :D | Porter Robinson | 2024-08-08 | <sub>spotify:album:2iS4pBIiQf4sCTJLZ5n8dy</sub> |
+| 215 | TRON: Legacy | Daft Punk | 2024-08-10 | <sub>spotify:album:4US3nmuLIKELhVZdBPiKxx</sub> |
