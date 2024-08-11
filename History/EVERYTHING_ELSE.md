@@ -274,7 +274,7 @@
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
 | 273 | Cinnamon Temple | Hiatus Kaiyote | Love Heart Cheat Code | 2024-07-02 | <sub>spotify:track:6PzV5vEnJSng3LmZ23Y7DB</sub> |
-| 274 | The girl, so confusing version with lorde | Charli xcx, Lorde | The girl, so confusing version with lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 274 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
 | 275 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
 | 276 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
 | 277 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
