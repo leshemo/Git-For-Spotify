@@ -33,7 +33,7 @@
 | 30 | Blank Face LP | ScHoolboy Q | 2022-10-14 | <sub>spotify:album:0YbpATCIng8Fz2JrfHmEf7</sub> |
 | 31 | Luv 4 Rent | Smino | 2022-11-30 | <sub>spotify:album:6dtDTbVBQ9QwsNaqEnjsOT</sub> |
 | 32 | 10 | Westside Gunn | 2022-11-30 | <sub>spotify:album:138M0lORis5tDxurpIbd7V</sub> |
-| 33 | $oul $old $eparately (Bonus Edition) | Freddie Gibbs | 2022-11-30 | <sub>spotify:album:6sX8jSeSVOZrcoC8NecJOe</sub> |
+| 33 | $oul $old $eparately - Bonus Edition | Freddie Gibbs | 2022-11-30 | <sub>spotify:album:6sX8jSeSVOZrcoC8NecJOe</sub> |
 | 34 | Piñata | Freddie Gibbs, Madlib | 2023-02-05 | <sub>spotify:album:43uErencdmuTRFZPG3zXL1</sub> |
 | 35 | The Low End Theory | A Tribe Called Quest | 2023-02-05 | <sub>spotify:album:1p12OAWwudgMqfMzjMvl2a</sub> |
 | 36 | We got it from Here... Thank You 4 Your service | A Tribe Called Quest | 2023-02-05 | <sub>spotify:album:3WvQpufOsPzkZvcSuynCf3</sub> |
