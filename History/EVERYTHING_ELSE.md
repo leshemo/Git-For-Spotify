@@ -287,3 +287,4 @@
 | 284 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
 | 285 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
 | 286 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
+| 287 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
