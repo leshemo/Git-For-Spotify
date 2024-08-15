@@ -717,3 +717,4 @@
 | 714 | Satellite Business 2.0 | Sampha, Little Simz | Satellite Business 2.0 | 2024-07-23 | <sub>spotify:track:5y6vRQJrzPveBmvysTE4UQ</sub> |
 | 715 | Charge It | ENNY | We Go Again | 2024-07-25 | <sub>spotify:track:2YIIDMcF9zWJ2xcFSA99lH</sub> |
 | 716 | Everybody Mad | O.T. Genasis | Everybody Mad | 2024-08-06 | <sub>spotify:track:5R443dM3IGHeWtVuro7DQA</sub> |
+| 717 | JPEGULTRA! (feat. Denzel Curry) | JPEGMAFIA, Denzel Curry | I LAY DOWN MY LIFE FOR YOU | 2024-08-15 | <sub>spotify:track:0NMC6aezcf1GItgscoiQCO</sub> |
