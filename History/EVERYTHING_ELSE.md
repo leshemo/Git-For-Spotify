@@ -288,3 +288,6 @@
 | 285 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
 | 286 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
 | 287 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
+| 288 | CANDY | ROSALÍA | MOTOMAMI + | 2024-08-15 | <sub>spotify:track:4AIA8hN351mjpB5lXfUsJH</sub> |
+| 289 | DELIRIO DE GRANDEZA | ROSALÍA | MOTOMAMI + | 2024-08-16 | <sub>spotify:track:6YbC5s56zWKObDIRZnAIbY</sub> |
+| 290 | A Palé | ROSALÍA | A Palé | 2024-08-16 | <sub>spotify:track:23zJcKwLf5CeaKVbFhrWgF</sub> |
