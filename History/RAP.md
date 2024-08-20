@@ -718,3 +718,4 @@
 | 715 | Charge It | ENNY | We Go Again | 2024-07-25 | <sub>spotify:track:2YIIDMcF9zWJ2xcFSA99lH</sub> |
 | 716 | Everybody Mad | O.T. Genasis | Everybody Mad | 2024-08-06 | <sub>spotify:track:5R443dM3IGHeWtVuro7DQA</sub> |
 | 717 | JPEGULTRA! (feat. Denzel Curry) | JPEGMAFIA, Denzel Curry | I LAY DOWN MY LIFE FOR YOU | 2024-08-15 | <sub>spotify:track:0NMC6aezcf1GItgscoiQCO</sub> |
+| 718 | Skopje (feat. E L U C I D) | ØKSE, Savannah Harris, Mette Rasmussen, Val Jeanty, Petter Eldh | ØKSE | 2024-08-20 | <sub>spotify:track:5XWvYalCs7NDNN7jzIQtzH</sub> |
