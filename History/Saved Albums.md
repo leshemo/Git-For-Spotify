@@ -218,3 +218,5 @@
 | 215 | TRON: Legacy | Daft Punk | 2024-08-10 | <sub>spotify:album:4US3nmuLIKELhVZdBPiKxx</sub> |
 | 216 | MOTOMAMI + | ROSALÍA | 2024-08-14 | <sub>spotify:album:3zbiiu3JTibw0esC7eoMXr</sub> |
 | 217 | HYPNOS | Ravyn Lenae | 2024-08-15 | <sub>spotify:album:5Y4hUd0FPvCed5lu7loMXZ</sub> |
+| 218 | channel ORANGE | Frank Ocean | 2024-08-29 | <sub>spotify:album:392p3shh2jkxUxY2VHvlH8</sub> |
+| 219 | Blonde | Frank Ocean | 2024-08-29 | <sub>spotify:album:3mH6qwIy9crq0I9YQbOuDf</sub> |
