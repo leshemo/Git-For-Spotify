@@ -720,3 +720,4 @@
 | 717 | JPEGULTRA! (feat. Denzel Curry) | JPEGMAFIA, Denzel Curry | I LAY DOWN MY LIFE FOR YOU | 2024-08-15 | <sub>spotify:track:0NMC6aezcf1GItgscoiQCO</sub> |
 | 718 | Skopje (feat. E L U C I D) | ØKSE, Savannah Harris, Mette Rasmussen, Val Jeanty, Petter Eldh | ØKSE | 2024-08-20 | <sub>spotify:track:5XWvYalCs7NDNN7jzIQtzH</sub> |
 | 719 | Sundress | A$AP Rocky | Sundress | 2024-08-29 | <sub>spotify:track:2aPTvyE09vUCRwVvj0I8WK</sub> |
+| 720 | either on or off the drugs | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU | 2024-08-30 | <sub>spotify:track:3EWaU5exMayFzQMkIfTX7w</sub> |
