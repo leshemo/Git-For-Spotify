@@ -220,3 +220,4 @@
 | 217 | HYPNOS | Ravyn Lenae | 2024-08-15 | <sub>spotify:album:5Y4hUd0FPvCed5lu7loMXZ</sub> |
 | 218 | channel ORANGE | Frank Ocean | 2024-08-29 | <sub>spotify:album:392p3shh2jkxUxY2VHvlH8</sub> |
 | 219 | Blonde | Frank Ocean | 2024-08-29 | <sub>spotify:album:3mH6qwIy9crq0I9YQbOuDf</sub> |
+| 220 | Imaginal Disk | Magdalena Bay | 2024-08-31 | <sub>spotify:album:4HTy9WFTYooRjE9giTmzAF</sub> |
