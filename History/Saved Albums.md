@@ -3,7 +3,7 @@
  |:--|:--|:--|:--|:--|
 | 1 | Mos Def & Talib Kweli Are Black Star | Black Star | 2019-03-15 | <sub>spotify:album:6GRzmk9UGL7odxprOPop1Q</sub> |
 | 2 | Ignorance is Bliss | Skepta | 2019-06-03 | <sub>spotify:album:22zpCX6Nb9ppOVklalvGec</sub> |
-| 3 | Luv Is Rage 2 (Deluxe) | Lil Uzi Vert | 2019-12-29 | <sub>spotify:album:0zicd2mBV8HTzSubByj4vP</sub> |
+| 3 | Luv Is Rage 2 - Deluxe | Lil Uzi Vert | 2019-12-29 | <sub>spotify:album:0zicd2mBV8HTzSubByj4vP</sub> |
 | 4 | Phrenology | The Roots | 2020-01-10 | <sub>spotify:album:4rKiBz8pX9zmKuEk4NArfm</sub> |
 | 5 | Sibelius: Violin Concerto - Sinding: Suite | Itzhak Perlman | 2020-08-22 | <sub>spotify:album:3EXbF8CYWEpPvpQYb9TjkS</sub> |
 | 6 | Mura Masa | Mura Masa | 2020-12-06 | <sub>spotify:album:0NBTBo1qrg554sAj79nEqD</sub> |

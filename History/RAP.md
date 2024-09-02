@@ -4,11 +4,11 @@
 | 1 | ELEMENT. | Kendrick Lamar | DAMN. | 2019-01-21 | <sub>spotify:track:1EaKU4dMbesXXd3BrLCtYG</sub> |
 | 2 | DNA. | Kendrick Lamar | DAMN. COLLECTORS EDITION. | 2019-01-21 | <sub>spotify:track:4odAJ4IxmYzy3co4TeYP24</sub> |
 | 3 | Wow Freestyle (feat. Kendrick Lamar) | Jay Rock, Kendrick Lamar | Redemption | 2022-10-10 | <sub>spotify:track:0gV5B7zmJkS1aaH9APokrH</sub> |
-| 4 | Sauce It Up | Lil Uzi Vert | Luv Is Rage 2 (Deluxe) | 2019-01-21 | <sub>spotify:track:5evSAk9q0l3TfF5dYDwDBO</sub> |
-| 5 | The Way Life Goes (feat. Oh Wonder) | Lil Uzi Vert, Oh Wonder | Luv Is Rage 2 (Deluxe) | 2019-01-21 | <sub>spotify:track:2YQLTpUSFCQo9FEe29YPYs</sub> |
+| 4 | Sauce It Up | Lil Uzi Vert | Luv Is Rage 2 - Deluxe | 2019-01-21 | <sub>spotify:track:5evSAk9q0l3TfF5dYDwDBO</sub> |
+| 5 | The Way Life Goes (feat. Oh Wonder) | Lil Uzi Vert, Oh Wonder | Luv Is Rage 2 - Deluxe | 2019-01-21 | <sub>spotify:track:2YQLTpUSFCQo9FEe29YPYs</sub> |
 | 6 | The Games We Play | Pusha T | DAYTONA | 2022-10-10 | <sub>spotify:track:7iEoaTyBCqLaAwJnOP1BTn</sub> |
 | 7 | This Life | Denzel Curry | Imperial | 2022-12-11 | <sub>spotify:track:2aQwdBWk4vSPWk1Csgtzdo</sub> |
-| 8 | 20 Min | Lil Uzi Vert | Luv Is Rage 2 (Deluxe) | 2019-01-21 | <sub>spotify:track:0uxSUdBrJy9Un0EYoBowng</sub> |
+| 8 | 20 Min | Lil Uzi Vert | Luv Is Rage 2 - Deluxe | 2019-01-21 | <sub>spotify:track:0uxSUdBrJy9Un0EYoBowng</sub> |
 | 9 | ATM | J. Cole | KOD | 2019-01-21 | <sub>spotify:track:2UciqgwVDwro0fev3MFbxJ</sub> |
 | 10 | C.R.E.A.M. (Cash Rules Everything Around Me) | Wu-Tang Clan | Enter The Wu-Tang (36 Chambers) [Expanded Edition] | 2019-01-21 | <sub>spotify:track:119c93MHjrDLJTApCVGpvx</sub> |
 | 11 | Potholderz feat. Count Bass D | MF DOOM | MM...FOOD | 2022-12-11 | <sub>spotify:track:1VZUXXUGqIxePaMUXkabRn</sub> |
@@ -135,8 +135,8 @@
 | 132 | Palmolive (feat. Pusha T & Killer Mike) | Freddie Gibbs, Madlib, Pusha T, Killer Mike | Bandana | 2019-12-27 | <sub>spotify:track:0w9aWiDqZPCOCOtRTLkTPd</sub> |
 | 133 | Flat Tummy Tea | Freddie Gibbs, Madlib | Bandana | 2019-12-27 | <sub>spotify:track:64dJmklBrioZ825A838QtG</sub> |
 | 134 | Cataracts | Freddie Gibbs, Madlib | Bandana | 2019-12-27 | <sub>spotify:track:4SN5Kkig8iJ8vdwsOoP7IO</sub> |
-| 135 | Dark Queen | Lil Uzi Vert | Luv Is Rage 2 (Deluxe) | 2019-12-29 | <sub>spotify:track:0cGPqSBtm0UJLo1HCziww9</sub> |
-| 136 | No Sleep Leak | Lil Uzi Vert | Luv Is Rage 2 (Deluxe) | 2019-12-29 | <sub>spotify:track:7284Lm1fMEABEFBrtMgUWR</sub> |
+| 135 | Dark Queen | Lil Uzi Vert | Luv Is Rage 2 - Deluxe | 2019-12-29 | <sub>spotify:track:0cGPqSBtm0UJLo1HCziww9</sub> |
+| 136 | No Sleep Leak | Lil Uzi Vert | Luv Is Rage 2 - Deluxe | 2019-12-29 | <sub>spotify:track:7284Lm1fMEABEFBrtMgUWR</sub> |
 | 137 | Paper Plate | GZA | Pro Tools | 2019-12-30 | <sub>spotify:track:6UVXqASYJANQqT6AR1mmRk</sub> |
 | 138 | THat Part - Black Hippy Remix | ScHoolboy Q | THat Part (Black Hippy Remix) | 2019-12-30 | <sub>spotify:track:5sqHFfmw7MMc1L85BN8802</sub> |
 | 139 | Dark Knight Dummo (Feat. Travis Scott) | Trippie Redd, Travis Scott | Dark Knight Dummo (Feat. Travis Scott) | 2020-01-01 | <sub>spotify:track:3YeJXuRSNS5FYwOsDu44kD</sub> |
@@ -202,7 +202,7 @@
 | 199 | Look At Me | Freddie Gibbs, The Alchemist | Alfredo | 2020-08-19 | <sub>spotify:track:6kK3m2FiYERYrUF269y0Es</sub> |
 | 200 | Baptize (with JID & EARTHGANG feat. Ant Clemons) | Spillage Village, JID, EARTHGANG, Ant Clemons | Baptize (with JID & EARTHGANG feat. Ant Clemons) | 2020-09-10 | <sub>spotify:track:13ureYALF9sCGjSYiojXCB</sub> |
 | 201 | Confetti | Big K.R.I.T. | 4eva Is A Mighty Long Time | 2020-09-16 | <sub>spotify:track:3dTpCTapp53S88tyMOVosR</sub> |
-| 202 | UnFazed (feat. The Weeknd) | Lil Uzi Vert, The Weeknd | Luv Is Rage 2 (Deluxe) | 2020-09-28 | <sub>spotify:track:0RyWaVjR8Mi4Qx9J3IiiqF</sub> |
+| 202 | UnFazed (feat. The Weeknd) | Lil Uzi Vert, The Weeknd | Luv Is Rage 2 - Deluxe | 2020-09-28 | <sub>spotify:track:0RyWaVjR8Mi4Qx9J3IiiqF</sub> |
 | 203 | BALD! | JPEGMAFIA | BALD! | 2020-11-28 | <sub>spotify:track:5QAUGlyYPPnis3e8ln0qiz</sub> |
 | 204 | Fallin' Apart | Young Franco, Denzel Curry, Pell | Fallin' Apart | 2020-12-02 | <sub>spotify:track:2qKmnm0cEXnvD82C6Sr2hs</sub> |
 | 205 | Crabs In A Bucket | Vince Staples | Big Fish Theory | 2020-12-02 | <sub>spotify:track:0RxSL5kjZXO45l38vVerNO</sub> |

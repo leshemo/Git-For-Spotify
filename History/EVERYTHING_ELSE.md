@@ -296,3 +296,5 @@
 | 293 | The Ballad of Matt & Mica | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4j9WdbfKvyx7fBQb4qygYr</sub> |
 | 294 | Image | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:0QW0KPBXXv67haGjbtkRRB</sub> |
 | 295 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
+| 296 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
+| 297 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
