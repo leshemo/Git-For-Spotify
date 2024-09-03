@@ -682,3 +682,5 @@
 | 679 | Dreamfear | Burial | Dreamfear | 2024-07-04 | <sub>spotify:track:6b1P9v5jjXg5iMAj1vbAtf</sub> |
 | 680 | The Gulag Orkestar | Beirut | Gulag Orkestar | 2024-07-30 | <sub>spotify:track:3Yhe8W8q5P7pj1xFmboSsl</sub> |
 | 681 | Garmonbozia | Flying Lotus | Garmonbozia | 2024-08-20 | <sub>spotify:track:3lFLhPUOlNnUuI2EH953BI</sub> |
+| 682 | Slowly | Amon Tobin | Supermodified | 2024-09-02 | <sub>spotify:track:15J6PrzKaLtvw0dBr9sq72</sub> |
+| 683 | Economy of Freedom | Yves Tumor, Croatian Amor | Safe In The Hands of Love | 2024-09-02 | <sub>spotify:track:24MJOK9nCgo9unJjO6357d</sub> |
