@@ -298,3 +298,4 @@
 | 295 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
 | 296 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
 | 297 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
+| 298 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
