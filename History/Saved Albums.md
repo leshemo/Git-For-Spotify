@@ -221,3 +221,10 @@
 | 218 | channel ORANGE | Frank Ocean | 2024-08-29 | <sub>spotify:album:392p3shh2jkxUxY2VHvlH8</sub> |
 | 219 | Blonde | Frank Ocean | 2024-08-29 | <sub>spotify:album:3mH6qwIy9crq0I9YQbOuDf</sub> |
 | 220 | Imaginal Disk | Magdalena Bay | 2024-08-31 | <sub>spotify:album:4HTy9WFTYooRjE9giTmzAF</sub> |
+| 221 | I Killed Your Dog | L'Rain | 2024-09-06 | <sub>spotify:album:2O01P3dwp47dyImCnTdfyo</sub> |
+| 222 | Megatop Phoenix | Big Audio Dynamite | 2024-09-06 | <sub>spotify:album:6HOwAhnOfB6poVR9cjVNd4</sub> |
+| 223 | Dazzle Ships | Orchestral Manoeuvres In The Dark | 2024-09-06 | <sub>spotify:album:5R6cI45u4IHLISq334Mr74</sub> |
+| 224 | Heaven or Las Vegas | Cocteau Twins | 2024-09-06 | <sub>spotify:album:5lEphbceIgaK1XxWeSrC9E</sub> |
+| 225 | Blondshell | Blondshell | 2024-09-06 | <sub>spotify:album:7rG4h8pLLcr6kW30cbSWD8</sub> |
+| 226 | Black Sands | Bonobo | 2024-09-06 | <sub>spotify:album:5m1RkwKeU7MV0Ni6PH2lPy</sub> |
+| 227 | Ege Bamyasi (Remastered Version) | CAN | 2024-09-06 | <sub>spotify:album:3Qa2CdymyGvXkqoqIZykmT</sub> |
