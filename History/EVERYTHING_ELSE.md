@@ -299,3 +299,4 @@
 | 296 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
 | 297 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
 | 298 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
+| 299 | Pyramids | Frank Ocean | channel ORANGE | 2024-09-08 | <sub>spotify:track:4QhWbupniDd44EDtnh2bFJ</sub> |
