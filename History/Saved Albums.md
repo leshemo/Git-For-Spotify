@@ -228,3 +228,9 @@
 | 225 | Blondshell | Blondshell | 2024-09-06 | <sub>spotify:album:7rG4h8pLLcr6kW30cbSWD8</sub> |
 | 226 | Black Sands | Bonobo | 2024-09-06 | <sub>spotify:album:5m1RkwKeU7MV0Ni6PH2lPy</sub> |
 | 227 | Ege Bamyasi (Remastered Version) | CAN | 2024-09-06 | <sub>spotify:album:3Qa2CdymyGvXkqoqIZykmT</sub> |
+| 228 | Flowers At Your Feet | Rahill | 2024-09-10 | <sub>spotify:album:2SAtIfz2jFRAn36xCUT8xd</sub> |
+| 229 | Tago Mago (40th Anniversary Edition) | CAN | 2024-09-10 | <sub>spotify:album:0bO4qU98i4vCpGqTElUZDQ</sub> |
+| 230 | Dial 'M' for Monkey | Bonobo | 2024-09-10 | <sub>spotify:album:6TaDSeHRXqw06H2PlYsD5K</sub> |
+| 231 | Treasure | Cocteau Twins | 2024-09-10 | <sub>spotify:album:7pBPB9vwqCMLKNmUCK4k62</sub> |
+| 232 | Architecture And Morality | Orchestral Manoeuvres In The Dark | 2024-09-10 | <sub>spotify:album:6bR98XzGnklTORDvZ7Oc2i</sub> |
+| 233 | This Is Big Audio Dynamite | Big Audio Dynamite | 2024-09-10 | <sub>spotify:album:7hPrpRim9NirEQiF4nXi7B</sub> |
