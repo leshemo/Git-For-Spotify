@@ -204,8 +204,8 @@
 | 201 | Lives Outgrown | Beth Gibbons | 2024-07-02 | <sub>spotify:album:0YC5MWwUmsTpJrRumtBdZA</sub> |
 | 202 | Hotel La Rut (破爛酒店) | Joanna Wang | 2024-07-02 | <sub>spotify:album:4KwldT3zrx1PGvblleu7wp</sub> |
 | 203 | Samurai | Lupe Fiasco | 2024-07-06 | <sub>spotify:album:1O6d4cNuUV78GeXv7hgr4e</sub> |
-| 204 | Garbage (20th Anniversary Deluxe Edition/Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:1Vze7jtjAVQOdIIQ8oO2X7</sub> |
-| 205 | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | Garbage | 2024-07-08 | <sub>spotify:album:3poVlFX7lPm5Q7XKsOGEwk</sub> |
+| 204 | Garbage - 20th Anniversary Deluxe Edition/Remastered | Garbage | 2024-07-08 | <sub>spotify:album:1Vze7jtjAVQOdIIQ8oO2X7</sub> |
+| 205 | Version 2.0 - 20th Anniversary Deluxe Edition / Remastered | Garbage | 2024-07-08 | <sub>spotify:album:3poVlFX7lPm5Q7XKsOGEwk</sub> |
 | 206 | Ants From Up There | Black Country, New Road | 2024-07-16 | <sub>spotify:album:21xp7NdU1ajmO1CX0w2Egd</sub> |
 | 207 | Maxinquaye (Deluxe Edition) | Tricky | 2024-07-17 | <sub>spotify:album:4pWLQ312KAN43yhm3omkZo</sub> |
 | 208 | Bando Stone and The New World | Childish Gambino | 2024-07-19 | <sub>spotify:album:4yUqNSK6jMi7Y6eWl03U5r</sub> |

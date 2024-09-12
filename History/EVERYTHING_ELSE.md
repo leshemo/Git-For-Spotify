@@ -281,9 +281,9 @@
 | 278 | Dissolved Girl | Massive Attack, Sarah Jay Hawley | Mezzanine | 2024-07-18 | <sub>spotify:track:0oeEqyEAavgPfFxDYvjAP6</sub> |
 | 279 | Man Next Door | Massive Attack, Horace Andy | Mezzanine | 2024-07-18 | <sub>spotify:track:2Tz5THgkMOQeaW6DlqAlIa</sub> |
 | 280 | Out Of Options | Nia Archives | Silence Is Loud | 2024-07-23 | <sub>spotify:track:1ygHZpILmwL7EaByT1SVAO</sub> |
-| 281 | Dog New Tricks | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
-| 282 | Only Happy When It Rains | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
-| 283 | Supervixen | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
+| 281 | Dog New Tricks | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
+| 282 | Only Happy When It Rains | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
+| 283 | Supervixen | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
 | 284 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
 | 285 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
 | 286 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
