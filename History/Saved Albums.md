@@ -235,3 +235,6 @@
 | 232 | Architecture And Morality | Orchestral Manoeuvres In The Dark | 2024-09-10 | <sub>spotify:album:6bR98XzGnklTORDvZ7Oc2i</sub> |
 | 233 | This Is Big Audio Dynamite | Big Audio Dynamite | 2024-09-10 | <sub>spotify:album:7hPrpRim9NirEQiF4nXi7B</sub> |
 | 234 | Desire, I Want To Turn Into You | Caroline Polachek | 2024-09-12 | <sub>spotify:album:22PkV1Le9P3X4RY4xtmK0q</sub> |
+| 235 | My Method Actor | Nilüfer Yanya | 2024-09-18 | <sub>spotify:album:4BBVZgRsWeNVgGmub6LY3p</sub> |
+| 236 | Cascade | Floating Points | 2024-09-19 | <sub>spotify:album:4IYnAmZ8GvmNFF2ZxxKT8L</sub> |
+| 237 | Promises | Floating Points, Pharoah Sanders | 2024-09-19 | <sub>spotify:album:3ShtO5VCYa3ctlR5uzLWBa</sub> |
