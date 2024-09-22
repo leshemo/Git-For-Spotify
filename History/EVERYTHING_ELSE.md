@@ -304,3 +304,4 @@
 | 301 | Revenge Of The Number | Portishead | Numb | 2024-09-13 | <sub>spotify:track:1ScZSUcqKAYPoBhL8KL5pU</sub> |
 | 302 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
 | 303 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
+| 304 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
