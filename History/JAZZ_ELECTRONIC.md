@@ -248,7 +248,7 @@
 | 245 | Izinque - Alessio Cala' Remix | Angelo Ferreri, Alessio Cala' | Izinque (Alessio Cala' Remix) | 2022-06-26 | <sub>spotify:track:3W5ctwudeucfDZE21emzqG</sub> |
 | 246 | Home | Joe Corti | China White 004 | 2022-06-26 | <sub>spotify:track:0wtjFNCNrdgGqTGYJqvFEk</sub> |
 | 247 | Bassment Dweller - Original Mix | Jesse Bru | Science Is Science | 2022-06-26 | <sub>spotify:track:27kxG6am8GnYowF9HQPuzX</sub> |
-| 248 | Soleil - Mattisou Remix | Stef Davidse, Mattisou | Soleil (Mattisou Remix) | 2022-06-26 | <sub>spotify:track:7kYgNoLfy4O6cL2M1B1tnJ</sub> |
+| 248 | Soleil | Mattisou | Soleil | 2022-06-26 | <sub>spotify:track:7kYgNoLfy4O6cL2M1B1tnJ</sub> |
 | 249 | All About You | Honeydripper | All About You EP | 2022-06-26 | <sub>spotify:track:0YYVkrgOjdLNQxrSJoO6Kn</sub> |
 | 250 | Here We Go | Gavinco | Here We Go | 2022-06-26 | <sub>spotify:track:09VEisWJIGbPayEdAnwI4A</sub> |
 | 251 | Saw You for the First Time | Laurence Guy | Saw You for the First Time | 2022-06-26 | <sub>spotify:track:3b9MUQ7uiQHhU420B6f8Ta</sub> |
