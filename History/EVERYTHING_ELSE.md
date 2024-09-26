@@ -81,7 +81,7 @@
 | 78 | (I Can't Get No) Satisfaction - Mono Version | The Rolling Stones | Out Of Our Heads | 2018-08-01 | <sub>spotify:track:2PzU4IB8Dr6mxV3lHuaG34</sub> |
 | 79 | Beast Of Burden - Remastered 1994 | The Rolling Stones | Some Girls | 2018-08-01 | <sub>spotify:track:77oU2rjC5XbjQfNe3bD6so</sub> |
 | 80 | Teardrop | Massive Attack, Elizabeth Fraser | Mezzanine | 2018-09-30 | <sub>spotify:track:67Hna13dNDkZvBpTXRIaOJ</sub> |
-| 81 | Paradise Circus | Massive Attack | Heligoland | 2018-09-30 | <sub>spotify:track:2BndJYJQ17UcEeUFJP5JmY</sub> |
+| 81 | Paradise Circus | Massive Attack, Hope Sandoval | Heligoland | 2018-09-30 | <sub>spotify:track:2BndJYJQ17UcEeUFJP5JmY</sub> |
 | 82 | Glory Box | Portishead | Dummy | 2018-09-30 | <sub>spotify:track:3Ty7OTBNSigGEpeW2PqcsC</sub> |
 | 83 | Crazy | Gnarls Barkley | St. Elsewhere | 2019-02-18 | <sub>spotify:track:2N5zMZX7YeL1tico8oQxa9</sub> |
 | 84 | The Evil Has Landed | Queens of the Stone Age | Villains | 2019-02-19 | <sub>spotify:track:763LDHO3wYOI7GzXS7uBwU</sub> |
