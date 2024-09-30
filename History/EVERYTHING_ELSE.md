@@ -273,35 +273,34 @@
 | 270 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
-| 273 | Cinnamon Temple | Hiatus Kaiyote | Love Heart Cheat Code | 2024-07-02 | <sub>spotify:track:6PzV5vEnJSng3LmZ23Y7DB</sub> |
-| 274 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
-| 275 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
-| 276 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
-| 277 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
-| 278 | Dissolved Girl | Massive Attack, Sarah Jay Hawley | Mezzanine | 2024-07-18 | <sub>spotify:track:0oeEqyEAavgPfFxDYvjAP6</sub> |
-| 279 | Man Next Door | Massive Attack, Horace Andy | Mezzanine | 2024-07-18 | <sub>spotify:track:2Tz5THgkMOQeaW6DlqAlIa</sub> |
-| 280 | Out Of Options | Nia Archives | Silence Is Loud | 2024-07-23 | <sub>spotify:track:1ygHZpILmwL7EaByT1SVAO</sub> |
-| 281 | Dog New Tricks | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
-| 282 | Only Happy When It Rains | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
-| 283 | Supervixen | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
-| 284 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
-| 285 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
-| 286 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
-| 287 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
-| 288 | CANDY | ROSALÍA | MOTOMAMI + | 2024-08-15 | <sub>spotify:track:4AIA8hN351mjpB5lXfUsJH</sub> |
-| 289 | DELIRIO DE GRANDEZA | ROSALÍA | MOTOMAMI + | 2024-08-16 | <sub>spotify:track:6YbC5s56zWKObDIRZnAIbY</sub> |
-| 290 | A Palé | ROSALÍA | A Palé | 2024-08-16 | <sub>spotify:track:23zJcKwLf5CeaKVbFhrWgF</sub> |
-| 291 | Could Heaven Ever Be Like This | Idris Muhammad | Turn This Mutha Out | 2024-08-18 | <sub>spotify:track:1xkOg49ZxldiM1ioIudwUS</sub> |
-| 292 | Vampire in the Corner | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:6O6VDSgm7Cxrk7kIJhyIFo</sub> |
-| 293 | The Ballad of Matt & Mica | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4j9WdbfKvyx7fBQb4qygYr</sub> |
-| 294 | Image | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:0QW0KPBXXv67haGjbtkRRB</sub> |
-| 295 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
-| 296 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
-| 297 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
-| 298 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
-| 299 | Pyramids | Frank Ocean | channel ORANGE | 2024-09-08 | <sub>spotify:track:4QhWbupniDd44EDtnh2bFJ</sub> |
-| 300 | THE SNAKE | Lana Lubany | THE SNAKE | 2024-09-11 | <sub>spotify:track:4tRXJwAv2zZrcDcfjTUekQ</sub> |
-| 301 | Revenge Of The Number | Portishead | Numb | 2024-09-13 | <sub>spotify:track:1ScZSUcqKAYPoBhL8KL5pU</sub> |
-| 302 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
-| 303 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
-| 304 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
+| 273 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 274 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
+| 275 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
+| 276 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
+| 277 | Dissolved Girl | Massive Attack, Sarah Jay Hawley | Mezzanine | 2024-07-18 | <sub>spotify:track:0oeEqyEAavgPfFxDYvjAP6</sub> |
+| 278 | Man Next Door | Massive Attack, Horace Andy | Mezzanine | 2024-07-18 | <sub>spotify:track:2Tz5THgkMOQeaW6DlqAlIa</sub> |
+| 279 | Out Of Options | Nia Archives | Silence Is Loud | 2024-07-23 | <sub>spotify:track:1ygHZpILmwL7EaByT1SVAO</sub> |
+| 280 | Dog New Tricks | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
+| 281 | Only Happy When It Rains | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
+| 282 | Supervixen | Garbage | Garbage - 20th Anniversary Deluxe Edition/Remastered | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
+| 283 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
+| 284 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
+| 285 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
+| 286 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
+| 287 | CANDY | ROSALÍA | MOTOMAMI + | 2024-08-15 | <sub>spotify:track:4AIA8hN351mjpB5lXfUsJH</sub> |
+| 288 | DELIRIO DE GRANDEZA | ROSALÍA | MOTOMAMI + | 2024-08-16 | <sub>spotify:track:6YbC5s56zWKObDIRZnAIbY</sub> |
+| 289 | A Palé | ROSALÍA | A Palé | 2024-08-16 | <sub>spotify:track:23zJcKwLf5CeaKVbFhrWgF</sub> |
+| 290 | Could Heaven Ever Be Like This | Idris Muhammad | Turn This Mutha Out | 2024-08-18 | <sub>spotify:track:1xkOg49ZxldiM1ioIudwUS</sub> |
+| 291 | Vampire in the Corner | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:6O6VDSgm7Cxrk7kIJhyIFo</sub> |
+| 292 | The Ballad of Matt & Mica | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4j9WdbfKvyx7fBQb4qygYr</sub> |
+| 293 | Image | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:0QW0KPBXXv67haGjbtkRRB</sub> |
+| 294 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
+| 295 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
+| 296 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
+| 297 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
+| 298 | Pyramids | Frank Ocean | channel ORANGE | 2024-09-08 | <sub>spotify:track:4QhWbupniDd44EDtnh2bFJ</sub> |
+| 299 | THE SNAKE | Lana Lubany | THE SNAKE | 2024-09-11 | <sub>spotify:track:4tRXJwAv2zZrcDcfjTUekQ</sub> |
+| 300 | Revenge Of The Number | Portishead | Numb | 2024-09-13 | <sub>spotify:track:1ScZSUcqKAYPoBhL8KL5pU</sub> |
+| 301 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
+| 302 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
+| 303 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
