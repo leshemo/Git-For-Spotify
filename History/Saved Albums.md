@@ -240,3 +240,10 @@
 | 237 | Promises | Floating Points, Pharoah Sanders | 2024-09-19 | <sub>spotify:album:3ShtO5VCYa3ctlR5uzLWBa</sub> |
 | 238 | Ancestors Call | Huun-Huur-Tu | 2024-09-21 | <sub>spotify:album:6dl1bRIrWYiQkmG5WQDrmi</sub> |
 | 239 | Twilight | bôa | 2024-09-22 | <sub>spotify:album:7sGYAV0xv7ZfAMzIpMl8m1</sub> |
+| 240 | Negro Swan | Blood Orange | 2024-09-30 | <sub>spotify:album:7bvmGyFDwpHNRRRZJ0AHvn</sub> |
+| 241 | The Bends | Radiohead | 2024-10-01 | <sub>spotify:album:35UJLpClj5EDrhpNIi4DFg</sub> |
+| 242 | Kid A | Radiohead | 2024-10-01 | <sub>spotify:album:6GjwtEZcfenmOf6l18N7T7</sub> |
+| 243 | Amnesiac | Radiohead | 2024-10-01 | <sub>spotify:album:1HrMmB5useeZ0F5lHrMvl0</sub> |
+| 244 | Hail To the Thief | Radiohead | 2024-10-01 | <sub>spotify:album:5mzoI3VH0ZWk1pLFR6RoYy</sub> |
+| 245 | In Rainbows | Radiohead | 2024-10-01 | <sub>spotify:album:5vkqYmiPBYLaalcmjujWxK</sub> |
+| 246 | A Moon Shaped Pool | Radiohead | 2024-10-01 | <sub>spotify:album:2ix8vWvvSp2Yo7rKMiWpkg</sub> |
