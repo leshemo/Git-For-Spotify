@@ -304,3 +304,5 @@
 | 301 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
 | 302 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
 | 303 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
+| 304 | Rain | SWV | Release Some Tension | 2024-10-02 | <sub>spotify:track:4G1qRhOk1YY0kewtMaCrMC</sub> |
+| 305 | West Coast | Lana Del Rey | Ultraviolence (Deluxe) | 2024-10-02 | <sub>spotify:track:5Y6nVaayzitvsD5F7nr3DV</sub> |

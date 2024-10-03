@@ -685,3 +685,5 @@
 | 682 | Slowly | Amon Tobin | Supermodified | 2024-09-02 | <sub>spotify:track:15J6PrzKaLtvw0dBr9sq72</sub> |
 | 683 | Economy of Freedom | Yves Tumor, Croatian Amor | Safe In The Hands of Love | 2024-09-02 | <sub>spotify:track:24MJOK9nCgo9unJjO6357d</sub> |
 | 684 | 4:00A.M. | Taeko Onuki | MIGNONNE (Mastered by Bernie Grundman) | 2024-09-22 | <sub>spotify:track:0zoGVO4bQXG8U6ChKwNgeg</sub> |
+| 685 | Assumptions - Kaytranada Edit | Sam Gellaitry, KAYTRANADA | Assumptions (Kaytranada Edit) | 2024-10-02 | <sub>spotify:track:7lWdyj9RrMsEN6F0Dl0irE</sub> |
+| 686 | We’re Dumb | Salami Rose Joe Louis | Chapters of Zdenka | 2024-10-03 | <sub>spotify:track:6JxeeCjNMXrKquxSqviMzD</sub> |
