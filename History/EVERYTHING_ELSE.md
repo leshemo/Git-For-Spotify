@@ -306,3 +306,4 @@
 | 303 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
 | 304 | Rain | SWV | Release Some Tension | 2024-10-02 | <sub>spotify:track:4G1qRhOk1YY0kewtMaCrMC</sub> |
 | 305 | West Coast | Lana Del Rey | Ultraviolence (Deluxe) | 2024-10-02 | <sub>spotify:track:5Y6nVaayzitvsD5F7nr3DV</sub> |
+| 306 | Me and My Husband | Mitski | Be the Cowboy | 2024-10-03 | <sub>spotify:track:3pANfZVFdtuVnJsE6xa5Ox</sub> |
