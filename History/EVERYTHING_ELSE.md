@@ -307,5 +307,7 @@
 | 304 | Rain | SWV | Release Some Tension | 2024-10-02 | <sub>spotify:track:4G1qRhOk1YY0kewtMaCrMC</sub> |
 | 305 | West Coast | Lana Del Rey | Ultraviolence (Deluxe) | 2024-10-02 | <sub>spotify:track:5Y6nVaayzitvsD5F7nr3DV</sub> |
 | 306 | Me and My Husband | Mitski | Be the Cowboy | 2024-10-03 | <sub>spotify:track:3pANfZVFdtuVnJsE6xa5Ox</sub> |
-| 307 | Planet Telex | Radiohead | The Bends | 2024-10-07 | <sub>spotify:track:37JISltgxizbDAyNEEqkTY</sub> |
-| 308 | Twilight | bôa | Twilight | 2024-10-08 | <sub>spotify:track:6d67Xv8ms2noA8wWFLiPDN</sub> |
+| 307 | Mutations | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0CPNtInZtdxtWNOBN5Nkhu</sub> |
+| 308 | Planet Telex | Radiohead | The Bends | 2024-10-07 | <sub>spotify:track:37JISltgxizbDAyNEEqkTY</sub> |
+| 309 | Twilight | bôa | Twilight | 2024-10-08 | <sub>spotify:track:6d67Xv8ms2noA8wWFLiPDN</sub> |
+| 310 | Method Actor | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0sggL2BsarV5q8acXljmWI</sub> |
