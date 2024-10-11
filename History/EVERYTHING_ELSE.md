@@ -273,7 +273,7 @@
 | 270 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
 | 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
 | 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
-| 273 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 273 | Girl, so confusing featuring lorde | Charli xcx, Lorde, A. G. Cook | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
 | 274 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
 | 275 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
 | 276 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
@@ -311,3 +311,4 @@
 | 308 | Planet Telex | Radiohead | The Bends | 2024-10-07 | <sub>spotify:track:37JISltgxizbDAyNEEqkTY</sub> |
 | 309 | Twilight | bôa | Twilight | 2024-10-08 | <sub>spotify:track:6d67Xv8ms2noA8wWFLiPDN</sub> |
 | 310 | Method Actor | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0sggL2BsarV5q8acXljmWI</sub> |
+| 311 | Everything In Its Right Place | Radiohead | Kid A | 2024-10-11 | <sub>spotify:track:2kRFrWaLWiKq48YYVdGcm8</sub> |
