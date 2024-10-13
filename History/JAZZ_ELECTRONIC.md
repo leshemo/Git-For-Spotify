@@ -688,3 +688,4 @@
 | 685 | Assumptions - Kaytranada Edit | Sam Gellaitry, KAYTRANADA | Assumptions (Kaytranada Edit) | 2024-10-02 | <sub>spotify:track:7lWdyj9RrMsEN6F0Dl0irE</sub> |
 | 686 | We’re Dumb | Salami Rose Joe Louis | Chapters of Zdenka | 2024-10-03 | <sub>spotify:track:6JxeeCjNMXrKquxSqviMzD</sub> |
 | 687 | Phoneglow | Burial | Phoneglow / Eyes Go Blank | 2024-10-10 | <sub>spotify:track:5EZcvtoZohyR3RdxgW85j9</sub> |
+| 688 | Instant Crush (feat. Julian Casablancas) | Daft Punk, Julian Casablancas | Random Access Memories | 2024-10-13 | <sub>spotify:track:2cGxRwrMyEAp8dEbuZaVv6</sub> |
