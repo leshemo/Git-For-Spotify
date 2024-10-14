@@ -246,3 +246,7 @@
 | 243 | Hail To the Thief | Radiohead | 2024-10-01 | <sub>spotify:album:5mzoI3VH0ZWk1pLFR6RoYy</sub> |
 | 244 | In Rainbows | Radiohead | 2024-10-01 | <sub>spotify:album:5vkqYmiPBYLaalcmjujWxK</sub> |
 | 245 | A Moon Shaped Pool | Radiohead | 2024-10-01 | <sub>spotify:album:2ix8vWvvSp2Yo7rKMiWpkg</sub> |
+| 246 | Tidal | Fiona Apple | 2024-10-14 | <sub>spotify:album:5gVBXH8MT6zfdRkjp7qT18</sub> |
+| 247 | When The Pawn... | Fiona Apple | 2024-10-14 | <sub>spotify:album:3o5EnVZNJXtfPV8tCoagjI</sub> |
+| 248 | The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition) | Fiona Apple | 2024-10-14 | <sub>spotify:album:6B5favhKTShFTjRLsKIUfa</sub> |
+| 249 | Fetch The Bolt Cutters | Fiona Apple | 2024-10-14 | <sub>spotify:album:0fO1KemWL2uCCQmM22iKlj</sub> |
