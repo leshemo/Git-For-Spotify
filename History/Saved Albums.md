@@ -250,3 +250,5 @@
 | 247 | When The Pawn... | Fiona Apple | 2024-10-14 | <sub>spotify:album:3o5EnVZNJXtfPV8tCoagjI</sub> |
 | 248 | The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition) | Fiona Apple | 2024-10-14 | <sub>spotify:album:6B5favhKTShFTjRLsKIUfa</sub> |
 | 249 | Fetch The Bolt Cutters | Fiona Apple | 2024-10-14 | <sub>spotify:album:0fO1KemWL2uCCQmM22iKlj</sub> |
+| 250 | Blue Lines (2012 Mix/Master) | Massive Attack | 2024-10-15 | <sub>spotify:album:5mAPk4qeNqVLtNydaWbWlf</sub> |
+| 251 | Woman | Justice | 2024-10-16 | <sub>spotify:album:23EaoI8dXfDGfxF54sd1DP</sub> |
