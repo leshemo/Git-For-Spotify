@@ -375,7 +375,7 @@
 | 372 | PAPERCUTS | Vince Staples | RAMONA PARK BROKE MY HEART | 2022-04-09 | <sub>spotify:track:1yfymqHHUZeDisKm7L2X2d</sub> |
 | 373 | THE BLUES | Vince Staples | RAMONA PARK BROKE MY HEART | 2022-04-09 | <sub>spotify:track:5KQa1dgDpub3IGfOVG1Xcg</sub> |
 | 374 | Head High | Joey Bada$$ | Head High | 2022-04-16 | <sub>spotify:track:1TUNcLZZImGkNlviSpQp6H</sub> |
-| 375 | Goosebumps - Remix | Travis Scott, HVME | Goosebumps - Remix | 2022-04-18 | <sub>spotify:track:5uEYRdEIh9Bo4fpjDd4Na9</sub> |
+| 375 | Goosebumps - Remix | Travis Scott, HVME | Goosebumps (Remix) | 2022-04-18 | <sub>spotify:track:5uEYRdEIh9Bo4fpjDd4Na9</sub> |
 | 376 | Barry From Simpson (with JID feat. 2 Chainz & Young Nudy) | Dreamville, JID, 2 Chainz, Young Nudy | D-Day: A Gangsta Grillz Mixtape | 2022-04-20 | <sub>spotify:track:4m3u9rV6KkVemoL5NFqXem</sub> |
 | 377 | LOYALTY. FEAT. RIHANNA. | Kendrick Lamar, Rihanna | DAMN. | 2022-04-23 | <sub>spotify:track:6SwRhMLwNqEi6alNPVG00n</sub> |
 | 378 | Love$ick (feat. A$AP Rocky) | Mura Masa, A$AP Rocky | Mura Masa | 2022-04-23 | <sub>spotify:track:3sTN90bIP2cJ1783ctHykO</sub> |
