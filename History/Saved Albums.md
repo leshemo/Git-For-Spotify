@@ -3,7 +3,7 @@
  |:--|:--|:--|:--|:--|
 | 1 | Mos Def & Talib Kweli Are Black Star | Black Star | 2019-03-15 | <sub>spotify:album:6GRzmk9UGL7odxprOPop1Q</sub> |
 | 2 | Ignorance is Bliss | Skepta | 2019-06-03 | <sub>spotify:album:22zpCX6Nb9ppOVklalvGec</sub> |
-| 3 | Luv Is Rage 2 - Deluxe | Lil Uzi Vert | 2019-12-29 | <sub>spotify:album:0zicd2mBV8HTzSubByj4vP</sub> |
+| 3 | Luv Is Rage 2 (Deluxe) | Lil Uzi Vert | 2019-12-29 | <sub>spotify:album:0zicd2mBV8HTzSubByj4vP</sub> |
 | 4 | Phrenology | The Roots | 2020-01-10 | <sub>spotify:album:4rKiBz8pX9zmKuEk4NArfm</sub> |
 | 5 | Sibelius: Violin Concerto - Sinding: Suite | Itzhak Perlman | 2020-08-22 | <sub>spotify:album:3EXbF8CYWEpPvpQYb9TjkS</sub> |
 | 6 | Mura Masa | Mura Masa | 2020-12-06 | <sub>spotify:album:0NBTBo1qrg554sAj79nEqD</sub> |
@@ -33,7 +33,7 @@
 | 30 | Blank Face LP | ScHoolboy Q | 2022-10-14 | <sub>spotify:album:0YbpATCIng8Fz2JrfHmEf7</sub> |
 | 31 | Luv 4 Rent | Smino | 2022-11-30 | <sub>spotify:album:6dtDTbVBQ9QwsNaqEnjsOT</sub> |
 | 32 | 10 | Westside Gunn | 2022-11-30 | <sub>spotify:album:138M0lORis5tDxurpIbd7V</sub> |
-| 33 | $oul $old $eparately - Bonus Edition | Freddie Gibbs | 2022-11-30 | <sub>spotify:album:6sX8jSeSVOZrcoC8NecJOe</sub> |
+| 33 | $oul $old $eparately (Bonus Edition) | Freddie Gibbs | 2022-11-30 | <sub>spotify:album:6sX8jSeSVOZrcoC8NecJOe</sub> |
 | 34 | Piñata | Freddie Gibbs, Madlib | 2023-02-05 | <sub>spotify:album:43uErencdmuTRFZPG3zXL1</sub> |
 | 35 | The Low End Theory | A Tribe Called Quest | 2023-02-05 | <sub>spotify:album:1p12OAWwudgMqfMzjMvl2a</sub> |
 | 36 | We got it from Here... Thank You 4 Your service | A Tribe Called Quest | 2023-02-05 | <sub>spotify:album:3WvQpufOsPzkZvcSuynCf3</sub> |
