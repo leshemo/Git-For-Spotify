@@ -316,3 +316,6 @@
 | 313 | Five Man Army - 2012 Mix/Master | Massive Attack, Horace Andy, Tricky | Blue Lines (2012 Mix/Master) | 2024-10-15 | <sub>spotify:track:4pQXPcVWTCa4Ve73Sw4G2q</sub> |
 | 314 | Girl I Love You | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:3zkPvQZx6ZflYZtw6PZ82X</sub> |
 | 315 | Splitting The Atom | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:1r9mGafUiSgumJoRqyLrSt</sub> |
+| 316 | Temptation Waits | Garbage | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | 2024-10-24 | <sub>spotify:track:4CKVi1pqeLZEmp8uNe6nVx</sub> |
+| 317 | Life In a Glasshouse | Radiohead | Amnesiac | 2024-10-24 | <sub>spotify:track:5xJc58mBWz68WhwU2n5seR</sub> |
+| 318 | 2 + 2 = 5 | Radiohead | Hail To the Thief | 2024-10-24 | <sub>spotify:track:4xkcGfpM9RwB4IiQ7yx2dB</sub> |

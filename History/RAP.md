@@ -570,7 +570,7 @@
 | 567 | Givin’ Up (Not The One) (Don Toliver & 21 Savage, 2 Chainz) | Don Toliver, 21 Savage, 2 Chainz | METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) | 2023-06-12 | <sub>spotify:track:0KoBrntyQ2x6Y1eZwgGe5P</sub> |
 | 568 | Nas Morales (Metro Boomin & Nas) | Metro Boomin, Nas | METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE) | 2023-06-12 | <sub>spotify:track:4mTKCa00WAZS2ag4GYwu0t</sub> |
 | 569 | Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series) | The Weeknd, Playboi Carti, Madonna | Popular [The Idol Vol. 1 (Music from the HBO Original Series)] | 2023-06-16 | <sub>spotify:track:5xP9lQYA8YQmQh6BOxcAnR</sub> |
-| 570 | The Thrill | Wiz Khalifa, Empire Of The Sun | The Thrill | 2023-06-16 | <sub>spotify:track:56oGoEjA9eTZYgsttEFKY3</sub> |
+| 570 | The Thrill | Wiz Khalifa, Empire Of The Sun | The Thrill (feat. Empire of the Sun) | 2023-06-16 | <sub>spotify:track:56oGoEjA9eTZYgsttEFKY3</sub> |
 | 571 | killstreaks (with Don Toliver & PinkPantheress) | Baby Keem, Don Toliver, PinkPantheress | The Melodic Blue (Deluxe) | 2023-06-16 | <sub>spotify:track:754hhnczVNu3ibRaoAcujX</sub> |
 | 572 | Ain't it Funny | Danny Brown | Atrocity Exhibition | 2023-06-22 | <sub>spotify:track:4tU1vbxn9rvUv9VuAUXERx</sub> |
 | 573 | One Way or Every N***a With a Budget | Saba | Few Good Things | 2023-06-25 | <sub>spotify:track:1HUPcJgYQXXxmlVouv1Mop</sub> |
