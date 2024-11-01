@@ -284,7 +284,7 @@
 | 281 | Moody Blues | Saison | Shakka | 2022-06-26 | <sub>spotify:track:4cT1BCpBtBR0m6QSxBiVqD</sub> |
 | 282 | You Like Jazz? | Michael Diamond | You Like Jazz? | 2022-06-26 | <sub>spotify:track:4JH5ZGXhnPpxvaZ6FhBuQr</sub> |
 | 283 | NOW JAZZ - MIDNIGHT MIX | GOLFOS | ONE MINUTE SILENCE / NOW JAZZ | 2022-06-26 | <sub>spotify:track:0fJm8fquozJRImFiiLsBZU</sub> |
-| 284 | Emotional Intelligence | Chaos In The CBD, Nathan Haines, Dave Koor | Chaos in the CBD & Friends | 2022-06-26 | <sub>spotify:track:3yMYs3jJdAPxMgqb0CYZUG</sub> |
+| 284 | Emotional Intelligence | Chaos In The CBD, Nathan Haines, Dave Koor | Chaos In The CBD & Friends | 2022-06-26 | <sub>spotify:track:3yMYs3jJdAPxMgqb0CYZUG</sub> |
 | 285 | Cannot Let You Go | Weast | QCK Various Artists Vol.1 | 2022-06-26 | <sub>spotify:track:1uYtTOfC6DuNf7GdxkHGkf</sub> |
 | 286 | Wes | Felipe Gordon | A Landscape Onomatopeya | 2022-06-26 | <sub>spotify:track:4pEUFIJSizwBybLdW0Qs5m</sub> |
 | 287 | Art Clone | Jtwig | Unreleased | 2022-06-26 | <sub>spotify:track:40KzjjmjBrdWi3qWzAnT0R</sub> |
