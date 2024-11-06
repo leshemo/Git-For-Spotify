@@ -319,3 +319,5 @@
 | 316 | Temptation Waits | Garbage | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | 2024-10-24 | <sub>spotify:track:4CKVi1pqeLZEmp8uNe6nVx</sub> |
 | 317 | Life In a Glasshouse | Radiohead | Amnesiac | 2024-10-24 | <sub>spotify:track:5xJc58mBWz68WhwU2n5seR</sub> |
 | 318 | 2 + 2 = 5 | Radiohead | Hail To the Thief | 2024-10-24 | <sub>spotify:track:4xkcGfpM9RwB4IiQ7yx2dB</sub> |
+| 319 | I Appear Missing | Queens of the Stone Age | ...Like Clockwork | 2024-11-05 | <sub>spotify:track:0Dv8OfSPwrXmNNbE70b9Dq</sub> |
+| 320 | Little Sister | Queens of the Stone Age | Lullabies To Paralyze | 2024-11-05 | <sub>spotify:track:0BqQWfhMrkpRAUCbdfdHUC</sub> |
