@@ -321,3 +321,4 @@
 | 318 | 2 + 2 = 5 | Radiohead | Hail To the Thief | 2024-10-24 | <sub>spotify:track:4xkcGfpM9RwB4IiQ7yx2dB</sub> |
 | 319 | I Appear Missing | Queens of the Stone Age | ...Like Clockwork | 2024-11-05 | <sub>spotify:track:0Dv8OfSPwrXmNNbE70b9Dq</sub> |
 | 320 | Little Sister | Queens of the Stone Age | Lullabies To Paralyze | 2024-11-05 | <sub>spotify:track:0BqQWfhMrkpRAUCbdfdHUC</sub> |
+| 321 | Angel Tears | Barrie-James | Cold Coffee | 2024-11-07 | <sub>spotify:track:6Xg39LrtSpnWAt1oPobi11</sub> |
