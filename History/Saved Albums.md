@@ -245,3 +245,4 @@
 | 242 | Hitler Wears Hermes 8: Side B | Westside Gunn | 2024-11-05 | <sub>spotify:album:0KtFP56RU7bd32pcvdeWOU</sub> |
 | 243 | ...Like Clockwork | Queens of the Stone Age | 2024-11-05 | <sub>spotify:album:5T5NM01392dvvd4EhGrCnj</sub> |
 | 244 | Norman Fucking Rockwell! | Lana Del Rey | 2024-11-05 | <sub>spotify:album:5XpEKORZ4y6OrCZSKsi46A</sub> |
+| 245 | Endlessness | Nala Sinephro | 2024-11-11 | <sub>spotify:album:51CQQ3tQLRZlZJZ5jcpoGE</sub> |
