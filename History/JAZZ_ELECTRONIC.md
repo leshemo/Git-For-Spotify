@@ -377,7 +377,7 @@
 | 374 | Turkey Dog Coma | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:4Jsc7ZId1CLkwvOURAh859</sub> |
 | 375 | Stirring | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:1O6nRYFZpVZEcyvbxo1olx</sub> |
 | 376 | Coronus, the Terminator | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:79gyBvPc2zj3oIrhI50Eag</sub> |
-| 377 | Siren Song | Flying Lotus, Angel Deradoorian | You're Dead! | 2022-07-19 | <sub>spotify:track:3Wnnci3vKfzcdHRRohWOU0</sub> |
+| 377 | Siren Song | Flying Lotus, Deradoorian | You're Dead! | 2022-07-19 | <sub>spotify:track:3Wnnci3vKfzcdHRRohWOU0</sub> |
 | 378 | Turtles | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:08ydxMk5DKWYaTkKW82vXh</sub> |
 | 379 | Ready err Not | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:4Bh15PbohDVAdyCzCtMkLL</sub> |
 | 380 | Eyes Above | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:2LYPu9MO0KcjNEM7p9my6H</sub> |
