@@ -323,3 +323,5 @@
 | 320 | Little Sister | Queens of the Stone Age | Lullabies To Paralyze | 2024-11-05 | <sub>spotify:track:0BqQWfhMrkpRAUCbdfdHUC</sub> |
 | 321 | Angel Tears | Barrie-James | Cold Coffee | 2024-11-07 | <sub>spotify:track:6Xg39LrtSpnWAt1oPobi11</sub> |
 | 322 | Limp | Fiona Apple | When The Pawn... | 2024-11-09 | <sub>spotify:track:104YdibC7VQy78xAVmgRYr</sub> |
+| 323 | Nothing Matters | The Last Dinner Party | Prelude to Ecstasy | 2024-11-19 | <sub>spotify:track:5crY7axm3GejOxy5PsnnPk</sub> |
+| 324 | Angel | NewDad | MADRA | 2024-11-19 | <sub>spotify:track:1kiw6IXeTauPy3L964yxoZ</sub> |
