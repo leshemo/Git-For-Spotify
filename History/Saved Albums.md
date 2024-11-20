@@ -246,3 +246,4 @@
 | 243 | ...Like Clockwork | Queens of the Stone Age | 2024-11-05 | <sub>spotify:album:5T5NM01392dvvd4EhGrCnj</sub> |
 | 244 | Norman Fucking Rockwell! | Lana Del Rey | 2024-11-05 | <sub>spotify:album:5XpEKORZ4y6OrCZSKsi46A</sub> |
 | 245 | Endlessness | Nala Sinephro | 2024-11-11 | <sub>spotify:album:51CQQ3tQLRZlZJZ5jcpoGE</sub> |
+| 246 | Olive Green | RUBII | 2024-11-19 | <sub>spotify:album:4lyBVo4j8m3m5aLGRqg3lY</sub> |

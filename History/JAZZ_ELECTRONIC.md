@@ -386,7 +386,7 @@
 | 383 | Obligatory Cadence | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:07G9Dbpg14PlUFstgf32id</sub> |
 | 384 | Your Potential//The Beyond | Flying Lotus, Niki Randa | You're Dead! | 2022-07-19 | <sub>spotify:track:4AcxKBCnWb7agPVX2ABb1y</sub> |
 | 385 | The Protest | Flying Lotus | You're Dead! | 2022-07-19 | <sub>spotify:track:5zDjQYRddYpP1YO2cVUAbO</sub> |
-| 386 | Beatin' Tha Breaks - Fouk Remix | Magic In Threes | Beatin' Tha Breaks | 2022-07-29 | <sub>spotify:track:1JUKFzJ0dGMPb97SMGxYft</sub> |
+| 386 | Beatin' Tha Breaks - Fouk Remix | Magic In Threes, Fouk | Beatin' Tha Breaks | 2022-07-29 | <sub>spotify:track:1JUKFzJ0dGMPb97SMGxYft</sub> |
 | 387 | Spokey Dokey | SEATBELTS | COWBOY BEBOP (Original Motion Picture Soundtrack) | 2022-08-09 | <sub>spotify:track:5t1AhFIJSr6qHXSwcgbRIs</sub> |
 | 388 | Bad Dog No Biscuits | SEATBELTS | COWBOY BEBOP (Original Motion Picture Soundtrack) | 2022-08-09 | <sub>spotify:track:6qRRnwgJADWFbWUbVtaKNl</sub> |
 | 389 | Cat Blues | SEATBELTS | COWBOY BEBOP (Original Motion Picture Soundtrack) | 2022-08-09 | <sub>spotify:track:4UIWEomPQIaacYpTjEwMVS</sub> |
@@ -689,3 +689,4 @@
 | 686 | We’re Dumb | Salami Rose Joe Louis | Chapters of Zdenka | 2024-10-03 | <sub>spotify:track:6JxeeCjNMXrKquxSqviMzD</sub> |
 | 687 | Phoneglow | Burial | Phoneglow / Eyes Go Blank | 2024-10-10 | <sub>spotify:track:5EZcvtoZohyR3RdxgW85j9</sub> |
 | 688 | Instant Crush (feat. Julian Casablancas) | Daft Punk, Julian Casablancas | Random Access Memories | 2024-10-13 | <sub>spotify:track:2cGxRwrMyEAp8dEbuZaVv6</sub> |
+| 689 | Jammin | RUBII | Olive Green | 2024-11-19 | <sub>spotify:track:34FhndFs4d8ltOVj8JqN4s</sub> |
