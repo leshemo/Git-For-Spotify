@@ -721,3 +721,5 @@
 | 718 | Skopje (feat. E L U C I D) | ØKSE, Savannah Harris, Mette Rasmussen, Val Jeanty, Petter Eldh | ØKSE | 2024-08-20 | <sub>spotify:track:5XWvYalCs7NDNN7jzIQtzH</sub> |
 | 719 | Sundress | A$AP Rocky | Sundress | 2024-08-29 | <sub>spotify:track:2aPTvyE09vUCRwVvj0I8WK</sub> |
 | 720 | either on or off the drugs | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU | 2024-08-30 | <sub>spotify:track:3EWaU5exMayFzQMkIfTX7w</sub> |
+| 721 | heart pt. 6 | Kendrick Lamar | GNX | 2024-11-25 | <sub>spotify:track:1SGvjfc85yzqKXsfKcCxn2</sub> |
+| 722 | Tailor Swif | A$AP Rocky | Tailor Swif | 2024-11-25 | <sub>spotify:track:5xMjhZKSo8yh5r9b5vrYRr</sub> |

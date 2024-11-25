@@ -248,3 +248,8 @@
 | 245 | Endlessness | Nala Sinephro | 2024-11-11 | <sub>spotify:album:51CQQ3tQLRZlZJZ5jcpoGE</sub> |
 | 246 | Olive Green | RUBII | 2024-11-19 | <sub>spotify:album:4lyBVo4j8m3m5aLGRqg3lY</sub> |
 | 247 | GNX | Kendrick Lamar | 2024-11-23 | <sub>spotify:album:0hvT3yIEysuuvkK73vgdcW</sub> |
+| 248 | The Thief Next to Jesus | Ka | 2024-11-25 | <sub>spotify:album:4fmC67uHti9BxWUNAUb6wy</sub> |
+| 249 | Absolute Elsewhere | Blood Incantation | 2024-11-25 | <sub>spotify:album:7hriIeLMviZKpNfcXgpsd8</sub> |
+| 250 | The New Sound | Geordie Greep | 2024-11-25 | <sub>spotify:album:07YS7ooqYtvPZLlW59MHY5</sub> |
+| 251 | Hellfire | black midi | 2024-11-25 | <sub>spotify:album:68z6MWYYNmvTcru1QMcYId</sub> |
+| 252 | Soul Kiss | Frost Children, HARU NEMURI | 2024-11-25 | <sub>spotify:album:7tUpOG0ww0SaQVxvqp2DO0</sub> |
