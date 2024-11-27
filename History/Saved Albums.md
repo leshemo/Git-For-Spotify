@@ -253,3 +253,5 @@
 | 250 | The New Sound | Geordie Greep | 2024-11-25 | <sub>spotify:album:07YS7ooqYtvPZLlW59MHY5</sub> |
 | 251 | Hellfire | black midi | 2024-11-25 | <sub>spotify:album:68z6MWYYNmvTcru1QMcYId</sub> |
 | 252 | Soul Kiss | Frost Children, HARU NEMURI | 2024-11-25 | <sub>spotify:album:7tUpOG0ww0SaQVxvqp2DO0</sub> |
+| 253 | MADRA | NewDad | 2024-11-26 | <sub>spotify:album:1Z04cqirpWoJhEi9iovmqw</sub> |
+| 254 | Era Vulgaris | Queens of the Stone Age | 2024-11-26 | <sub>spotify:album:1w71aBHYJ1zTOsSsmr2Fca</sub> |
