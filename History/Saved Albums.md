@@ -255,3 +255,4 @@
 | 252 | Soul Kiss | Frost Children, HARU NEMURI | 2024-11-25 | <sub>spotify:album:7tUpOG0ww0SaQVxvqp2DO0</sub> |
 | 253 | MADRA | NewDad | 2024-11-26 | <sub>spotify:album:1Z04cqirpWoJhEi9iovmqw</sub> |
 | 254 | Era Vulgaris | Queens of the Stone Age | 2024-11-26 | <sub>spotify:album:1w71aBHYJ1zTOsSsmr2Fca</sub> |
+| 255 | Heligoland | Massive Attack | 2024-11-29 | <sub>spotify:album:1F8y2bg9V9nRoy8zuxo3Jt</sub> |
