@@ -238,21 +238,20 @@
 | 235 | Fetch The Bolt Cutters | Fiona Apple | 2024-10-14 | <sub>spotify:album:0fO1KemWL2uCCQmM22iKlj</sub> |
 | 236 | Blue Lines (2012 Mix/Master) | Massive Attack | 2024-10-15 | <sub>spotify:album:5mAPk4qeNqVLtNydaWbWlf</sub> |
 | 237 | Woman | Justice | 2024-10-16 | <sub>spotify:album:23EaoI8dXfDGfxF54sd1DP</sub> |
-| 238 | American Cheese (Reissue) | Nerf Herder | 2024-10-20 | <sub>spotify:album:39BA2IV0pQJY3whpYKr3us</sub> |
-| 239 | AMOK | Atoms For Peace | 2024-10-29 | <sub>spotify:album:77Ie9frENeQwYUGHrrS0pk</sub> |
-| 240 | CHROMAKOPIA | Tyler, The Creator | 2024-10-29 | <sub>spotify:album:0U28P0QVB1QRxpqp5IHOlH</sub> |
-| 241 | Songs Of A Lost World | The Cure | 2024-11-05 | <sub>spotify:album:4wjxmqXnSQvBZWL3IbYngX</sub> |
-| 242 | Hitler Wears Hermes 8: Side B | Westside Gunn | 2024-11-05 | <sub>spotify:album:0KtFP56RU7bd32pcvdeWOU</sub> |
-| 243 | ...Like Clockwork | Queens of the Stone Age | 2024-11-05 | <sub>spotify:album:5T5NM01392dvvd4EhGrCnj</sub> |
-| 244 | Norman Fucking Rockwell! | Lana Del Rey | 2024-11-05 | <sub>spotify:album:5XpEKORZ4y6OrCZSKsi46A</sub> |
-| 245 | Endlessness | Nala Sinephro | 2024-11-11 | <sub>spotify:album:51CQQ3tQLRZlZJZ5jcpoGE</sub> |
-| 246 | Olive Green | RUBII | 2024-11-19 | <sub>spotify:album:4lyBVo4j8m3m5aLGRqg3lY</sub> |
-| 247 | GNX | Kendrick Lamar | 2024-11-23 | <sub>spotify:album:0hvT3yIEysuuvkK73vgdcW</sub> |
-| 248 | The Thief Next to Jesus | Ka | 2024-11-25 | <sub>spotify:album:4fmC67uHti9BxWUNAUb6wy</sub> |
-| 249 | Absolute Elsewhere | Blood Incantation | 2024-11-25 | <sub>spotify:album:7hriIeLMviZKpNfcXgpsd8</sub> |
-| 250 | The New Sound | Geordie Greep | 2024-11-25 | <sub>spotify:album:07YS7ooqYtvPZLlW59MHY5</sub> |
-| 251 | Hellfire | black midi | 2024-11-25 | <sub>spotify:album:68z6MWYYNmvTcru1QMcYId</sub> |
-| 252 | Soul Kiss | Frost Children, HARU NEMURI | 2024-11-25 | <sub>spotify:album:7tUpOG0ww0SaQVxvqp2DO0</sub> |
-| 253 | MADRA | NewDad | 2024-11-26 | <sub>spotify:album:1Z04cqirpWoJhEi9iovmqw</sub> |
-| 254 | Era Vulgaris | Queens of the Stone Age | 2024-11-26 | <sub>spotify:album:1w71aBHYJ1zTOsSsmr2Fca</sub> |
-| 255 | Heligoland | Massive Attack | 2024-11-29 | <sub>spotify:album:1F8y2bg9V9nRoy8zuxo3Jt</sub> |
+| 238 | AMOK | Atoms For Peace | 2024-10-29 | <sub>spotify:album:77Ie9frENeQwYUGHrrS0pk</sub> |
+| 239 | CHROMAKOPIA | Tyler, The Creator | 2024-10-29 | <sub>spotify:album:0U28P0QVB1QRxpqp5IHOlH</sub> |
+| 240 | Songs Of A Lost World | The Cure | 2024-11-05 | <sub>spotify:album:4wjxmqXnSQvBZWL3IbYngX</sub> |
+| 241 | Hitler Wears Hermes 8: Side B | Westside Gunn | 2024-11-05 | <sub>spotify:album:0KtFP56RU7bd32pcvdeWOU</sub> |
+| 242 | ...Like Clockwork | Queens of the Stone Age | 2024-11-05 | <sub>spotify:album:5T5NM01392dvvd4EhGrCnj</sub> |
+| 243 | Norman Fucking Rockwell! | Lana Del Rey | 2024-11-05 | <sub>spotify:album:5XpEKORZ4y6OrCZSKsi46A</sub> |
+| 244 | Endlessness | Nala Sinephro | 2024-11-11 | <sub>spotify:album:51CQQ3tQLRZlZJZ5jcpoGE</sub> |
+| 245 | Olive Green | RUBII | 2024-11-19 | <sub>spotify:album:4lyBVo4j8m3m5aLGRqg3lY</sub> |
+| 246 | GNX | Kendrick Lamar | 2024-11-23 | <sub>spotify:album:0hvT3yIEysuuvkK73vgdcW</sub> |
+| 247 | The Thief Next to Jesus | Ka | 2024-11-25 | <sub>spotify:album:4fmC67uHti9BxWUNAUb6wy</sub> |
+| 248 | Absolute Elsewhere | Blood Incantation | 2024-11-25 | <sub>spotify:album:7hriIeLMviZKpNfcXgpsd8</sub> |
+| 249 | The New Sound | Geordie Greep | 2024-11-25 | <sub>spotify:album:07YS7ooqYtvPZLlW59MHY5</sub> |
+| 250 | Hellfire | black midi | 2024-11-25 | <sub>spotify:album:68z6MWYYNmvTcru1QMcYId</sub> |
+| 251 | Soul Kiss | Frost Children, HARU NEMURI | 2024-11-25 | <sub>spotify:album:7tUpOG0ww0SaQVxvqp2DO0</sub> |
+| 252 | MADRA | NewDad | 2024-11-26 | <sub>spotify:album:1Z04cqirpWoJhEi9iovmqw</sub> |
+| 253 | Era Vulgaris | Queens of the Stone Age | 2024-11-26 | <sub>spotify:album:1w71aBHYJ1zTOsSsmr2Fca</sub> |
+| 254 | Heligoland | Massive Attack | 2024-11-29 | <sub>spotify:album:1F8y2bg9V9nRoy8zuxo3Jt</sub> |
