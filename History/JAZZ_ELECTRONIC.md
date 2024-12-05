@@ -4,7 +4,7 @@
 | 1 | Them Changes | Thundercat | Drunk | 2021-11-13 | <sub>spotify:track:7CH99b2i1TXS5P8UUyWtnM</sub> |
 | 2 | Black Gold | Flying Lotus, Thundercat | Yasuke | 2021-11-13 | <sub>spotify:track:7Bhs5TjC7FouUwrKVBdSpW</sub> |
 | 3 | Dragonball Durag | Thundercat | It Is What It Is | 2021-11-13 | <sub>spotify:track:7eWGnKg4B44sbBPpQp4y2c</sub> |
-| 4 | Los Sobrevivientes | Serú Girán | La Grasa de las Capitales: Edición 40º Aniversario | 2021-11-16 | <sub>spotify:track:5Pw6HkLxn0L95L5DuHyymI</sub> |
+| 4 | Los Sobrevivientes - 2019 Remasterizado | Serú Girán | La Grasa de las Capitales: Edición 40º Aniversario (2019 Remasterizado) | 2021-11-16 | <sub>spotify:track:5Pw6HkLxn0L95L5DuHyymI</sub> |
 | 5 | Holdin On | Flume | Flume: Deluxe Edition | 2021-11-16 | <sub>spotify:track:3ohupB1Wm1Cvcyre7rtS9p</sub> |
 | 6 | Lost In Space / Great Scott / 22-26 | Thundercat | It Is What It Is | 2021-11-17 | <sub>spotify:track:2XdGXvlyYtTlyMgpjXQMUY</sub> |
 | 7 | Innerstellar Love | Thundercat | It Is What It Is | 2021-11-17 | <sub>spotify:track:5XB8xpi0UsOqGUlZE0ZS5Y</sub> |
