@@ -228,101 +228,100 @@
 | 225 | MONACO | Bad Bunny | nadie sabe lo que va a pasar mañana | 2023-12-20 | <sub>spotify:track:4MjDJD8cW7iVeWInc2Bdyj</sub> |
 | 226 | Parking Lot | Anderson .Paak | Malibu | 2023-12-24 | <sub>spotify:track:5zyySSTcBpXQ8gSbuONRH7</sub> |
 | 227 | My Mathematical Mind | Spoon | Gimme Fiction (Deluxe Edition) | 2024-01-06 | <sub>spotify:track:6Vvmd6f6sEceLjHg6xJyIk</sub> |
-| 228 | Stuck In The Middle | Conor Albert, ELSAS | Collage 2 | 2024-01-07 | <sub>spotify:track:7zu4F2AtCvns6DINJCJ5AM</sub> |
-| 229 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
-| 230 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
-| 231 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |
-| 232 | The Palisades | Childish Gambino, Christian Rich | Kauai | 2024-01-21 | <sub>spotify:track:5rhneBPYMdfbeapETTW0vT</sub> |
-| 233 | Reverse Faults | Sampha | Process (Bonus Edition) | 2024-01-21 | <sub>spotify:track:1JI8rfUZv30QmoZzFvuQoj</sub> |
-| 234 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
-| 235 | Baker Street | Gerry Rafferty | City to City | 2024-01-25 | <sub>spotify:track:5gOd6zDC8vhlYjqbQdJVWP</sub> |
-| 236 | Come Down | Anderson .Paak | Malibu | 2024-01-30 | <sub>spotify:track:276zciJ7Fg7Jk6Ta6QuLkp</sub> |
-| 237 | Army of Me | Björk | Post | 2024-01-31 | <sub>spotify:track:3vEmpJQC2p8h0U3OiBufQm</sub> |
-| 238 | Enjoy | Björk | Post | 2024-01-31 | <sub>spotify:track:6JQVN9gi04NCK1tiz0aQA1</sub> |
-| 239 | Strangers | Kenya Grace | Strangers | 2024-02-09 | <sub>spotify:track:5mjYQaktjmjcMKcUIcqz4s</sub> |
-| 240 | Kerosene! | Yves Tumor | Heaven To A Tortured Mind | 2024-02-10 | <sub>spotify:track:2OoKzfr7RB5o9cxHArUoIS</sub> |
-| 241 | Dream Palette | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:3vrJL03OZSxa1QZQ7b63jn</sub> |
-| 242 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
-| 243 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
-| 244 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
-| 245 | Tunnel Lights | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:1IfF0yORFZlaMAWQW1UTiu</sub> |
-| 246 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
-| 247 | Thundercurls | Grande Mahogany | As Grande As | 2024-02-22 | <sub>spotify:track:4O0xgjA5G5bYxp9VQ3VNSa</sub> |
-| 248 | Rhode | Sevdaliza | Shabrang | 2024-03-11 | <sub>spotify:track:36RBtb5cme2MASrGN3xsQ8</sub> |
-| 249 | Cowboy Nudes | Geese | 3D Country | 2024-03-19 | <sub>spotify:track:7i8XQTUczz7xyFdkSAdEg9</sub> |
-| 250 | 3D Country | Geese | 3D Country | 2024-03-21 | <sub>spotify:track:6TLl4M9cQVHkPI75LTqABu</sub> |
-| 251 | Wana | nour | Wana | 2024-03-21 | <sub>spotify:track:6ygaR0OCPjB2YdBbbNKvss</sub> |
-| 252 | The Pines | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0uTw7TNnYn64XmCAo5jr0c</sub> |
-| 253 | Guilty Conscience | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0smgkpVia3VCXgY4qhVJvp</sub> |
-| 254 | Come Around | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0fl8Tsy98InF9qnM6vrZ60</sub> |
-| 255 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
-| 256 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
-| 257 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
-| 258 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
-| 259 | Regret | St. Vincent | St. Vincent (Deluxe Edition) | 2024-04-05 | <sub>spotify:track:2OCus0BsjJFo7E2TSAGnIe</sub> |
-| 260 | Meteora Blues | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-06 | <sub>spotify:track:0KtYUlIhPf0fLpmJRT73yM</sub> |
-| 261 | Paranoid Android | Radiohead | OK Computer | 2024-04-12 | <sub>spotify:track:6LgJvl0Xdtc73RJ1mmpotq</sub> |
-| 262 | What Went Wrong (In Your Head) | Supergrass | Supergrass | 2024-04-13 | <sub>spotify:track:1u8ibciFnAxaH3rTwIz3RN</sub> |
-| 263 | Heaven Surrounds Us Like a Hood | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-15 | <sub>spotify:track:6jCaLfO4BcwoLDpMKgSFkp</sub> |
-| 264 | All Mine | Portishead | Portishead | 2024-04-16 | <sub>spotify:track:785Qya5mtMUwBQtuypVqrx</sub> |
-| 265 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
-| 266 | Barefoot In The Park (feat. ROSALÍA) | James Blake, ROSALÍA | Assume Form | 2024-05-15 | <sub>spotify:track:3onYsieuDICdVt5ULZSExF</sub> |
-| 267 | Broken Man | St. Vincent | All Born Screaming | 2024-05-18 | <sub>spotify:track:1kgLXgHrXecZyRCDROfAPb</sub> |
-| 268 | Atavista | Childish Gambino | Atavista | 2024-06-14 | <sub>spotify:track:6Lj4RhwPsVfMn7tsA5i8jW</sub> |
-| 269 | Electioneering | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:0gTRROuntlrPQ64W3J2Etv</sub> |
-| 270 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
-| 271 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
-| 272 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
-| 273 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
-| 274 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
-| 275 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
-| 276 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
-| 277 | Dissolved Girl | Massive Attack, Sarah Jay Hawley | Mezzanine | 2024-07-18 | <sub>spotify:track:0oeEqyEAavgPfFxDYvjAP6</sub> |
-| 278 | Man Next Door | Massive Attack, Horace Andy | Mezzanine | 2024-07-18 | <sub>spotify:track:2Tz5THgkMOQeaW6DlqAlIa</sub> |
-| 279 | Out Of Options | Nia Archives | Silence Is Loud | 2024-07-23 | <sub>spotify:track:1ygHZpILmwL7EaByT1SVAO</sub> |
-| 280 | Dog New Tricks | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
-| 281 | Only Happy When It Rains | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
-| 282 | Supervixen | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
-| 283 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
-| 284 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
-| 285 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
-| 286 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
-| 287 | CANDY | ROSALÍA | MOTOMAMI + | 2024-08-15 | <sub>spotify:track:4AIA8hN351mjpB5lXfUsJH</sub> |
-| 288 | DELIRIO DE GRANDEZA | ROSALÍA | MOTOMAMI + | 2024-08-16 | <sub>spotify:track:6YbC5s56zWKObDIRZnAIbY</sub> |
-| 289 | A Palé | ROSALÍA | A Palé | 2024-08-16 | <sub>spotify:track:23zJcKwLf5CeaKVbFhrWgF</sub> |
-| 290 | Could Heaven Ever Be Like This | Idris Muhammad | Turn This Mutha Out | 2024-08-18 | <sub>spotify:track:1xkOg49ZxldiM1ioIudwUS</sub> |
-| 291 | Vampire in the Corner | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:6O6VDSgm7Cxrk7kIJhyIFo</sub> |
-| 292 | The Ballad of Matt & Mica | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4j9WdbfKvyx7fBQb4qygYr</sub> |
-| 293 | Image | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:0QW0KPBXXv67haGjbtkRRB</sub> |
-| 294 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
-| 295 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
-| 296 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
-| 297 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
-| 298 | Pyramids | Frank Ocean | channel ORANGE | 2024-09-08 | <sub>spotify:track:4QhWbupniDd44EDtnh2bFJ</sub> |
-| 299 | THE SNAKE | Lana Lubany | THE SNAKE | 2024-09-11 | <sub>spotify:track:4tRXJwAv2zZrcDcfjTUekQ</sub> |
-| 300 | Revenge Of The Number | Portishead | Numb | 2024-09-13 | <sub>spotify:track:1ScZSUcqKAYPoBhL8KL5pU</sub> |
-| 301 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
-| 302 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
-| 303 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
-| 304 | Rain | SWV | Release Some Tension | 2024-10-02 | <sub>spotify:track:4G1qRhOk1YY0kewtMaCrMC</sub> |
-| 305 | West Coast | Lana Del Rey | Ultraviolence (Deluxe) | 2024-10-02 | <sub>spotify:track:5Y6nVaayzitvsD5F7nr3DV</sub> |
-| 306 | Me and My Husband | Mitski | Be the Cowboy | 2024-10-03 | <sub>spotify:track:3pANfZVFdtuVnJsE6xa5Ox</sub> |
-| 307 | Mutations | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0CPNtInZtdxtWNOBN5Nkhu</sub> |
-| 308 | Planet Telex | Radiohead | The Bends | 2024-10-07 | <sub>spotify:track:37JISltgxizbDAyNEEqkTY</sub> |
-| 309 | Twilight | bôa | Twilight | 2024-10-08 | <sub>spotify:track:6d67Xv8ms2noA8wWFLiPDN</sub> |
-| 310 | Method Actor | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0sggL2BsarV5q8acXljmWI</sub> |
-| 311 | Everything In Its Right Place | Radiohead | Kid A | 2024-10-11 | <sub>spotify:track:2kRFrWaLWiKq48YYVdGcm8</sub> |
-| 312 | Sleep to Dream | Fiona Apple | Tidal | 2024-10-14 | <sub>spotify:track:51HiIbv8gO0HvwpmAxXAFe</sub> |
-| 313 | Five Man Army - 2012 Mix/Master | Massive Attack, Horace Andy, Tricky | Blue Lines (2012 Mix/Master) | 2024-10-15 | <sub>spotify:track:4pQXPcVWTCa4Ve73Sw4G2q</sub> |
-| 314 | Girl I Love You | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:3zkPvQZx6ZflYZtw6PZ82X</sub> |
-| 315 | Splitting The Atom | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:1r9mGafUiSgumJoRqyLrSt</sub> |
-| 316 | Temptation Waits | Garbage | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | 2024-10-24 | <sub>spotify:track:4CKVi1pqeLZEmp8uNe6nVx</sub> |
-| 317 | Life In a Glasshouse | Radiohead | Amnesiac | 2024-10-24 | <sub>spotify:track:5xJc58mBWz68WhwU2n5seR</sub> |
-| 318 | 2 + 2 = 5 | Radiohead | Hail To the Thief | 2024-10-24 | <sub>spotify:track:4xkcGfpM9RwB4IiQ7yx2dB</sub> |
-| 319 | I Appear Missing | Queens of the Stone Age | ...Like Clockwork | 2024-11-05 | <sub>spotify:track:0Dv8OfSPwrXmNNbE70b9Dq</sub> |
-| 320 | Little Sister | Queens of the Stone Age | Lullabies To Paralyze | 2024-11-05 | <sub>spotify:track:0BqQWfhMrkpRAUCbdfdHUC</sub> |
-| 321 | Angel Tears | Barrie-James | Cold Coffee | 2024-11-07 | <sub>spotify:track:6Xg39LrtSpnWAt1oPobi11</sub> |
-| 322 | Limp | Fiona Apple | When The Pawn... | 2024-11-09 | <sub>spotify:track:104YdibC7VQy78xAVmgRYr</sub> |
-| 323 | Nothing Matters | The Last Dinner Party | Prelude to Ecstasy | 2024-11-19 | <sub>spotify:track:5crY7axm3GejOxy5PsnnPk</sub> |
-| 324 | Angel | NewDad | MADRA | 2024-11-19 | <sub>spotify:track:1kiw6IXeTauPy3L964yxoZ</sub> |
-| 325 | Jammin | RUBII | Olive Green | 2024-11-19 | <sub>spotify:track:34FhndFs4d8ltOVj8JqN4s</sub> |
+| 228 | Blood On Me | Sampha | Process (Bonus Edition) | 2024-01-08 | <sub>spotify:track:2D9aPhceBfcp7sVIcmFMZS</sub> |
+| 229 | Feels Like We Only Go Backwards | Tame Impala | Lonerism | 2024-01-17 | <sub>spotify:track:0LtOwyZoSNZKJWHqjzADpW</sub> |
+| 230 | No Hay Ley Parte 2 (with Rauw Alejandro) | Kali Uchis, Rauw Alejandro | ORQUÍDEAS | 2024-01-17 | <sub>spotify:track:16pNGHrUDtUq5Qg4LnueIi</sub> |
+| 231 | The Palisades | Childish Gambino, Christian Rich | Kauai | 2024-01-21 | <sub>spotify:track:5rhneBPYMdfbeapETTW0vT</sub> |
+| 232 | Reverse Faults | Sampha | Process (Bonus Edition) | 2024-01-21 | <sub>spotify:track:1JI8rfUZv30QmoZzFvuQoj</sub> |
+| 233 | The Season - Carry Me | Anderson .Paak | Malibu | 2024-01-21 | <sub>spotify:track:5G0nSEIT0fGUZY0caM9AnH</sub> |
+| 234 | Baker Street | Gerry Rafferty | City to City | 2024-01-25 | <sub>spotify:track:5gOd6zDC8vhlYjqbQdJVWP</sub> |
+| 235 | Come Down | Anderson .Paak | Malibu | 2024-01-30 | <sub>spotify:track:276zciJ7Fg7Jk6Ta6QuLkp</sub> |
+| 236 | Army of Me | Björk | Post | 2024-01-31 | <sub>spotify:track:3vEmpJQC2p8h0U3OiBufQm</sub> |
+| 237 | Enjoy | Björk | Post | 2024-01-31 | <sub>spotify:track:6JQVN9gi04NCK1tiz0aQA1</sub> |
+| 238 | Strangers | Kenya Grace | Strangers | 2024-02-09 | <sub>spotify:track:5mjYQaktjmjcMKcUIcqz4s</sub> |
+| 239 | Kerosene! | Yves Tumor | Heaven To A Tortured Mind | 2024-02-10 | <sub>spotify:track:2OoKzfr7RB5o9cxHArUoIS</sub> |
+| 240 | Dream Palette | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:3vrJL03OZSxa1QZQ7b63jn</sub> |
+| 241 | A Greater Love | Yves Tumor | Heaven To A Tortured Mind | 2024-02-12 | <sub>spotify:track:0tmyncs1LzwjDGSBnDds8G</sub> |
+| 242 | Angle of the Dangle | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0n6Kslhe1tpbsGreAZiXnT</sub> |
+| 243 | SUPER ROCKER | Grande Mahogany | As Grande As | 2024-02-20 | <sub>spotify:track:0te8YyhGsVPuvM5NXFBlSO</sub> |
+| 244 | Tunnel Lights | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:1IfF0yORFZlaMAWQW1UTiu</sub> |
+| 245 | Dusk | Chelsea Wolfe | She Reaches Out To She Reaches Out To She | 2024-02-22 | <sub>spotify:track:2zj5pSP9CoOTCDRfBN2zCq</sub> |
+| 246 | Thundercurls | Grande Mahogany | As Grande As | 2024-02-22 | <sub>spotify:track:4O0xgjA5G5bYxp9VQ3VNSa</sub> |
+| 247 | Rhode | Sevdaliza | Shabrang | 2024-03-11 | <sub>spotify:track:36RBtb5cme2MASrGN3xsQ8</sub> |
+| 248 | Cowboy Nudes | Geese | 3D Country | 2024-03-19 | <sub>spotify:track:7i8XQTUczz7xyFdkSAdEg9</sub> |
+| 249 | 3D Country | Geese | 3D Country | 2024-03-21 | <sub>spotify:track:6TLl4M9cQVHkPI75LTqABu</sub> |
+| 250 | Wana | nour | Wana | 2024-03-21 | <sub>spotify:track:6ygaR0OCPjB2YdBbbNKvss</sub> |
+| 251 | The Pines | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0uTw7TNnYn64XmCAo5jr0c</sub> |
+| 252 | Guilty Conscience | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0smgkpVia3VCXgY4qhVJvp</sub> |
+| 253 | Come Around | 070 Shake | Modus Vivendi | 2024-03-22 | <sub>spotify:track:0fl8Tsy98InF9qnM6vrZ60</sub> |
+| 254 | Home Is Where the Hatred Is | Gil Scott-Heron | Pieces of a Man | 2024-03-23 | <sub>spotify:track:3pmp40HtLapVQ8L89Mz1vh</sub> |
+| 255 | Body | 070 Shake, Christine and the Queens | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:3lRh3BAgwNXBJ6tjtvc6ZF</sub> |
+| 256 | History | 070 Shake | You Can’t Kill Me | 2024-04-01 | <sub>spotify:track:5PkNAc7ecD8Rk8ieuXCfQr</sub> |
+| 257 | Hold On | SBTRKT, Sampha | SBTRKT (Deluxe Version) | 2024-04-02 | <sub>spotify:track:47GsUibP7RiUL7SQ7YFfhu</sub> |
+| 258 | Regret | St. Vincent | St. Vincent (Deluxe Edition) | 2024-04-05 | <sub>spotify:track:2OCus0BsjJFo7E2TSAGnIe</sub> |
+| 259 | Meteora Blues | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-06 | <sub>spotify:track:0KtYUlIhPf0fLpmJRT73yM</sub> |
+| 260 | Paranoid Android | Radiohead | OK Computer | 2024-04-12 | <sub>spotify:track:6LgJvl0Xdtc73RJ1mmpotq</sub> |
+| 261 | What Went Wrong (In Your Head) | Supergrass | Supergrass | 2024-04-13 | <sub>spotify:track:1u8ibciFnAxaH3rTwIz3RN</sub> |
+| 262 | Heaven Surrounds Us Like a Hood | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) | 2024-04-15 | <sub>spotify:track:6jCaLfO4BcwoLDpMKgSFkp</sub> |
+| 263 | All Mine | Portishead | Portishead | 2024-04-16 | <sub>spotify:track:785Qya5mtMUwBQtuypVqrx</sub> |
+| 264 | Curls | Olympia Vitalis | Curls | 2024-04-17 | <sub>spotify:track:0BPy60PdmcrS7STu7JZCuO</sub> |
+| 265 | Barefoot In The Park (feat. ROSALÍA) | James Blake, ROSALÍA | Assume Form | 2024-05-15 | <sub>spotify:track:3onYsieuDICdVt5ULZSExF</sub> |
+| 266 | Broken Man | St. Vincent | All Born Screaming | 2024-05-18 | <sub>spotify:track:1kgLXgHrXecZyRCDROfAPb</sub> |
+| 267 | Atavista | Childish Gambino | Atavista | 2024-06-14 | <sub>spotify:track:6Lj4RhwPsVfMn7tsA5i8jW</sub> |
+| 268 | Electioneering | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:0gTRROuntlrPQ64W3J2Etv</sub> |
+| 269 | Feel A Way (feat. Don Toliver) | KAYTRANADA, Don Toliver | TIMELESS | 2024-06-20 | <sub>spotify:track:0PgqpFFX4WxBbXhjkONk5b</sub> |
+| 270 | Karma Police | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:63OQupATfueTdZMWTxW03A</sub> |
+| 271 | Lucky | Radiohead | OK Computer | 2024-06-27 | <sub>spotify:track:14xj58ZexBaEaHARb11Cqs</sub> |
+| 272 | Girl, so confusing featuring lorde | Charli xcx, Lorde | Girl, so confusing featuring lorde | 2024-06-29 | <sub>spotify:track:2YFhqZvhTpyK13gKXMKV7R</sub> |
+| 273 | XS | Rina Sawayama | SAWAYAMA | 2024-07-01 | <sub>spotify:track:1TWNKyNQOBfNUkWWs7FooF</sub> |
+| 274 | Hell Is Round The Corner | Tricky, Martina Topley-Bird | Maxinquaye (Deluxe Edition) | 2024-07-19 | <sub>spotify:track:2wC0qK8JN6gblb0ZJzE2d9</sub> |
+| 275 | Black Milk | Massive Attack, Elizabeth Fraser | Mezzanine | 2024-07-18 | <sub>spotify:track:1Rezzt36ybaT2ZbDZpv83D</sub> |
+| 276 | Dissolved Girl | Massive Attack, Sarah Jay Hawley | Mezzanine | 2024-07-18 | <sub>spotify:track:0oeEqyEAavgPfFxDYvjAP6</sub> |
+| 277 | Man Next Door | Massive Attack, Horace Andy | Mezzanine | 2024-07-18 | <sub>spotify:track:2Tz5THgkMOQeaW6DlqAlIa</sub> |
+| 278 | Out Of Options | Nia Archives | Silence Is Loud | 2024-07-23 | <sub>spotify:track:1ygHZpILmwL7EaByT1SVAO</sub> |
+| 279 | Dog New Tricks | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:7saSKdV5dhnh206Mw82GR2</sub> |
+| 280 | Only Happy When It Rains | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:1IsGA5ceSC4a5nxgAEYnQd</sub> |
+| 281 | Supervixen | Garbage | Garbage (20th Anniversary Deluxe Edition/Remastered) | 2024-07-19 | <sub>spotify:track:0CvuIrgROzAuS7lHcOt9a1</sub> |
+| 282 | Strange Beast (異獸) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:39k5YdYljRy2BMvW1iudug</sub> |
+| 283 | Hotel La Rut (破爛酒店) | Joanna Wang | Hotel La Rut (破爛酒店) | 2024-07-23 | <sub>spotify:track:5AIP6aQMNblr5hRc4nf6rt</sub> |
+| 284 | Hyperballad | Björk | Post | 2024-08-08 | <sub>spotify:track:4z1fNs2B7KndCsvyPgrhq5</sub> |
+| 285 | DESPECHÁ | ROSALÍA | MOTOMAMI + | 2024-08-14 | <sub>spotify:track:53tfEupEzQRtVFOeZvk7xq</sub> |
+| 286 | CANDY | ROSALÍA | MOTOMAMI + | 2024-08-15 | <sub>spotify:track:4AIA8hN351mjpB5lXfUsJH</sub> |
+| 287 | DELIRIO DE GRANDEZA | ROSALÍA | MOTOMAMI + | 2024-08-16 | <sub>spotify:track:6YbC5s56zWKObDIRZnAIbY</sub> |
+| 288 | A Palé | ROSALÍA | A Palé | 2024-08-16 | <sub>spotify:track:23zJcKwLf5CeaKVbFhrWgF</sub> |
+| 289 | Could Heaven Ever Be Like This | Idris Muhammad | Turn This Mutha Out | 2024-08-18 | <sub>spotify:track:1xkOg49ZxldiM1ioIudwUS</sub> |
+| 290 | Vampire in the Corner | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:6O6VDSgm7Cxrk7kIJhyIFo</sub> |
+| 291 | The Ballad of Matt & Mica | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4j9WdbfKvyx7fBQb4qygYr</sub> |
+| 292 | Image | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:0QW0KPBXXv67haGjbtkRRB</sub> |
+| 293 | Cry for Me | Magdalena Bay | Imaginal Disk | 2024-08-31 | <sub>spotify:track:4rVs9KjC3YVA7v54kVSHUV</sub> |
+| 294 | Love Is Everywhere | Magdalena Bay | Imaginal Disk | 2024-09-01 | <sub>spotify:track:2ZSDtC0XZnpokAMwRtgqzh</sub> |
+| 295 | COMO UN G | ROSALÍA | MOTOMAMI + | 2024-09-02 | <sub>spotify:track:4KkVsKSeAVluB6aG6QNCGG</sub> |
+| 296 | Feel complete | PinkPantheress | Heaven knows | 2024-09-04 | <sub>spotify:track:2bBh5UwbVLkA3WB44iXBye</sub> |
+| 297 | Pyramids | Frank Ocean | channel ORANGE | 2024-09-08 | <sub>spotify:track:4QhWbupniDd44EDtnh2bFJ</sub> |
+| 298 | THE SNAKE | Lana Lubany | THE SNAKE | 2024-09-11 | <sub>spotify:track:4tRXJwAv2zZrcDcfjTUekQ</sub> |
+| 299 | Revenge Of The Number | Portishead | Numb | 2024-09-13 | <sub>spotify:track:1ScZSUcqKAYPoBhL8KL5pU</sub> |
+| 300 | Who Is She ? | I Monster | Neveroddoreven | 2024-09-17 | <sub>spotify:track:1QxcWlk8PivolUaWcpAoNq</sub> |
+| 301 | Liquid Smooth | Mitski | Lush | 2024-09-18 | <sub>spotify:track:3XCveEutwTaDiekRkkfdp9</sub> |
+| 302 | Duvet | bôa | Twilight | 2024-09-22 | <sub>spotify:track:42qNWdLKCI41S4uzfamhFM</sub> |
+| 303 | Rain | SWV | Release Some Tension | 2024-10-02 | <sub>spotify:track:4G1qRhOk1YY0kewtMaCrMC</sub> |
+| 304 | West Coast | Lana Del Rey | Ultraviolence (Deluxe) | 2024-10-02 | <sub>spotify:track:5Y6nVaayzitvsD5F7nr3DV</sub> |
+| 305 | Me and My Husband | Mitski | Be the Cowboy | 2024-10-03 | <sub>spotify:track:3pANfZVFdtuVnJsE6xa5Ox</sub> |
+| 306 | Mutations | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0CPNtInZtdxtWNOBN5Nkhu</sub> |
+| 307 | Planet Telex | Radiohead | The Bends | 2024-10-07 | <sub>spotify:track:37JISltgxizbDAyNEEqkTY</sub> |
+| 308 | Twilight | bôa | Twilight | 2024-10-08 | <sub>spotify:track:6d67Xv8ms2noA8wWFLiPDN</sub> |
+| 309 | Method Actor | Nilüfer Yanya | My Method Actor | 2024-10-09 | <sub>spotify:track:0sggL2BsarV5q8acXljmWI</sub> |
+| 310 | Everything In Its Right Place | Radiohead | Kid A | 2024-10-11 | <sub>spotify:track:2kRFrWaLWiKq48YYVdGcm8</sub> |
+| 311 | Sleep to Dream | Fiona Apple | Tidal | 2024-10-14 | <sub>spotify:track:51HiIbv8gO0HvwpmAxXAFe</sub> |
+| 312 | Five Man Army - 2012 Mix/Master | Massive Attack, Horace Andy, Tricky | Blue Lines (2012 Mix/Master) | 2024-10-15 | <sub>spotify:track:4pQXPcVWTCa4Ve73Sw4G2q</sub> |
+| 313 | Girl I Love You | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:3zkPvQZx6ZflYZtw6PZ82X</sub> |
+| 314 | Splitting The Atom | Massive Attack, Horace Andy | Heligoland | 2024-10-23 | <sub>spotify:track:1r9mGafUiSgumJoRqyLrSt</sub> |
+| 315 | Temptation Waits | Garbage | Version 2.0 (20th Anniversary Deluxe Edition / Remastered) | 2024-10-24 | <sub>spotify:track:4CKVi1pqeLZEmp8uNe6nVx</sub> |
+| 316 | Life In a Glasshouse | Radiohead | Amnesiac | 2024-10-24 | <sub>spotify:track:5xJc58mBWz68WhwU2n5seR</sub> |
+| 317 | 2 + 2 = 5 | Radiohead | Hail To the Thief | 2024-10-24 | <sub>spotify:track:4xkcGfpM9RwB4IiQ7yx2dB</sub> |
+| 318 | I Appear Missing | Queens of the Stone Age | ...Like Clockwork | 2024-11-05 | <sub>spotify:track:0Dv8OfSPwrXmNNbE70b9Dq</sub> |
+| 319 | Little Sister | Queens of the Stone Age | Lullabies To Paralyze | 2024-11-05 | <sub>spotify:track:0BqQWfhMrkpRAUCbdfdHUC</sub> |
+| 320 | Angel Tears | Barrie-James | Cold Coffee | 2024-11-07 | <sub>spotify:track:6Xg39LrtSpnWAt1oPobi11</sub> |
+| 321 | Limp | Fiona Apple | When The Pawn... | 2024-11-09 | <sub>spotify:track:104YdibC7VQy78xAVmgRYr</sub> |
+| 322 | Nothing Matters | The Last Dinner Party | Prelude to Ecstasy | 2024-11-19 | <sub>spotify:track:5crY7axm3GejOxy5PsnnPk</sub> |
+| 323 | Angel | NewDad | MADRA | 2024-11-19 | <sub>spotify:track:1kiw6IXeTauPy3L964yxoZ</sub> |
+| 324 | Jammin | RUBII | Olive Green | 2024-11-19 | <sub>spotify:track:34FhndFs4d8ltOVj8JqN4s</sub> |
