@@ -722,3 +722,6 @@
 | 719 | either on or off the drugs | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU | 2024-08-30 | <sub>spotify:track:3EWaU5exMayFzQMkIfTX7w</sub> |
 | 720 | heart pt. 6 | Kendrick Lamar | GNX | 2024-11-25 | <sub>spotify:track:1SGvjfc85yzqKXsfKcCxn2</sub> |
 | 721 | Tailor Swif | A$AP Rocky | Tailor Swif | 2024-11-25 | <sub>spotify:track:5xMjhZKSo8yh5r9b5vrYRr</sub> |
+| 722 | gnx (feat. hitta j3, youngthreat, peysoh) | Kendrick Lamar, Hitta J3, YoungThreat, Peysoh | GNX | 2024-12-12 | <sub>spotify:track:3aZptNYC6Z1YoumeqZcDcQ</sub> |
+| 723 | luther (with sza) | Kendrick Lamar, SZA | GNX | 2024-12-12 | <sub>spotify:track:45J4avUb9Ni0bnETYaYFVJ</sub> |
+| 724 | Garden Shed (feat. Estelle) | Tyler, The Creator, Estelle | Flower Boy | 2024-12-12 | <sub>spotify:track:6ACiYjq5Q7e6BlhZEHz7cd</sub> |
