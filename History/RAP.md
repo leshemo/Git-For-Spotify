@@ -726,3 +726,4 @@
 | 723 | luther (with sza) | Kendrick Lamar, SZA | GNX | 2024-12-12 | <sub>spotify:track:45J4avUb9Ni0bnETYaYFVJ</sub> |
 | 724 | Garden Shed (feat. Estelle) | Tyler, The Creator, Estelle | Flower Boy | 2024-12-12 | <sub>spotify:track:6ACiYjq5Q7e6BlhZEHz7cd</sub> |
 | 725 | vulgar display of power | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU | 2024-12-13 | <sub>spotify:track:1Z0FllHuwKceEa9wRJKTku</sub> |
+| 726 | Margiela Split Toes (feat. Mach-Hommy) | Westside Gunn, Mach-Hommy | Hitler Wears Hermes 8: Sincerely Adolf | 2025-01-02 | <sub>spotify:track:10RJKj63vLhQe10ZZWsbaf</sub> |
