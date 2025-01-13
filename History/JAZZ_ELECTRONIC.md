@@ -690,3 +690,5 @@
 | 687 | Phoneglow | Burial | Phoneglow / Eyes Go Blank | 2024-10-10 | <sub>spotify:track:5EZcvtoZohyR3RdxgW85j9</sub> |
 | 688 | Instant Crush (feat. Julian Casablancas) | Daft Punk, Julian Casablancas | Random Access Memories | 2024-10-13 | <sub>spotify:track:2cGxRwrMyEAp8dEbuZaVv6</sub> |
 | 689 | Jammin | RUBII | Olive Green | 2024-11-19 | <sub>spotify:track:34FhndFs4d8ltOVj8JqN4s</sub> |
+| 690 | Kong | Bonobo | Black Sands | 2025-01-12 | <sub>spotify:track:7Cg3F9ZsZ2TYUnlza49NYh</sub> |
+| 691 | Ungodly Fruit | Wax Tailor | Tales of the Forgotten Melodies | 2025-01-13 | <sub>spotify:track:0Ny30hfcHPaVkCBH4lsKhf</sub> |
