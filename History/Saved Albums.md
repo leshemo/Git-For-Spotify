@@ -258,3 +258,5 @@
 | 255 | Tidal Memory Exo | Iglooghost | 2025-01-09 | <sub>spotify:album:7CQp27clxVYy6Ou6jXht6g</sub> |
 | 256 | Portishead | Portishead | 2025-01-09 | <sub>spotify:album:3G36754KQVLyGuskraEAVA</sub> |
 | 257 | Protection | Massive Attack | 2025-01-12 | <sub>spotify:album:5CnZjFfPDmxOX7KnWLLqpC</sub> |
+| 258 | Neō Wax Bloom | Iglooghost | 2025-01-22 | <sub>spotify:album:68aZtDbgNargCMYgNvw5JG</sub> |
+| 259 | Steel Mogu | Iglooghost | 2025-01-22 | <sub>spotify:album:0D50foA8oPustAg1Z8cqjF</sub> |

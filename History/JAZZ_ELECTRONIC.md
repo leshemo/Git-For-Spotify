@@ -692,3 +692,4 @@
 | 689 | Jammin | RUBII | Olive Green | 2024-11-19 | <sub>spotify:track:34FhndFs4d8ltOVj8JqN4s</sub> |
 | 690 | Kong | Bonobo | Black Sands | 2025-01-12 | <sub>spotify:track:7Cg3F9ZsZ2TYUnlza49NYh</sub> |
 | 691 | Ungodly Fruit | Wax Tailor | Tales of the Forgotten Melodies | 2025-01-13 | <sub>spotify:track:0Ny30hfcHPaVkCBH4lsKhf</sub> |
+| 692 | Loner | Burial | Kindred EP | 2025-01-23 | <sub>spotify:track:2YpPrnbC5eVqLmCXVapIDo</sub> |
