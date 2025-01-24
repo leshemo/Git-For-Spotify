@@ -727,3 +727,5 @@
 | 724 | Garden Shed (feat. Estelle) | Tyler, The Creator, Estelle | Flower Boy | 2024-12-12 | <sub>spotify:track:6ACiYjq5Q7e6BlhZEHz7cd</sub> |
 | 725 | vulgar display of power | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU | 2024-12-13 | <sub>spotify:track:1Z0FllHuwKceEa9wRJKTku</sub> |
 | 726 | Margiela Split Toes (feat. Mach-Hommy) | Westside Gunn, Mach-Hommy | Hitler Wears Hermes 8: Sincerely Adolf | 2025-01-02 | <sub>spotify:track:10RJKj63vLhQe10ZZWsbaf</sub> |
+| 727 | Shot You Down (feat. Jay Rock & ScHoolboy Q) | Isaiah Rashad, Jay Rock, ScHoolboy Q | Cilvia Demo | 2025-01-24 | <sub>spotify:track:01wKeKPgYxdPYA8rfMveYc</sub> |
+| 728 | Man Of The Year | ScHoolboy Q | Oxymoron (Deluxe) | 2025-01-24 | <sub>spotify:track:5SsR3wtCOafDmZgvIdRhSm</sub> |
