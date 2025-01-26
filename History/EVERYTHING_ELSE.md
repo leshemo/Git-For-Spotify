@@ -329,3 +329,4 @@
 | 326 | CHOKEHOLD | LustSickPuppy | CAROUSEL FROM HELL | 2025-01-09 | <sub>spotify:track:52WHx6Z4tLpCPqJn7DLZAr</sub> |
 | 327 | Hell Is Near | St. Vincent | All Born Screaming | 2025-01-13 | <sub>spotify:track:5tuHiLI7CPV1BI9m2Gnlph</sub> |
 | 328 | I See Myself | Geese | 3D Country | 2025-01-25 | <sub>spotify:track:1rqGuE3jvcvacQk96lfnl6</sub> |
+| 329 | Sweet Dreams | Angel Olsen | Phases | 2025-01-25 | <sub>spotify:track:12XRlY4wO4C7m7QVTx8Ot1</sub> |
