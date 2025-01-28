@@ -330,3 +330,5 @@
 | 327 | Hell Is Near | St. Vincent | All Born Screaming | 2025-01-13 | <sub>spotify:track:5tuHiLI7CPV1BI9m2Gnlph</sub> |
 | 328 | I See Myself | Geese | 3D Country | 2025-01-25 | <sub>spotify:track:1rqGuE3jvcvacQk96lfnl6</sub> |
 | 329 | Sweet Dreams | Angel Olsen | Phases | 2025-01-25 | <sub>spotify:track:12XRlY4wO4C7m7QVTx8Ot1</sub> |
+| 330 | ride the dragon | FKA twigs | CAPRISONGS | 2025-01-27 | <sub>spotify:track:15TXFTdwGEEL4jH9erTRnK</sub> |
+| 331 | Eusexua | FKA twigs | EUSEXUA | 2025-01-27 | <sub>spotify:track:6TeKbncyK62smlAvPy1dNa</sub> |
