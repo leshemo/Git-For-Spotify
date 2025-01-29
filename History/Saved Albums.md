@@ -260,3 +260,5 @@
 | 257 | Neō Wax Bloom | Iglooghost | 2025-01-22 | <sub>spotify:album:68aZtDbgNargCMYgNvw5JG</sub> |
 | 258 | Steel Mogu | Iglooghost | 2025-01-22 | <sub>spotify:album:0D50foA8oPustAg1Z8cqjF</sub> |
 | 259 | M3LL155X | FKA twigs | 2025-01-27 | <sub>spotify:album:2RUX2ps4xMNTyI2iAwVyf3</sub> |
+| 260 | EUSEXUA | FKA twigs | 2025-01-28 | <sub>spotify:album:3o1TOhMkU5FFMSJMDhXfdF</sub> |
+| 261 | CAPRISONGS | FKA twigs | 2025-01-28 | <sub>spotify:album:3G77BQuJy3jahjdkKQNNNM</sub> |

@@ -693,3 +693,4 @@
 | 690 | Kong | Bonobo | Black Sands | 2025-01-12 | <sub>spotify:track:7Cg3F9ZsZ2TYUnlza49NYh</sub> |
 | 691 | Ungodly Fruit | Wax Tailor | Tales of the Forgotten Melodies | 2025-01-13 | <sub>spotify:track:0Ny30hfcHPaVkCBH4lsKhf</sub> |
 | 692 | Loner | Burial | Kindred EP | 2025-01-23 | <sub>spotify:track:2YpPrnbC5eVqLmCXVapIDo</sub> |
+| 693 | Sticky | FKA twigs | EUSEXUA | 2025-01-28 | <sub>spotify:track:3Si0hc3hxlehGK53jYjgVF</sub> |

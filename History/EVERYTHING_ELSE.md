@@ -332,3 +332,5 @@
 | 329 | Sweet Dreams | Angel Olsen | Phases | 2025-01-25 | <sub>spotify:track:12XRlY4wO4C7m7QVTx8Ot1</sub> |
 | 330 | ride the dragon | FKA twigs | CAPRISONGS | 2025-01-27 | <sub>spotify:track:15TXFTdwGEEL4jH9erTRnK</sub> |
 | 331 | Eusexua | FKA twigs | EUSEXUA | 2025-01-27 | <sub>spotify:track:6TeKbncyK62smlAvPy1dNa</sub> |
+| 332 | Two Weeks | FKA twigs | LP1 | 2025-01-28 | <sub>spotify:track:7E66uxFz2NtHWAyiGXotha</sub> |
+| 333 | meta angel | FKA twigs | CAPRISONGS | 2025-01-28 | <sub>spotify:track:6EeuY84I1Q3UJvpPN6iSzw</sub> |
