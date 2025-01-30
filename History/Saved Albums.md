@@ -262,3 +262,4 @@
 | 259 | M3LL155X | FKA twigs | 2025-01-27 | <sub>spotify:album:2RUX2ps4xMNTyI2iAwVyf3</sub> |
 | 260 | EUSEXUA | FKA twigs | 2025-01-28 | <sub>spotify:album:3o1TOhMkU5FFMSJMDhXfdF</sub> |
 | 261 | CAPRISONGS | FKA twigs | 2025-01-28 | <sub>spotify:album:3G77BQuJy3jahjdkKQNNNM</sub> |
+| 262 | LP1 | FKA twigs | 2025-01-29 | <sub>spotify:album:070rEVRV6FWywkncMWLhs6</sub> |

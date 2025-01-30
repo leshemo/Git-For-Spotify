@@ -334,3 +334,5 @@
 | 331 | Eusexua | FKA twigs | EUSEXUA | 2025-01-27 | <sub>spotify:track:6TeKbncyK62smlAvPy1dNa</sub> |
 | 332 | Two Weeks | FKA twigs | LP1 | 2025-01-28 | <sub>spotify:track:7E66uxFz2NtHWAyiGXotha</sub> |
 | 333 | meta angel | FKA twigs | CAPRISONGS | 2025-01-28 | <sub>spotify:track:6EeuY84I1Q3UJvpPN6iSzw</sub> |
+| 334 | Give Up | FKA twigs | LP1 | 2025-01-29 | <sub>spotify:track:7v7aWO4Rl8aMTmDNLaQSjT</sub> |
+| 335 | Girl Feels Good | FKA twigs | EUSEXUA | 2025-01-29 | <sub>spotify:track:536rHxlVFXGJBO2xWE7HsV</sub> |
