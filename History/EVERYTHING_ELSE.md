@@ -336,3 +336,4 @@
 | 333 | meta angel | FKA twigs | CAPRISONGS | 2025-01-28 | <sub>spotify:track:6EeuY84I1Q3UJvpPN6iSzw</sub> |
 | 334 | Give Up | FKA twigs | LP1 | 2025-01-29 | <sub>spotify:track:7v7aWO4Rl8aMTmDNLaQSjT</sub> |
 | 335 | Girl Feels Good | FKA twigs | EUSEXUA | 2025-01-29 | <sub>spotify:track:536rHxlVFXGJBO2xWE7HsV</sub> |
+| 336 | Striptease | FKA twigs | EUSEXUA | 2025-01-31 | <sub>spotify:track:5kILHrfMHQ4eFHZqnu4yY3</sub> |
