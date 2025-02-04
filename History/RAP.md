@@ -666,7 +666,7 @@
 | 663 | Đánh Đổi (ft. RPT MCK) | Obito, RPT MCK, Shiki | Đánh Đổi | 2023-12-19 | <sub>spotify:track:2doGmsaPLdot51o80juiYU</sub> |
 | 664 | Whiplash | Theophilus London, Tame Impala | Bebey | 2023-12-29 | <sub>spotify:track:3ubwpGT0gJYI9MRJcZPP0f</sub> |
 | 665 | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | The Alchemist, ScHoolboy Q | W.Y.G.D.T.N.S. (feat. ScHoolboy Q) | 2024-01-05 | <sub>spotify:track:7wwdta76VXZ80VVlJqvsRY</sub> |
-| 666 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
+| 666 | Pothole (feat. Jaden Smith) | Tyler, The Creator, Alexander Brettin, Jaden | Flower Boy | 2024-01-05 | <sub>spotify:track:5SxlUF7J8tyFIEF22EomeP</sub> |
 | 667 | Miracle Baby (feat. MAVI) | The Alchemist, MAVI | Miracle Baby (feat. MAVI) | 2024-01-06 | <sub>spotify:track:4WRSKZL0tcP4XZR0dtaVMc</sub> |
 | 668 | Woman | Little Simz, Cleo Sol | Sometimes I Might Be Introvert | 2024-01-08 | <sub>spotify:track:60GM1mA58L7SYD1bLQXBho</sub> |
 | 669 | 1985 | Freddie Gibbs, The Alchemist | Alfredo | 2024-01-10 | <sub>spotify:track:1p1b9LdLJ0REuFJX9mYtFX</sub> |
