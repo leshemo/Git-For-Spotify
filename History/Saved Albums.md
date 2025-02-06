@@ -263,3 +263,5 @@
 | 260 | EUSEXUA | FKA twigs | 2025-01-28 | <sub>spotify:album:3o1TOhMkU5FFMSJMDhXfdF</sub> |
 | 261 | CAPRISONGS | FKA twigs | 2025-01-28 | <sub>spotify:album:3G77BQuJy3jahjdkKQNNNM</sub> |
 | 262 | LP1 | FKA twigs | 2025-01-29 | <sub>spotify:album:070rEVRV6FWywkncMWLhs6</sub> |
+| 263 | Lemonade | Beyoncé | 2025-02-05 | <sub>spotify:album:7dK54iZuOxXFarGhXwEXfF</sub> |
+| 264 | No Name | Jack White | 2025-02-05 | <sub>spotify:album:4j6OkbZmVIqJYDLJbiWHbX</sub> |
