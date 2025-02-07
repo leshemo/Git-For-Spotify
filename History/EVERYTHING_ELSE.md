@@ -337,3 +337,4 @@
 | 334 | Give Up | FKA twigs | LP1 | 2025-01-29 | <sub>spotify:track:7v7aWO4Rl8aMTmDNLaQSjT</sub> |
 | 335 | Girl Feels Good | FKA twigs | EUSEXUA | 2025-01-29 | <sub>spotify:track:536rHxlVFXGJBO2xWE7HsV</sub> |
 | 336 | Striptease | FKA twigs | EUSEXUA | 2025-01-31 | <sub>spotify:track:5kILHrfMHQ4eFHZqnu4yY3</sub> |
+| 337 | Numbers | FKA twigs | LP1 | 2025-02-07 | <sub>spotify:track:1RLHxV6YYU1Fe1VP6ELV27</sub> |
