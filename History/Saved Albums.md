@@ -265,3 +265,5 @@
 | 262 | LP1 | FKA twigs | 2025-01-29 | <sub>spotify:album:070rEVRV6FWywkncMWLhs6</sub> |
 | 263 | Lemonade | Beyoncé | 2025-02-05 | <sub>spotify:album:7dK54iZuOxXFarGhXwEXfF</sub> |
 | 264 | No Name | Jack White | 2025-02-05 | <sub>spotify:album:4j6OkbZmVIqJYDLJbiWHbX</sub> |
+| 265 | And In The Darkness, Hearts Aglow | Weyes Blood | 2025-02-11 | <sub>spotify:album:1hngVRZt95TrqPqXoJzQ4A</sub> |
+| 266 | Titanic Rising | Weyes Blood | 2025-02-11 | <sub>spotify:album:0Cuqhgy8vm96JEkBY3polk</sub> |
