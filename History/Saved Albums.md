@@ -264,3 +264,4 @@
 | 261 | And In The Darkness, Hearts Aglow | Weyes Blood | 2025-02-11 | <sub>spotify:album:1hngVRZt95TrqPqXoJzQ4A</sub> |
 | 262 | Titanic Rising | Weyes Blood | 2025-02-11 | <sub>spotify:album:0Cuqhgy8vm96JEkBY3polk</sub> |
 | 263 | Untrue | Burial | 2025-03-14 | <sub>spotify:album:1iRPiEYHIX2zpF8lkW54SK</sub> |
+| 264 | In The Blue Light | Kelela | 2025-03-20 | <sub>spotify:album:2w1TWh1hbKQILEeEUzhICu</sub> |
