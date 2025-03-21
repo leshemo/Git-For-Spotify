@@ -341,3 +341,4 @@
 | 338 | Twin Flame | Weyes Blood | And In The Darkness, Hearts Aglow | 2025-02-11 | <sub>spotify:track:2HZasNmIAzprwJjFLPoSGM</sub> |
 | 339 | Nappy Wonder | Blood Orange | Negro Swan | 2025-02-12 | <sub>spotify:track:2ZGZV976wWwuA3qI3Q0q9k</sub> |
 | 340 | Andromeda | Weyes Blood | Titanic Rising | 2025-02-16 | <sub>spotify:track:51EMSRpNm9Rg5rGViVCczv</sub> |
+| 341 | Furry Sings the Blues (unplugged) | Kelela | In The Blue Light | 2025-03-20 | <sub>spotify:track:5DbsGLA9hVVclF8g6KWYai</sub> |
