@@ -78,7 +78,7 @@
 | 75 | Whole Lotta Love - 1990 Remaster | Led Zeppelin | Led Zeppelin II (1994 Remaster) | 2018-07-21 | <sub>spotify:track:0hCB0YR03f6AmQaHbwWDe8</sub> |
 | 76 | Do I Wanna Know? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:5FVd6KXrgO9B3JPmC8OPst</sub> |
 | 77 | R U Mine? | Arctic Monkeys | AM | 2018-08-01 | <sub>spotify:track:2AT8iROs4FQueDv2c8q2KE</sub> |
-| 78 | (I Can't Get No) Satisfaction - Mono Version | The Rolling Stones | Out Of Our Heads | 2018-08-01 | <sub>spotify:track:2PzU4IB8Dr6mxV3lHuaG34</sub> |
+| 78 | (I Can't Get No) Satisfaction - Mono | The Rolling Stones | Out Of Our Heads | 2018-08-01 | <sub>spotify:track:2PzU4IB8Dr6mxV3lHuaG34</sub> |
 | 79 | Beast Of Burden - Remastered 1994 | The Rolling Stones | Some Girls | 2018-08-01 | <sub>spotify:track:77oU2rjC5XbjQfNe3bD6so</sub> |
 | 80 | Teardrop | Massive Attack, Elizabeth Fraser | Mezzanine | 2018-09-30 | <sub>spotify:track:67Hna13dNDkZvBpTXRIaOJ</sub> |
 | 81 | Paradise Circus | Massive Attack, Hope Sandoval | Heligoland | 2018-09-30 | <sub>spotify:track:2BndJYJQ17UcEeUFJP5JmY</sub> |
